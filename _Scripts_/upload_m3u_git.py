@@ -7,7 +7,7 @@ from telegram import Bot
 import urllib3
 
 # Configuration
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 REPO_FULL_NAME = 'Darkbcn/_Code_'        # Formato: usuario/repositorio
 FILE_PATH = 'm3u/it.m3u'                 # Ruta del archivo en el repositorio
 M3U_URL = 'https://gtking.x10.mx/kongtking/kongtking.m3u'  # La URL puede ser una de las dos mencionadas
