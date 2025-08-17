@@ -26,12 +26,12 @@
         },
         {
             "type": "kernel",
-            "key": " Kernel  ",
+            "key": " Kernel    ",
             "keyColor": "yellow"
         },
         {
             "type": "wm",
-            "key": " WM      ",
+            "key": " WM        ",
             "keyColor": "blue"
         },
         {
@@ -40,12 +40,12 @@
         },
         {
             "type": "shell",
-            "key": " Shell   ",
+            "key": " Shell     ",
             "keyColor": "yellow"
         },
         {
             "type": "terminal",
-            "key": " Terminal",
+            "key": " Terminal  ",
             "keyColor": "blue"
         },
         {
@@ -54,13 +54,13 @@
         },
         {
             "type": "memory",
-            "key": "󰍛 RAM     ",
+            "key": "󰍛 RAM       ",
             "keyColor": "magenta",
             "format": "{1} / {2}"
         },
         {
             "type": "uptime",
-            "key": "󰔛 Uptime  ",
+            "key": "󰔛 Uptime    ",
             "keyColor": "green"
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "type": "publicip",
-            "key": "󰒋 IP      ",
+            "key": "󰒋 World IP ",
             "keyColor": "cyan"
         },
         {
             "type": "localip",
-            "key": "󰒋 IP      ",
+            "key": "󰒋 Local IP ",
             "keyColor": "cyan",
             "format": "{ipv4}"
         },
