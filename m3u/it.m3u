@@ -1043,6 +1043,8 @@ http://martepro.com:2082/dtox/dtox2021/124967
 http://martepro.com:2082/dtox/dtox2021/124968
 #EXTINF:-1 tvg-id="" tvg-name="BenficaTV Multicam 4" tvg-logo="" group-title="Portugal",BenficaTV Multicam 4
 http://martepro.com:2082/dtox/dtox2021/124969
+#EXTINF:-1 tvg-id="" tvg-name="kanuca tv" tvg-logo="" group-title="Portugal",kanuca tv
+http://martepro.com:2082/dtox/dtox2021/125190
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -8245,8 +8247,6 @@ http://martepro.com:2082/dtox/dtox2021/87320
 http://martepro.com:2082/dtox/dtox2021/87321
 #EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel HD" tvg-logo="http://tvgo.re:8080/images/813513ce030768aab17b38d54a047587.png" group-title="Usa",USA: Discovery Channel HD
 http://martepro.com:2082/dtox/dtox2021/87322
-#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel FHD" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" group-title="Usa",USA: Discovery Channel FHD
-http://martepro.com:2082/dtox/dtox2021/87323
 #EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Life" tvg-logo="" group-title="Usa",USA: Discovery Life
 http://martepro.com:2082/dtox/dtox2021/87324
 #EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Science HD" tvg-logo="https://static.epg.best/br/DiscoveryScience.br.png" group-title="Usa",USA: Discovery Science HD
@@ -8899,6 +8899,8 @@ http://martepro.com:2082/dtox/dtox2021/87700
 http://martepro.com:2082/dtox/dtox2021/124106
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS BAY ARENA PLUS" tvg-logo="" group-title="Usa",SPORTS BAY ARENA PLUS
 http://martepro.com:2082/dtox/dtox2021/124107
+#EXTINF:-1 tvg-id="" tvg-name="LiveNOW from FOX" tvg-logo="" group-title="Usa",LiveNOW from FOX
+http://martepro.com:2082/dtox/dtox2021/125189
 #EXTINF:-1 tvg-id="" tvg-name="BE | BE1  FHD" tvg-logo="" group-title="BELGICALOCAL",BE | BE1  FHD
 http://martepro.com:2082/dtox/dtox2021/97947
 #EXTINF:-1 tvg-id="" tvg-name="BE | ATV HD" tvg-logo="" group-title="BELGICALOCAL",BE | ATV HD
