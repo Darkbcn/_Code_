@@ -1639,7 +1639,7 @@ http://martepro.com:2082/dtox/dtox2021/390
 http://martepro.com:2082/dtox/dtox2021/391
 #EXTINF:-1 tvg-id="" tvg-name="TOM E OS AMIGOS "looney"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/MTTF2020.png" group-title="EXCLUSIVOS LOONEY",TOM E OS AMIGOS "looney"
 http://martepro.com:2082/dtox/dtox2021/393
-#EXTINF:-1 tvg-id="" tvg-name="THE VOICE /KIDS "looney"" tvg-logo="https://www.vhv.rs/dpng/d/517-5172714_transparent-the-voice-logo-hd-png-download.png" group-title="EXCLUSIVOS LOONEY",THE VOICE /KIDS "looney"
+#EXTINF:-1 tvg-id="" tvg-name="Jason Statham "looney"" tvg-logo="https://k0sen.github.io/homepage/assets/img/logo.png" group-title="EXCLUSIVOS LOONEY",Jason Statham "looney"
 http://martepro.com:2082/dtox/dtox2021/394
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA GUERRA "looney"" tvg-logo="https://logos.flamingtext.com/Name-Logos/Guerra-design-amped-name.png" group-title="EXCLUSIVOS LOONEY",CINEMA GUERRA "looney"
 http://martepro.com:2082/dtox/dtox2021/395
@@ -1947,8 +1947,6 @@ http://martepro.com:2082/dtox/dtox2021/123875
 http://martepro.com:2082/dtox/dtox2021/123876
 #EXTINF:-1 tvg-id="" tvg-name="LAURINHA E FELIPINHO" tvg-logo="" group-title="EXCLUSIVOS",LAURINHA E FELIPINHO
 http://martepro.com:2082/dtox/dtox2021/123877
-#EXTINF:-1 tvg-id="" tvg-name="Tom Sawyer" tvg-logo="" group-title="EXCLUSIVOS",Tom Sawyer
-http://martepro.com:2082/dtox/dtox2021/123878
 #EXTINF:-1 tvg-id="" tvg-name="Dartacão" tvg-logo="" group-title="EXCLUSIVOS",Dartacão
 http://martepro.com:2082/dtox/dtox2021/123879
 #EXTINF:-1 tvg-id="" tvg-name="EXCLUSIVO PI100PÉ" tvg-logo="" group-title="EXCLUSIVOS",EXCLUSIVO PI100PÉ
@@ -2239,7 +2237,7 @@ http://martepro.com:2082/dtox/dtox2021/90498
 http://martepro.com:2082/dtox/dtox2021/90499
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ОХ-АХ HD" tvg-logo="" group-title="Adultos",XXX: ОХ-АХ HD
 http://martepro.com:2082/dtox/dtox2021/90500
-#EXTINF:-1 tvg-id="" tvg-name="|XXX|| BRASIL PORNO" tvg-logo="" group-title="Adultos",|XXX|| BRASIL PORNO
+#EXTINF:-1 tvg-id="" tvg-name="|XXX|| Family Hookups" tvg-logo="" group-title="Adultos",|XXX|| Family Hookups
 http://martepro.com:2082/dtox/dtox2021/90501
 #EXTINF:-1 tvg-id="" tvg-name="Blacked HD" tvg-logo="" group-title="Adultos",Blacked HD
 http://martepro.com:2082/dtox/dtox2021/90502
@@ -11469,6 +11467,12 @@ http://martepro.com:2082/dtox/dtox2021/95944
 http://martepro.com:2082/dtox/dtox2021/95945
 #EXTINF:-1 tvg-id="" tvg-name="VIP: X Gold 2 HD" tvg-logo="" group-title="ALBANIALOCAL",VIP: X Gold 2 HD
 http://martepro.com:2082/dtox/dtox2021/95946
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kosova" tvg-logo="" group-title="ALBANIALOCAL",Big Brother VIP Kosova
+http://martepro.com:2082/dtox/dtox2021/125191
+#EXTINF:-1 tvg-id="" tvg-name="BigBrother 1" tvg-logo="" group-title="ALBANIALOCAL",BigBrother 1
+http://martepro.com:2082/dtox/dtox2021/125192
+#EXTINF:-1 tvg-id="" tvg-name="BigBrother 2" tvg-logo="" group-title="ALBANIALOCAL",BigBrother 2
+http://martepro.com:2082/dtox/dtox2021/125193
 #EXTINF:-1 tvg-id="" tvg-name="⥃ SWEDEN ⥂" tvg-logo="https://i.imgur.com/0jhN0bn.png" group-title="SUECIALOCAL",⥃ SWEDEN ⥂
 http://martepro.com:2082/dtox/dtox2021/95541
 #EXTINF:-1 tvg-id="" tvg-name="SVT1 SE" tvg-logo="https://i.imgur.com/Bi2KL0m.png" group-title="SUECIALOCAL",SVT1 SE
@@ -14397,8 +14401,6 @@ http://martepro.com:2082/dtox/dtox2021/98596
 http://martepro.com:2082/dtox/dtox2021/98597
 #EXTINF:-1 tvg-id="" tvg-name="Mooz Hits" tvg-logo="https://static.cinemagia.ro/img/tv_station/mooz-hits.jpg" group-title="Romania",Mooz Hits
 http://martepro.com:2082/dtox/dtox2021/98598
-#EXTINF:-1 tvg-id="" tvg-name="MTV 90" tvg-logo="https://static.cinemagia.ro/img/tv_station/mtv-90s.jpg" group-title="Romania",MTV 90
-http://martepro.com:2082/dtox/dtox2021/98599
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.cinemagia.ro/img/tv_station/mtv-europe.jpg" group-title="Romania",MTV
 http://martepro.com:2082/dtox/dtox2021/98600
 #EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://static.cinemagia.ro/img/tv_station/mtv-hits.jpg" group-title="Romania",MTV Hits
