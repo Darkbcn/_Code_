@@ -469,7 +469,7 @@ http://martepro.com:2082/dtox/dtox2021/72164
 http://martepro.com:2082/dtox/dtox2021/98169
 #EXTINF:-1 tvg-id="" tvg-name="Panda Kids FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9-300x193.png" group-title="Portugal",Panda Kids FHD
 http://martepro.com:2082/dtox/dtox2021/77546
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS " tvg-logo="" group-title="Portugal",PANDA BIGGS 
+#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS sd" tvg-logo="" group-title="Portugal",PANDA BIGGS sd
 http://martepro.com:2082/dtox/dtox2021/70096
 #EXTINF:-1 tvg-id="" tvg-name="Lolly Kids sd" tvg-logo="" group-title="Portugal",Lolly Kids sd
 http://martepro.com:2082/dtox/dtox2021/70225
@@ -733,8 +733,6 @@ http://martepro.com:2082/dtox/dtox2021/99441
 http://martepro.com:2082/dtox/dtox2021/79170
 #EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA sd" tvg-logo="" group-title="Portugal",TRACE TOCA sd
 http://martepro.com:2082/dtox/dtox2021/70165
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="" group-title="Portugal",MTV 00's
-http://martepro.com:2082/dtox/dtox2021/70167
 #EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" tvg-logo="https://w7.pngwing.com/pngs/446/884/png-transparent-youtube-music-producer-olamide-baddo-live-in-oslo-rapper-afro-television-text-logo.png" group-title="Portugal",AFRO MUSIC
 http://martepro.com:2082/dtox/dtox2021/70092
 #EXTINF:-1 tvg-id="" tvg-name="MCM POP SD" tvg-logo="" group-title="Portugal",MCM POP SD
@@ -891,8 +889,6 @@ http://martepro.com:2082/dtox/dtox2021/123322
 http://martepro.com:2082/dtox/dtox2021/123324
 #EXTINF:-1 tvg-id="" tvg-name="NOW 80s HD" tvg-logo="" group-title="Portugal",NOW 80s HD
 http://martepro.com:2082/dtox/dtox2021/123325
-#EXTINF:-1 tvg-id="" tvg-name="NOW 90s HD" tvg-logo="" group-title="Portugal",NOW 90s HD
-http://martepro.com:2082/dtox/dtox2021/123326
 #EXTINF:-1 tvg-id="" tvg-name="Master Show SD" tvg-logo="" group-title="Portugal",Master Show SD
 http://martepro.com:2082/dtox/dtox2021/123327
 #EXTINF:-1 tvg-id="" tvg-name="PT | Nick Music HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EJKK30YtIgNL36pOkGLkSHwiM0AQ0BAXcQ&usqp=CAU" group-title="Portugal",PT | Nick Music HD
@@ -1039,7 +1035,7 @@ http://martepro.com:2082/dtox/dtox2021/125196
 http://martepro.com:2082/dtox/dtox2021/125197
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 sd" tvg-logo="" group-title="Portugal",EUROSPORT 2 sd
 http://martepro.com:2082/dtox/dtox2021/125198
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK sd" tvg-logo="" group-title="Portugal",FIGHT NETWORK sd
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="" group-title="Portugal",FIGHT NETWORK
 http://martepro.com:2082/dtox/dtox2021/125199
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS sd" tvg-logo="" group-title="Portugal",GLOBO NEWS sd
 http://martepro.com:2082/dtox/dtox2021/125200
@@ -1093,6 +1089,26 @@ http://martepro.com:2082/dtox/dtox2021/125223
 http://martepro.com:2082/dtox/dtox2021/125224
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="Portugal",GLOBO NEWS FHD
 http://martepro.com:2082/dtox/dtox2021/125225
+#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS FHD" tvg-logo="" group-title="Portugal",PANDA BIGGS FHD
+http://martepro.com:2082/dtox/dtox2021/125226
+#EXTINF:-1 tvg-id="" tvg-name="LUXE vdf" tvg-logo="" group-title="Portugal",LUXE vdf
+http://martepro.com:2082/dtox/dtox2021/125227
+#EXTINF:-1 tvg-id="" tvg-name="Fast&Fun Box  vdf" tvg-logo="" group-title="Portugal",Fast&Fun Box  vdf
+http://martepro.com:2082/dtox/dtox2021/125228
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape" tvg-logo="" group-title="Portugal",Stingray Naturescape
+http://martepro.com:2082/dtox/dtox2021/125229
+#EXTINF:-1 tvg-id="" tvg-name="Utsav Gold" tvg-logo="" group-title="Portugal",Utsav Gold
+http://martepro.com:2082/dtox/dtox2021/125230
+#EXTINF:-1 tvg-id="" tvg-name="Utsav Plus" tvg-logo="" group-title="Portugal",Utsav Plus
+http://martepro.com:2082/dtox/dtox2021/125231
+#EXTINF:-1 tvg-id="" tvg-name="VOX vdf" tvg-logo="" group-title="Portugal",VOX vdf
+http://martepro.com:2082/dtox/dtox2021/125232
+#EXTINF:-1 tvg-id="" tvg-name="CONNECT TV meo" tvg-logo="" group-title="Portugal",CONNECT TV meo
+http://martepro.com:2082/dtox/dtox2021/125233
+#EXTINF:-1 tvg-id="" tvg-name="CONTA LA meo" tvg-logo="" group-title="Portugal",CONTA LA meo
+http://martepro.com:2082/dtox/dtox2021/125234
+#EXTINF:-1 tvg-id="" tvg-name="x sports MEO" tvg-logo="" group-title="Portugal",x sports MEO
+http://martepro.com:2082/dtox/dtox2021/125235
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -1381,8 +1397,6 @@ http://martepro.com:2082/dtox/dtox2021/94932
 http://martepro.com:2082/dtox/dtox2021/72936
 #EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 5 HD ᴴ²⁶⁵" tvg-logo="" group-title="Portugal Hvec",|PT| SPORT TV 5 HD ᴴ²⁶⁵
 http://martepro.com:2082/dtox/dtox2021/269
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD 264" tvg-logo="" group-title="Portugal Hvec",SPORT TV 5 HD 264
-http://martepro.com:2082/dtox/dtox2021/94933
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 FHD 265" tvg-logo="" group-title="Portugal Hvec",SPORT TV 5 FHD 265
 http://martepro.com:2082/dtox/dtox2021/72937
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD 264" tvg-logo="" group-title="Portugal Hvec",SPORT TV 6 HD 264
@@ -1769,14 +1783,6 @@ http://martepro.com:2082/dtox/dtox2021/100597
 http://martepro.com:2082/dtox/dtox2021/100598
 #EXTINF:-1 tvg-id="" tvg-name="Jim Carrey" tvg-logo="https://e7.pngegg.com/pngimages/100/977/png-clipart-jim-carrey-ace-ventura-pet-detective-lt-lois-einhorn-melissa-robinson-youtube-youtube-food-film.png" group-title="EXCLUSIVOS LOONEY",Jim Carrey
 http://martepro.com:2082/dtox/dtox2021/100599
-#EXTINF:-1 tvg-id="" tvg-name="Mr Bean comedy" tvg-logo="https://w7.pngwing.com/pngs/286/223/png-transparent-mr-bean-graphic-animation-drawing-cartoon-game-mr-bean-heroes-text-hand.png" group-title="EXCLUSIVOS LOONEY",Mr Bean comedy
-http://martepro.com:2082/dtox/dtox2021/100600
-#EXTINF:-1 tvg-id="" tvg-name="Charlie Chaplin comedy" tvg-logo="https://i.pinimg.com/originals/42/4f/e9/424fe929e3da752d4e112657b110315a.png" group-title="EXCLUSIVOS LOONEY",Charlie Chaplin comedy
-http://martepro.com:2082/dtox/dtox2021/100601
-#EXTINF:-1 tvg-id="" tvg-name="Futebol Clube do Porto" tvg-logo="https://e1.pngegg.com/pngimages/251/888/png-clipart-team-logos-fcp-logo.png" group-title="EXCLUSIVOS LOONEY",Futebol Clube do Porto
-http://martepro.com:2082/dtox/dtox2021/100602
-#EXTINF:-1 tvg-id="" tvg-name="Sport Lisboa e Benfica" tvg-logo="https://e7.pngegg.com/pngimages/349/562/png-clipart-logo-organization-s-l-benfica-badge-flamula-logo-badge.png" group-title="EXCLUSIVOS LOONEY",Sport Lisboa e Benfica
-http://martepro.com:2082/dtox/dtox2021/100603
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX PORTUGAL" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png" group-title="EXCLUSIVOS",HBO MAX PORTUGAL
 http://martepro.com:2082/dtox/dtox2021/106647
 #EXTINF:-1 tvg-id="" tvg-name="Columbia Pictures" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Columbia-Pictures-Logo-1981.png" group-title="EXCLUSIVOS LOONEY",Columbia Pictures
@@ -2007,9 +2013,9 @@ http://martepro.com:2082/dtox/dtox2021/124179
 http://martepro.com:2082/dtox/dtox2021/124180
 #EXTINF:-1 tvg-id="" tvg-name="Captain Tsubasa" tvg-logo="" group-title="EXCLUSIVOS",Captain Tsubasa
 http://martepro.com:2082/dtox/dtox2021/124181
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV" tvg-logo="" group-title="EXCLUSIVOS",PLUTO-TV
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV" tvg-logo="" group-title="EXCLUSIVOS LOONEY",PLUTO-TV
 http://martepro.com:2082/dtox/dtox2021/124182
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV II" tvg-logo="" group-title="EXCLUSIVOS",PLUTO-TV II
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV II" tvg-logo="" group-title="EXCLUSIVOS LOONEY",PLUTO-TV II
 http://martepro.com:2082/dtox/dtox2021/124183
 #EXTINF:-1 tvg-id="" tvg-name="Mares Vivas" tvg-logo="" group-title="EXCLUSIVOS",Mares Vivas
 http://martepro.com:2082/dtox/dtox2021/125179
@@ -2279,8 +2285,6 @@ http://martepro.com:2082/dtox/dtox2021/90495
 http://martepro.com:2082/dtox/dtox2021/90496
 #EXTINF:-1 tvg-id="" tvg-name="XXX: O-LA-LA" tvg-logo="" group-title="Adultos",XXX: O-LA-LA
 http://martepro.com:2082/dtox/dtox2021/90497
-#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="" group-title="Adultos",BLUE HUSTLER
-http://martepro.com:2082/dtox/dtox2021/90498
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Русская ночь" tvg-logo="" group-title="Adultos",XXX: Русская ночь
 http://martepro.com:2082/dtox/dtox2021/90499
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ОХ-АХ HD" tvg-logo="" group-title="Adultos",XXX: ОХ-АХ HD
@@ -2631,8 +2635,6 @@ http://martepro.com:2082/dtox/dtox2021/96645
 http://martepro.com:2082/dtox/dtox2021/96646
 #EXTINF:-1 tvg-id="" tvg-name="XXX | Pornmonster?: Gay 01" tvg-logo="" group-title="Adultos",XXX | Pornmonster?: Gay 01
 http://martepro.com:2082/dtox/dtox2021/96647
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD" tvg-logo="" group-title="Adultos",Penthouse Gold FHD
-http://martepro.com:2082/dtox/dtox2021/96648
 #EXTINF:-1 tvg-id="" tvg-name="XXX Private FHD" tvg-logo="" group-title="Adultos",XXX Private FHD
 http://martepro.com:2082/dtox/dtox2021/96649
 #EXTINF:-1 tvg-id="" tvg-name="||XXX|| AdultIPTV.net Lesbian" tvg-logo="" group-title="Adultos",||XXX|| AdultIPTV.net Lesbian
@@ -3433,10 +3435,6 @@ http://martepro.com:2082/dtox/dtox2021/94445
 http://martepro.com:2082/dtox/dtox2021/94446
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",BAND SPORTS [HVEC/H265]
 http://martepro.com:2082/dtox/dtox2021/94447
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",FOX SPORTS 2 [HVEC/H265]
-http://martepro.com:2082/dtox/dtox2021/94448
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",FOX SPORTS 1 [HVEC/H265]
-http://martepro.com:2082/dtox/dtox2021/94449
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",TELECINE ACTION [HVEC/H265]
 http://martepro.com:2082/dtox/dtox2021/94450
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",TELECINE TOUCH [HVEC/H265]
@@ -3501,51 +3499,51 @@ http://martepro.com:2082/dtox/dtox2021/94479
 http://martepro.com:2082/dtox/dtox2021/94480
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",ESPN BRASIL [HVEC/H265]
 http://martepro.com:2082/dtox/dtox2021/94481
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 01 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV MAX" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV MAX
 http://martepro.com:2082/dtox/dtox2021/32257
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 02 HD
+#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="" group-title="BRASILEXCLUSIVOS",ISTV
 http://martepro.com:2082/dtox/dtox2021/32258
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 03 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV PLANALTO NORTE" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV PLANALTO NORTE
 http://martepro.com:2082/dtox/dtox2021/32259
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 04 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV WTMUSICA" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV WTMUSICA
 http://martepro.com:2082/dtox/dtox2021/32262
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 05 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV GRANDE NATAL" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV GRANDE NATAL
 http://martepro.com:2082/dtox/dtox2021/32268
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 06 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV CANAL 10" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV CANAL 10
 http://martepro.com:2082/dtox/dtox2021/32270
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 07 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV BRUSQUES" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV BRUSQUES
 http://martepro.com:2082/dtox/dtox2021/32274
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 09 HD
+#EXTINF:-1 tvg-id="" tvg-name="TV A FOLHA" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV A FOLHA
 http://martepro.com:2082/dtox/dtox2021/32275
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 08 HD
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",MASTER TV
 http://martepro.com:2082/dtox/dtox2021/32276
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE SKY 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="BOAS NOVAS TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",BOAS NOVAS TV
 http://martepro.com:2082/dtox/dtox2021/32277
-#EXTINF:-1 tvg-id="" tvg-name="TOM E OS AMIGOS" tvg-logo="" group-title="BRASILEXCLUSIVOS",TOM E OS AMIGOS
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",BOA VONTADE TV
 http://martepro.com:2082/dtox/dtox2021/32278
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA MUSICAL" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINEMA MUSICAL
+#EXTINF:-1 tvg-id="" tvg-name="TV COM BRASIL" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV COM BRASIL
 http://martepro.com:2082/dtox/dtox2021/32280
-#EXTINF:-1 tvg-id="" tvg-name="TOP MIX TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",TOP MIX TV
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="BRASILEXCLUSIVOS",REDE BRASIL
 http://martepro.com:2082/dtox/dtox2021/32281
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA COMEDIA" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINEMA COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="TV METROPOLE" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV METROPOLE
 http://martepro.com:2082/dtox/dtox2021/32282
-#EXTINF:-1 tvg-id="" tvg-name="WB KIDS" tvg-logo="" group-title="BRASILEXCLUSIVOS",WB KIDS
+#EXTINF:-1 tvg-id="" tvg-name="TVITAPE" tvg-logo="" group-title="BRASILEXCLUSIVOS",TVITAPE
 http://martepro.com:2082/dtox/dtox2021/32283
-#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="" group-title="BRASILEXCLUSIVOS",MIRACULOUS
+#EXTINF:-1 tvg-id="" tvg-name="ARARUNA TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",ARARUNA TV
 http://martepro.com:2082/dtox/dtox2021/32284
-#EXTINF:-1 tvg-id="" tvg-name="APAIXONADOS POR SERIES" tvg-logo="" group-title="BRASILEXCLUSIVOS",APAIXONADOS POR SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TV ARUPUAN" tvg-logo="" group-title="BRASILEXCLUSIVOS",TV ARUPUAN
 http://martepro.com:2082/dtox/dtox2021/32285
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA BOLLYWOOD" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINEMA BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="SESCTV" tvg-logo="" group-title="BRASILEXCLUSIVOS",SESCTV
 http://martepro.com:2082/dtox/dtox2021/32286
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL VS DC" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINE MARVEL VS DC
+#EXTINF:-1 tvg-id="" tvg-name="REDE NGT" tvg-logo="" group-title="BRASILEXCLUSIVOS",REDE NGT
 http://martepro.com:2082/dtox/dtox2021/68805
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA  JACKIE CHAN" tvg-logo="" group-title="BRASILEXCLUSIVOS",CINEMA  JACKIE CHAN
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 25" tvg-logo="" group-title="BRASILEXCLUSIVOS",CANAL 25
 http://martepro.com:2082/dtox/dtox2021/68806
-#EXTINF:-1 tvg-id="" tvg-name="APANHADOS" tvg-logo="" group-title="BRASILEXCLUSIVOS",APANHADOS
+#EXTINF:-1 tvg-id="" tvg-name="CABO FRIO TV" tvg-logo="" group-title="BRASILEXCLUSIVOS",CABO FRIO TV
 http://martepro.com:2082/dtox/dtox2021/68808
 #EXTINF:-1 tvg-id="" tvg-name="tv cines +" tvg-logo="" group-title="BRASILEXCLUSIVOS",tv cines +
 http://martepro.com:2082/dtox/dtox2021/68813
-#EXTINF:-1 tvg-id="" tvg-name="Rede Tv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40310039540944a5c70fa514a028a399.webp" group-title="BRASILEXCLUSIVOS",Rede Tv Mais
+#EXTINF:-1 tvg-id="" tvg-name="LOADING TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40310039540944a5c70fa514a028a399.webp" group-title="BRASILEXCLUSIVOS",LOADING TV
 http://martepro.com:2082/dtox/dtox2021/68842
 #EXTINF:-1 tvg-id="" tvg-name="MundoTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb82f6fd9799db20a7129633e7a605b.webp" group-title="BRASILEXCLUSIVOS",MundoTV
 http://martepro.com:2082/dtox/dtox2021/68843
@@ -3899,8 +3897,6 @@ http://martepro.com:2082/dtox/dtox2021/97687
 http://martepro.com:2082/dtox/dtox2021/97688
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal Extremadura" tvg-logo="" group-title="ESPANHALOCAL",ES: Canal Extremadura
 http://martepro.com:2082/dtox/dtox2021/97689
-#EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV 2" tvg-logo="" group-title="ESPANHALOCAL",ES: Galicia TV 2
-http://martepro.com:2082/dtox/dtox2021/97690
 #EXTINF:-1 tvg-id="" tvg-name="ES: GIRONA TV" tvg-logo="" group-title="ESPANHALOCAL",ES: GIRONA TV
 http://martepro.com:2082/dtox/dtox2021/97691
 #EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV" tvg-logo="" group-title="ESPANHALOCAL",ES: HIT TV
@@ -7189,7 +7185,7 @@ http://martepro.com:2082/dtox/dtox2021/95212
 http://martepro.com:2082/dtox/dtox2021/95213
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ Notizie ✦●✦" tvg-logo="" group-title="ITALIALOCAL",✦●✦ Notizie ✦●✦
 http://martepro.com:2082/dtox/dtox2021/95214
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24 HD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24
 http://martepro.com:2082/dtox/dtox2021/95216
 #EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24 FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24 FHD
 http://martepro.com:2082/dtox/dtox2021/95215
@@ -9403,8 +9399,6 @@ http://martepro.com:2082/dtox/dtox2021/93665
 http://martepro.com:2082/dtox/dtox2021/93666
 #EXTINF:-1 tvg-id="" tvg-name="RUS:-FilmBox Arthouse" tvg-logo="" group-title="RUSSIALOCAL",RUS:-FilmBox Arthouse
 http://martepro.com:2082/dtox/dtox2021/93667
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Fashion TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Fashion TV
-http://martepro.com:2082/dtox/dtox2021/93668
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Amedia Premium HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Amedia Premium HD
 http://martepro.com:2082/dtox/dtox2021/93669
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Animal Family HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Animal Family HD
@@ -12131,8 +12125,6 @@ http://martepro.com:2082/dtox/dtox2021/93857
 http://martepro.com:2082/dtox/dtox2021/93858
 #EXTINF:-1 tvg-id="" tvg-name="At: Sky Sport Austria 2 HD" tvg-logo="" group-title="AUSTRIALOCAL",At: Sky Sport Austria 2 HD
 http://martepro.com:2082/dtox/dtox2021/93859
-#EXTINF:-1 tvg-id="" tvg-name="At: Vox HD" tvg-logo="" group-title="AUSTRIALOCAL",At: Vox HD
-http://martepro.com:2082/dtox/dtox2021/93860
 #EXTINF:-1 tvg-id="" tvg-name="AT: welt der wunder FHD" tvg-logo="" group-title="AUSTRIALOCAL",AT: welt der wunder FHD
 http://martepro.com:2082/dtox/dtox2021/93861
 #EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/srf_1_ch.png" group-title="SUICALOCAL",CH: SRF 1
