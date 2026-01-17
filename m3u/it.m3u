@@ -727,8 +727,6 @@ http://martepro.com:2082/dtox/dtox2021/99468
 http://martepro.com:2082/dtox/dtox2021/99438
 #EXTINF:-1 tvg-id="" tvg-name="1MUS" tvg-logo="http://live21.site/LOGOS/PiconsPT/%20R%c3%81DIO.png" group-title="Portugal",1MUS
 http://martepro.com:2082/dtox/dtox2021/99440
-#EXTINF:-1 tvg-id="" tvg-name="MTV Block Party HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_beats_in.png" group-title="Portugal",MTV Block Party HD
-http://martepro.com:2082/dtox/dtox2021/99441
 #EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUCA sd" tvg-logo="" group-title="Portugal",TRACE BRAZUCA sd
 http://martepro.com:2082/dtox/dtox2021/79170
 #EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA sd" tvg-logo="" group-title="Portugal",TRACE TOCA sd
@@ -771,16 +769,6 @@ http://martepro.com:2082/dtox/dtox2021/99472
 http://martepro.com:2082/dtox/dtox2021/70188
 #EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL FHD " tvg-logo="" group-title="Portugal",MTV PORTUGAL FHD 
 http://martepro.com:2082/dtox/dtox2021/70202
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE ᶠᴴᴰ" tvg-logo="" group-title="Portugal",MTV LIVE ᶠᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/99473
-#EXTINF:-1 tvg-id="" tvg-name="MTV 90s ˢᵈ" tvg-logo="" group-title="Portugal",MTV 90s ˢᵈ
-http://martepro.com:2082/dtox/dtox2021/99474
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS ᴴᴰ" tvg-logo="" group-title="Portugal",MTV HITS ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/99475
-#EXTINF:-1 tvg-id="" tvg-name="MTV ClASSIC ˢᵈ" tvg-logo="" group-title="Portugal",MTV ClASSIC ˢᵈ
-http://martepro.com:2082/dtox/dtox2021/99476
-#EXTINF:-1 tvg-id="" tvg-name="MTV BASE ˢᵈ" tvg-logo="" group-title="Portugal",MTV BASE ˢᵈ
-http://martepro.com:2082/dtox/dtox2021/99477
 #EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA ᶠᴴᴰ" tvg-logo="" group-title="Portugal",TRACE AFRICA ᶠᴴᴰ
 http://martepro.com:2082/dtox/dtox2021/99492
 #EXTINF:-1 tvg-id="" tvg-name="TRACE Kitoko ᶠᴴᴰ" tvg-logo="" group-title="Portugal",TRACE Kitoko ᶠᴴᴰ
@@ -1249,8 +1237,6 @@ http://martepro.com:2082/dtox/dtox2021/70637
 http://martepro.com:2082/dtox/dtox2021/70613
 #EXTINF:-1 tvg-id="" tvg-name="SIC K LOW" tvg-logo="" group-title="Portugal Low",SIC K LOW
 http://martepro.com:2082/dtox/dtox2021/99434
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV LOW" tvg-logo="" group-title="Portugal Low",BABY TV LOW
-http://martepro.com:2082/dtox/dtox2021/70610
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO LOW" tvg-logo="" group-title="Portugal Low",CARTOONITO LOW
 http://martepro.com:2082/dtox/dtox2021/99435
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK LOW" tvg-logo="" group-title="Portugal Low",CARTOON NETWORK LOW
@@ -3351,6 +3337,32 @@ http://martepro.com:2082/dtox/dtox2021/123874
 http://martepro.com:2082/dtox/dtox2021/123881
 #EXTINF:-1 tvg-id="" tvg-name="TV Bandeirantes São Paulo " tvg-logo="" group-title="Brasil2",TV Bandeirantes São Paulo 
 http://martepro.com:2082/dtox/dtox2021/124970
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil" tvg-logo="" group-title="Brasil2",Big Brother Brasil
+http://martepro.com:2082/dtox/dtox2021/125236
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 01) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 01) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125237
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 02) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 02) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125238
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 03) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 03) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125239
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 04) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 04) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125240
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 05) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 05) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125241
+#EXTINF:-1 tvg-id="" tvg-name=" Big Brother Brasil (CAM 06) |ᴴᴰ" tvg-logo="" group-title="Brasil2", Big Brother Brasil (CAM 06) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125242
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 07) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 07) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125243
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 08) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 08) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125244
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 09) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 09) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125245
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 10) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 10) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125246
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 11) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 11) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125247
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 12) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 12) |ᴴᴰ
+http://martepro.com:2082/dtox/dtox2021/125248
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",SPORTV 3 [HVEC/H265]
 http://martepro.com:2082/dtox/dtox2021/94406
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",SPORTV 2 [HVEC/H265]
@@ -17427,8 +17439,6 @@ http://martepro.com:2082/dtox/dtox2021/117890
 http://martepro.com:2082/dtox/dtox2021/117891
 #EXTINF:-1 tvg-id="" tvg-name="BR | BBB Cam 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a95331c32f30a40d40e427cd77a22f17.png" group-title="BBB24",BR | BBB Cam 1ⓧ HD
 http://martepro.com:2082/dtox/dtox2021/123118
-#EXTINF:-1 tvg-id="" tvg-name="BR | BBB Cam 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a95331c32f30a40d40e427cd77a22f17.png" group-title="BBB24",BR | BBB Cam 2ⓧ HD
-http://martepro.com:2082/dtox/dtox2021/123119
 #EXTINF:-1 tvg-id="" tvg-name="BR | BBB Cam 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a95331c32f30a40d40e427cd77a22f17.png" group-title="BBB24",BR | BBB Cam 3ⓧ HD
 http://martepro.com:2082/dtox/dtox2021/123120
 #EXTINF:-1 tvg-id="" tvg-name="BR | BBB Cam 4ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a95331c32f30a40d40e427cd77a22f17.png" group-title="BBB24",BR | BBB Cam 4ⓧ HD
