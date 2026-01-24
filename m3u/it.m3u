@@ -235,7 +235,7 @@ http://martepro.com:2082/dtox/dtox2021/70238
 http://martepro.com:2082/dtox/dtox2021/70239
 #EXTINF:-1 tvg-id="" tvg-name="SAUDE + FHD" tvg-logo="" group-title="Portugal",SAUDE + FHD
 http://martepro.com:2082/dtox/dtox2021/70215
-#EXTINF:-1 tvg-id="" tvg-name="W-Sport ˢᵈ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="Portugal",W-Sport ˢᵈ
+#EXTINF:-1 tvg-id="" tvg-name="W-Sport HD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="Portugal",W-Sport HD
 http://martepro.com:2082/dtox/dtox2021/100605
 #EXTINF:-1 tvg-id="" tvg-name="W-Sport ᶠᴴᴰ" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2021/09/14110530/W-Sport-Tagline.png" group-title="Portugal",W-Sport ᶠᴴᴰ
 http://martepro.com:2082/dtox/dtox2021/100606
@@ -1097,6 +1097,10 @@ http://martepro.com:2082/dtox/dtox2021/125233
 http://martepro.com:2082/dtox/dtox2021/125234
 #EXTINF:-1 tvg-id="" tvg-name="x sports MEO" tvg-logo="" group-title="Portugal",x sports MEO
 http://martepro.com:2082/dtox/dtox2021/125235
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Sport Tv " tvg-logo="" group-title="Portugal",Mosaico Sport Tv 
+http://martepro.com:2082/dtox/dtox2021/125251
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOSAICO" tvg-logo="" group-title="Portugal",DAZN MOSAICO
+http://martepro.com:2082/dtox/dtox2021/125252
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -1629,8 +1633,6 @@ http://martepro.com:2082/dtox/dtox2021/94919
 http://martepro.com:2082/dtox/dtox2021/72944
 #EXTINF:-1 tvg-id="" tvg-name="|PT| CASA E COZINHA ᴴ²⁶⁵" tvg-logo="" group-title="Portugal Hvec",|PT| CASA E COZINHA ᴴ²⁶⁵
 http://martepro.com:2082/dtox/dtox2021/278
-#EXTINF:-1 tvg-id="" tvg-name="W-Sport ᴴᵉᵛᶜ ᴴᴰ" tvg-logo="" group-title="Portugal Hvec",W-Sport ᴴᵉᵛᶜ ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/100607
 #EXTINF:-1 tvg-id="" tvg-name="MOTORVISION ᴴ²⁶⁵" tvg-logo="" group-title="Portugal Hvec",MOTORVISION ᴴ²⁶⁵
 http://martepro.com:2082/dtox/dtox2021/123882
 #EXTINF:-1 tvg-id="" tvg-name="PFC ᴴ²⁶⁵" tvg-logo="" group-title="Portugal Hvec",PFC ᴴ²⁶⁵
@@ -12379,8 +12381,6 @@ http://martepro.com:2082/dtox/dtox2021/124944
 http://martepro.com:2082/dtox/dtox2021/124945
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 sw" tvg-logo="" group-title="SUICALOCAL",EUROSPORT 1 sw
 http://martepro.com:2082/dtox/dtox2021/124946
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD sw" tvg-logo="" group-title="SUICALOCAL",Sport 1 HD sw
-http://martepro.com:2082/dtox/dtox2021/124947
 #EXTINF:-1 tvg-id="" tvg-name="Sportdigital" tvg-logo="" group-title="SUICALOCAL",Sportdigital
 http://martepro.com:2082/dtox/dtox2021/124948
 #EXTINF:-1 tvg-id="" tvg-name="NDR hd" tvg-logo="" group-title="SUICALOCAL",NDR hd
