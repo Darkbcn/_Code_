@@ -583,7 +583,7 @@ http://martepro.com:2082/dtox/dtox2021/70208
 http://martepro.com:2082/dtox/dtox2021/70219
 #EXTINF:-1 tvg-id="" tvg-name="Veja HD " tvg-logo="" group-title="Portugal",Veja HD 
 http://martepro.com:2082/dtox/dtox2021/70223
-#EXTINF:-1 tvg-id="" tvg-name="AlmaLusa FHD" tvg-logo="" group-title="Portugal",AlmaLusa FHD
+#EXTINF:-1 tvg-id="" tvg-name="AlmaLusa" tvg-logo="" group-title="Portugal",AlmaLusa
 http://martepro.com:2082/dtox/dtox2021/70226
 #EXTINF:-1 tvg-id="" tvg-name="MEO Videoclube  sd" tvg-logo="" group-title="Portugal",MEO Videoclube  sd
 http://martepro.com:2082/dtox/dtox2021/70220
@@ -4289,10 +4289,8 @@ http://martepro.com:2082/dtox/dtox2021/99576
 http://martepro.com:2082/dtox/dtox2021/99577
 #EXTINF:-1 tvg-id="" tvg-name="|ES| |ES| LaLiga Smartbank TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| |ES| LaLiga Smartbank TV
 http://martepro.com:2082/dtox/dtox2021/100466
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV HD
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LALIGA TV HYPERMOTION TV HD
 http://martepro.com:2082/dtox/dtox2021/100467
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV FHD
-http://martepro.com:2082/dtox/dtox2021/100468
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV M2
 http://martepro.com:2082/dtox/dtox2021/100469
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV M2 HD
@@ -6091,8 +6089,6 @@ http://martepro.com:2082/dtox/dtox2021/88156
 http://martepro.com:2082/dtox/dtox2021/88158
 #EXTINF:-1 tvg-id="" tvg-name="DE: MTV HD" tvg-logo="https://cm-inter.xyz/Logos/germanynew/mtv.png" group-title="alemanhalocal2",DE: MTV HD
 http://martepro.com:2082/dtox/dtox2021/88159
-#EXTINF:-1 tvg-id="" tvg-name="DE: MTV Music 24" tvg-logo="https://cm-inter.xyz/Logos/germanynew/mtv_music.png" group-title="alemanhalocal2",DE: MTV Music 24
-http://martepro.com:2082/dtox/dtox2021/88160
 #EXTINF:-1 tvg-id="" tvg-name="DE: MTV Dance" tvg-logo="https://cm-inter.xyz/Logos/germanynew/mtv_dance.png" group-title="alemanhalocal2",DE: MTV Dance
 http://martepro.com:2082/dtox/dtox2021/88161
 #EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox RAW" tvg-logo="https://cm-inter.xyz/Logos/germanynew/jukebox.png" group-title="alemanhalocal2",DE: Jukebox RAW
@@ -7723,14 +7719,6 @@ http://martepro.com:2082/dtox/dtox2021/118473
 http://martepro.com:2082/dtox/dtox2021/118474
 #EXTINF:-1 tvg-id="" tvg-name="GF VIP STUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF VIP STUDIO
 http://martepro.com:2082/dtox/dtox2021/118475
-#EXTINF:-1 tvg-id="" tvg-name="GF Vip Party" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF Vip Party
-http://martepro.com:2082/dtox/dtox2021/118476
-#EXTINF:-1 tvg-id="" tvg-name="GF Diretta 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF Diretta 1
-http://martepro.com:2082/dtox/dtox2021/118477
-#EXTINF:-1 tvg-id="" tvg-name="GF Diretta 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF Diretta 2
-http://martepro.com:2082/dtox/dtox2021/118478
-#EXTINF:-1 tvg-id="" tvg-name="GF VIP DIRETTA +1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF VIP DIRETTA +1
-http://martepro.com:2082/dtox/dtox2021/118479
 #EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila 4K" tvg-logo="" group-title="ITALIALOCAL",Vetrina Sky Primafila 4K
 http://martepro.com:2082/dtox/dtox2021/118489
 #EXTINF:-1 tvg-id="" tvg-name="Primafila 1 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 1 - 4K
@@ -12851,8 +12839,6 @@ http://martepro.com:2082/dtox/dtox2021/98372
 http://martepro.com:2082/dtox/dtox2021/98373
 #EXTINF:-1 tvg-id="" tvg-name="Urdu TV Toronto" tvg-logo="" group-title="INDIALOCAL",Urdu TV Toronto
 http://martepro.com:2082/dtox/dtox2021/98374
-#EXTINF:-1 tvg-id="" tvg-name="Af: Alkhayria Coran Tv -Senegal" tvg-logo="" group-title="AFRICALOCAL",Af: Alkhayria Coran Tv -Senegal
-http://martepro.com:2082/dtox/dtox2021/99777
 #EXTINF:-1 tvg-id="" tvg-name="Af: Fares TV" tvg-logo="" group-title="AFRICALOCAL",Af: Fares TV
 http://martepro.com:2082/dtox/dtox2021/99778
 #EXTINF:-1 tvg-id="" tvg-name="Af: SN TV" tvg-logo="" group-title="AFRICALOCAL",Af: SN TV
@@ -13417,8 +13403,6 @@ http://martepro.com:2082/dtox/dtox2021/100057
 http://martepro.com:2082/dtox/dtox2021/100058
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORTS 4 HD" tvg-logo="" group-title="AFRICALOCAL",DSTV: SUPERSPORTS 4 HD
 http://martepro.com:2082/dtox/dtox2021/100059
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: NAIJA BIG BROTHER" tvg-logo="" group-title="AFRICALOCAL",DSTV: NAIJA BIG BROTHER
-http://martepro.com:2082/dtox/dtox2021/100060
 #EXTINF:-1 tvg-id="" tvg-name="PY: C9N (MOVIL)" tvg-logo="http://tvgolatino.com:8080/images/7b9d868e10287a2300c6f16147259d9b.png" group-title="PARAGUAYPREMIUM",PY: C9N (MOVIL)
 http://martepro.com:2082/dtox/dtox2021/92952
 #EXTINF:-1 tvg-id="" tvg-name="PY: C9N SD" tvg-logo="" group-title="PARAGUAYPREMIUM",PY: C9N SD
