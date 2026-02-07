@@ -767,7 +767,7 @@ http://martepro.com:2082/dtox/dtox2021/99471
 http://martepro.com:2082/dtox/dtox2021/99472
 #EXTINF:-1 tvg-id="" tvg-name="Afrobeats 24/7" tvg-logo="https://logopond.com/logos/f3205d9461af8bf60000c9f77e1290eb.png" group-title="Portugal",Afrobeats 24/7
 http://martepro.com:2082/dtox/dtox2021/70188
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL FHD " tvg-logo="" group-title="Portugal",MTV PORTUGAL FHD 
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="" group-title="Portugal",MTV PORTUGAL
 http://martepro.com:2082/dtox/dtox2021/70202
 #EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA ᶠᴴᴰ" tvg-logo="" group-title="Portugal",TRACE AFRICA ᶠᴴᴰ
 http://martepro.com:2082/dtox/dtox2021/99492
@@ -909,8 +909,6 @@ http://martepro.com:2082/dtox/dtox2021/123340
 http://martepro.com:2082/dtox/dtox2021/123341
 #EXTINF:-1 tvg-id="" tvg-name="More Than Sports TV  FHD" tvg-logo="" group-title="Portugal",More Than Sports TV  FHD
 http://martepro.com:2082/dtox/dtox2021/123342
-#EXTINF:-1 tvg-id="" tvg-name="Sport em França" tvg-logo="" group-title="Portugal",Sport em França
-http://martepro.com:2082/dtox/dtox2021/123343
 #EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="Portugal",Garage TV
 http://martepro.com:2082/dtox/dtox2021/123344
 #EXTINF:-1 tvg-id="" tvg-name="IES TV " tvg-logo="" group-title="Portugal",IES TV 
@@ -3603,10 +3601,8 @@ http://martepro.com:2082/dtox/dtox2021/97443
 http://martepro.com:2082/dtox/dtox2021/97444
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/642px-Logo_TVE-2.svg.png" group-title="ESPANHALOCAL",|ES| LA 2
 http://martepro.com:2082/dtox/dtox2021/97445
-#EXTINF:-1 tvg-id="" tvg-name="|ES| La 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPANHALOCAL",|ES| La 2 HD
-http://martepro.com:2082/dtox/dtox2021/97446
 #EXTINF:-1 tvg-id="" tvg-name="|ES| La 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png" group-title="ESPANHALOCAL",|ES| La 2 FHD
-http://martepro.com:2082/dtox/dtox2021/97447
+http://martepro.com:2082/dtox/dtox2021/97446
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENA 3" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="ESPANHALOCAL",|ES| ANTENA 3
 http://martepro.com:2082/dtox/dtox2021/97448
 #EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENA 3 HD" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="ESPANHALOCAL",|ES| ANTENA 3 HD
@@ -3615,8 +3611,6 @@ http://martepro.com:2082/dtox/dtox2021/97449
 http://martepro.com:2082/dtox/dtox2021/97450
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPANHALOCAL",|ES| CUATRO
 http://martepro.com:2082/dtox/dtox2021/97451
-#EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO HD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="ESPANHALOCAL",|ES| CUATRO HD
-http://martepro.com:2082/dtox/dtox2021/97452
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CUATRO FHD" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/cuatro.png" group-title="ESPANHALOCAL",|ES| CUATRO FHD
 http://martepro.com:2082/dtox/dtox2021/97453
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TELECINCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="ESPANHALOCAL",|ES| TELECINCO
@@ -3671,7 +3665,7 @@ http://martepro.com:2082/dtox/dtox2021/97477
 http://martepro.com:2082/dtox/dtox2021/97478
 #EXTINF:-1 tvg-id="" tvg-name="|ES| NOVA" tvg-logo="https://i.postimg.cc/hP5NRmcQ/300px-Nova-svg.png" group-title="ESPANHALOCAL",|ES| NOVA
 http://martepro.com:2082/dtox/dtox2021/97479
-#EXTINF:-1 tvg-id="" tvg-name="|ES| Mega" tvg-logo="https://i.postimg.cc/SNWxJg5p/Mega-2015-n-v.png" group-title="ESPANHALOCAL",|ES| Mega
+#EXTINF:-1 tvg-id="" tvg-name="|ES| Mega FHD" tvg-logo="https://i.postimg.cc/SNWxJg5p/Mega-2015-n-v.png" group-title="ESPANHALOCAL",|ES| Mega FHD
 http://martepro.com:2082/dtox/dtox2021/97480
 #EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL DECASA" tvg-logo="https://i.postimg.cc/7LBybZ2p/canal-decasa.png" group-title="ESPANHALOCAL",|ES| CANAL DECASA
 http://martepro.com:2082/dtox/dtox2021/97481
@@ -3717,12 +3711,6 @@ http://martepro.com:2082/dtox/dtox2021/97500
 http://martepro.com:2082/dtox/dtox2021/97503
 #EXTINF:-1 tvg-id="" tvg-name="|ES| COMEDY CENTRAL HD" tvg-logo="https://i.postimg.cc/prGVHdLV/150px-Comedy-Central-2011-Logo-svg.png" group-title="ESPANHALOCAL",|ES| COMEDY CENTRAL HD
 http://martepro.com:2082/dtox/dtox2021/97504
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HOLLYWOOD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="ESPANHALOCAL",|ES| HOLLYWOOD
-http://martepro.com:2082/dtox/dtox2021/97505
-#EXTINF:-1 tvg-id="" tvg-name="|ES| Hollywood HD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="ESPANHALOCAL",|ES| Hollywood HD
-http://martepro.com:2082/dtox/dtox2021/97506
-#EXTINF:-1 tvg-id="" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="https://i.postimg.cc/C1vCWjkR/Chollywood.png" group-title="ESPANHALOCAL",|ES| HOLLYWOOD FHD
-http://martepro.com:2082/dtox/dtox2021/97507
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TCM HD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="ESPANHALOCAL",|ES| TCM HD
 http://martepro.com:2082/dtox/dtox2021/97508
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TCM FHD" tvg-logo="https://i.postimg.cc/d0DJ2Cwq/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="ESPANHALOCAL",|ES| TCM FHD
@@ -3749,10 +3737,6 @@ http://martepro.com:2082/dtox/dtox2021/97518
 http://martepro.com:2082/dtox/dtox2021/97519
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M. DRAMA FHD" tvg-logo="https://i.postimg.cc/2jwgSJFW/1200px-Movistar-Drama-svg.png" group-title="ESPANHALOCAL",|ES| M. DRAMA FHD
 http://martepro.com:2082/dtox/dtox2021/97520
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M. ESTRENOS HD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="ESPANHALOCAL",|ES| M. ESTRENOS HD
-http://martepro.com:2082/dtox/dtox2021/97521
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M.ESTRENOS FHD*" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="ESPANHALOCAL",|ES| M.ESTRENOS FHD*
-http://martepro.com:2082/dtox/dtox2021/97522
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M. Estrenos 2 HD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="ESPANHALOCAL",|ES| M. Estrenos 2 HD
 http://martepro.com:2082/dtox/dtox2021/97523
 #EXTINF:-1 tvg-id="" tvg-name="|ES| M. Estrenos 2 FHD" tvg-logo="https://i.postimg.cc/63VgRbkD/1366-2000.png" group-title="ESPANHALOCAL",|ES| M. Estrenos 2 FHD
@@ -3983,30 +3967,12 @@ http://martepro.com:2082/dtox/dtox2021/97742
 http://martepro.com:2082/dtox/dtox2021/97743
 #EXTINF:-1 tvg-id="" tvg-name="ES: TVE LA 1" tvg-logo="https://i.postimg.cc/Z5hf6s6B/tve1.jpg" group-title="ESPANHALOCAL",ES: TVE LA 1
 http://martepro.com:2082/dtox/dtox2021/97744
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="https://i.postimg.cc/Z5hf6s6B/tve1.jpg" group-title="ESPANHALOCAL",ES: LA 1 HD
-http://martepro.com:2082/dtox/dtox2021/97745
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/920381108317386d5faa0f842a5366dc.png" group-title="ESPANHALOCAL",ES: LA 1 FHD
-http://martepro.com:2082/dtox/dtox2021/97746
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 SD" tvg-logo="https://i.postimg.cc/WbZZTWR3/tve2.jpg" group-title="ESPANHALOCAL",ES: LA 2 SD
-http://martepro.com:2082/dtox/dtox2021/97747
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="ESPANHALOCAL",ES: LA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="ESPANHALOCAL",ES: LA 2 HD
 http://martepro.com:2082/dtox/dtox2021/97748
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3" tvg-logo="https://i.postimg.cc/J4PwphTt/1200px-Antena-3-2017-svg.png" group-title="ESPANHALOCAL",ES: ANTENA 3
-http://martepro.com:2082/dtox/dtox2021/97749
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://i.postimg.cc/mrv246kw/antena3.jpg" group-title="ESPANHALOCAL",ES: ANTENA 3 HD
-http://martepro.com:2082/dtox/dtox2021/97750
 #EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/fc95184bef0e8291172452dd531aeea3.png" group-title="ESPANHALOCAL",ES: ANTENA 3 FHD
 http://martepro.com:2082/dtox/dtox2021/97751
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="https://i.postimg.cc/Bn1mWcpc/cuatro-es.jpg" group-title="ESPANHALOCAL",ES: CUATRO
-http://martepro.com:2082/dtox/dtox2021/97752
 #EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO ᴴᴰ" tvg-logo="https://i.postimg.cc/Bn1mWcpc/cuatro-es.jpg" group-title="ESPANHALOCAL",ES: CUATRO ᴴᴰ
 http://martepro.com:2082/dtox/dtox2021/97753
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO  FHD" tvg-logo="http://obsfullhd.tv:25461/images/bd96505a4b5a28ddfd67fb3d2c27f24e.png" group-title="ESPANHALOCAL",ES: CUATRO  FHD
-http://martepro.com:2082/dtox/dtox2021/97754
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA ˢᵈ" tvg-logo="" group-title="ESPANHALOCAL",ES: LA SEXTA ˢᵈ
-http://martepro.com:2082/dtox/dtox2021/97758
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="https://i.postimg.cc/cCv3z38t/la-sexta-logo.jpg" group-title="ESPANHALOCAL",ES: LA SEXTA HD
-http://martepro.com:2082/dtox/dtox2021/97759
 #EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://obsfullhd.tv:25461/images/0dc26a237b608fcc1d91f5e2bf15b67e.png" group-title="ESPANHALOCAL",ES: LA SEXTA FHD
 http://martepro.com:2082/dtox/dtox2021/97760
 #EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="ESPANHALOCAL",ES: 24 HORAS
@@ -4029,12 +3995,8 @@ http://martepro.com:2082/dtox/dtox2021/97768
 http://martepro.com:2082/dtox/dtox2021/97769
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://i.postimg.cc/C50dV658/canal-cocina.jpg" group-title="ESPANHALOCAL",ES: CANAL COCINA HD
 http://martepro.com:2082/dtox/dtox2021/97770
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA FHD" tvg-logo="" group-title="ESPANHALOCAL",ES: CANAL COCINA FHD
-http://martepro.com:2082/dtox/dtox2021/97771
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA SD" tvg-logo="https://i.postimg.cc/43G6BwbY/decasa.jpg" group-title="ESPANHALOCAL",ES: CANAL DECASA SD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA" tvg-logo="https://i.postimg.cc/43G6BwbY/decasa.jpg" group-title="ESPANHALOCAL",ES: CANAL DECASA
 http://martepro.com:2082/dtox/dtox2021/97772
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA FHD" tvg-logo="" group-title="ESPANHALOCAL",ES: CANAL DECASA FHD
-http://martepro.com:2082/dtox/dtox2021/97773
 #EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://i.postimg.cc/43j5WKV2/divinity-tv-es.jpg" group-title="ESPANHALOCAL",ES: DIVINITY
 http://martepro.com:2082/dtox/dtox2021/97774
 #EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD HD" tvg-logo="https://i.postimg.cc/vmb2Wx7r/Be-Mad-TV-logo.png" group-title="ESPANHALOCAL",ES: BE MAD HD
@@ -4061,26 +4023,12 @@ http://martepro.com:2082/dtox/dtox2021/97828
 http://martepro.com:2082/dtox/dtox2021/97829
 #EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="https://i.postimg.cc/x8RWzGhb/axn-white-us.jpg" group-title="ESPANHALOCAL",ES: AXN WHITE HD
 http://martepro.com:2082/dtox/dtox2021/97830
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="ESPANHALOCAL",ES: AXN WHITE FHD
-http://martepro.com:2082/dtox/dtox2021/97831
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD" tvg-logo="" group-title="ESPANHALOCAL",ES: AXN SD
-http://martepro.com:2082/dtox/dtox2021/97832
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="https://i.postimg.cc/8P9R2TDf/axn-es.jpg" group-title="ESPANHALOCAL",ES: AXN HD
-http://martepro.com:2082/dtox/dtox2021/97833
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="ESPANHALOCAL",ES: AXN FHD
-http://martepro.com:2082/dtox/dtox2021/97834
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="https://i.postimg.cc/wT5BwS8h/calle13-universal.jpg" group-title="ESPANHALOCAL",ES: CALLE 13
 http://martepro.com:2082/dtox/dtox2021/97835
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13  HD" tvg-logo="https://i.postimg.cc/wT5BwS8h/calle13-universal.jpg" group-title="ESPANHALOCAL",ES: CALLE 13  HD
 http://martepro.com:2082/dtox/dtox2021/97836
 #EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://obsfullhd.tv:25461/images/cee8620391bf2508e1f02a2ada083450.png" group-title="ESPANHALOCAL",ES: CALLE 13 FHD
 http://martepro.com:2082/dtox/dtox2021/97837
-#EXTINF:-1 tvg-id="" tvg-name="ES: Star Channel SD" tvg-logo="https://i.postimg.cc/hvwKCz9j/fox-es.jpg" group-title="ESPANHALOCAL",ES: Star Channel SD
-http://martepro.com:2082/dtox/dtox2021/97838
-#EXTINF:-1 tvg-id="" tvg-name="ES: Star Channel HD" tvg-logo="https://i.postimg.cc/hvwKCz9j/fox-es.jpg" group-title="ESPANHALOCAL",ES: Star Channel HD
-http://martepro.com:2082/dtox/dtox2021/97839
-#EXTINF:-1 tvg-id="" tvg-name="ES: Star Channel FHD" tvg-logo="http://obsfullhd.tv:25461/images/767a505cb7778fcf9dc08adde1798a7a.png" group-title="ESPANHALOCAL",ES: Star Channel FHD
-http://martepro.com:2082/dtox/dtox2021/97840
 #EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD SD" tvg-logo="" group-title="ESPANHALOCAL",ES: HOLLYWOOD SD
 http://martepro.com:2082/dtox/dtox2021/97844
 #EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://i.postimg.cc/Kc9KKWyf/logo-canalhollywood-logo.png" group-title="ESPANHALOCAL",ES: HOLLYWOOD HD
@@ -4091,8 +4039,6 @@ http://martepro.com:2082/dtox/dtox2021/97846
 http://martepro.com:2082/dtox/dtox2021/97847
 #EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="https://i.postimg.cc/wTk6XLL2/syfy-universal-es.jpg" group-title="ESPANHALOCAL",ES: SYFY HD
 http://martepro.com:2082/dtox/dtox2021/97848
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY FHD" tvg-logo="http://obsfullhd.tv:25461/images/7524c64df439ff023daab9eee2b48f00.png" group-title="ESPANHALOCAL",ES: SYFY FHD
-http://martepro.com:2082/dtox/dtox2021/97849
 #EXTINF:-1 tvg-id="" tvg-name="ES:  SOMOS" tvg-logo="" group-title="ESPANHALOCAL",ES:  SOMOS
 http://martepro.com:2082/dtox/dtox2021/97850
 #EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS FHD" tvg-logo="http://obsfullhd.tv:25461/images/d4cbfc82a613c5748fcb9c86d06e1cae.png" group-title="ESPANHALOCAL",ES: SOMOS FHD
@@ -4107,8 +4053,6 @@ http://martepro.com:2082/dtox/dtox2021/97854
 http://martepro.com:2082/dtox/dtox2021/97855
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS 2 HD" tvg-logo="https://i.postimg.cc/LsHbFgby/Movistar-Cine-Doc-Roll-logo.png" group-title="ESPANHALOCAL",ES: MOVISTAR ESTRENOS 2 HD
 http://martepro.com:2082/dtox/dtox2021/97856
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS 2 FHD" tvg-logo="" group-title="ESPANHALOCAL",ES: MOVISTAR ESTRENOS 2 FHD
-http://martepro.com:2082/dtox/dtox2021/97857
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE ESPANOL" tvg-logo="https://i.postimg.cc/YS8tmyyM/Movistar-Cine-Espa-ol-logo.png" group-title="ESPANHALOCAL",ES: MOVISTAR CINE ESPANOL
 http://martepro.com:2082/dtox/dtox2021/97858
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA ˢᵈ" tvg-logo="https://i.postimg.cc/GhfL2dCJ/Movistar-Comedia-Logo.png" group-title="ESPANHALOCAL",ES: MOVISTAR COMEDIA ˢᵈ
@@ -4147,18 +4091,8 @@ http://martepro.com:2082/dtox/dtox2021/97875
 http://martepro.com:2082/dtox/dtox2021/97876
 #EXTINF:-1 tvg-id="" tvg-name="ES: A3 SERIES FHD" tvg-logo="http://obsfullhd.tv:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="ESPANHALOCAL",ES: A3 SERIES FHD
 http://martepro.com:2082/dtox/dtox2021/97877
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC ˢᵈ" tvg-logo="" group-title="ESPANHALOCAL",ES: AMC ˢᵈ
-http://martepro.com:2082/dtox/dtox2021/97878
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="https://i.postimg.cc/85f4Js1G/amc-logo.jpg" group-title="ESPANHALOCAL",ES: AMC HD
-http://martepro.com:2082/dtox/dtox2021/97879
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="http://obsfullhd.tv:25461/images/14ebf4e5622a32de02695cf9b5dc7fed.png" group-title="ESPANHALOCAL",ES: AMC FHD
-http://martepro.com:2082/dtox/dtox2021/97880
 #EXTINF:-1 tvg-id="" tvg-name="ES: TCM ˢᵈ" tvg-logo="https://i.postimg.cc/wBwHCp0m/tcm-es.jpg" group-title="ESPANHALOCAL",ES: TCM ˢᵈ
 http://martepro.com:2082/dtox/dtox2021/97881
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="https://i.postimg.cc/wBwHCp0m/tcm-es.jpg" group-title="ESPANHALOCAL",ES: TCM HD
-http://martepro.com:2082/dtox/dtox2021/97882
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="http://obsfullhd.tv:25461/images/60f6864e022b659a31ab16d5de02cbae.png" group-title="ESPANHALOCAL",ES: TCM FHD
-http://martepro.com:2082/dtox/dtox2021/97883
 #EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="https://i.postimg.cc/0QJWpTXS/tnt-es.jpg" group-title="ESPANHALOCAL",ES: TNT
 http://martepro.com:2082/dtox/dtox2021/97884
 #EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="https://i.postimg.cc/0QJWpTXS/tnt-es.jpg" group-title="ESPANHALOCAL",ES: TNT HD
@@ -4201,8 +4135,6 @@ http://martepro.com:2082/dtox/dtox2021/97903
 http://martepro.com:2082/dtox/dtox2021/97904
 #EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON ˢᵈ" tvg-logo="https://i.postimg.cc/MHQgs2nV/paramount-channel-fr.jpg" group-title="ESPANHALOCAL",ES: NICKELODEON ˢᵈ
 http://martepro.com:2082/dtox/dtox2021/97905
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="https://i.postimg.cc/FsNHfN12/nickelodeon-es.jpg" group-title="ESPANHALOCAL",ES: NICKELODEON HD
-http://martepro.com:2082/dtox/dtox2021/97906
 #EXTINF:-1 tvg-id="" tvg-name="#####DOCUMENTALES ESPANA#####" tvg-logo="" group-title="ESPANHALOCAL",#####DOCUMENTALES ESPANA#####
 http://martepro.com:2082/dtox/dtox2021/97907
 #EXTINF:-1 tvg-id="" tvg-name="ES: Break HD" tvg-logo="" group-title="ESPANHALOCAL",ES: Break HD
@@ -4225,7 +4157,7 @@ http://martepro.com:2082/dtox/dtox2021/97915
 http://martepro.com:2082/dtox/dtox2021/97916
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA TV" tvg-logo="https://i.postimg.cc/BZMZr27z/iberalia-logo.jpg" group-title="ESPANHALOCAL",ES: IBERALIA TV
 http://martepro.com:2082/dtox/dtox2021/97917
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA FHD" tvg-logo="https://i.postimg.cc/j5ycWsmW/mega-logo.png" group-title="ESPANHALOCAL",ES: MEGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA HD" tvg-logo="https://i.postimg.cc/j5ycWsmW/mega-logo.png" group-title="ESPANHALOCAL",ES: MEGA HD
 http://martepro.com:2082/dtox/dtox2021/97918
 #EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO" tvg-logo="https://i.postimg.cc/K8hwc8zM/nat-geo-es.jpg" group-title="ESPANHALOCAL",ES: NAT GEO
 http://martepro.com:2082/dtox/dtox2021/97919
@@ -4673,6 +4605,34 @@ http://martepro.com:2082/dtox/dtox2021/124162
 http://martepro.com:2082/dtox/dtox2021/124163
 #EXTINF:-1 tvg-id="" tvg-name="Film & arts" tvg-logo="" group-title="ESPANHALOCAL",Film & arts
 http://martepro.com:2082/dtox/dtox2021/124164
+#EXTINF:-1 tvg-id="" tvg-name="M  Dcine HD" tvg-logo="" group-title="ESPANHALOCAL",M  Dcine HD
+http://martepro.com:2082/dtox/dtox2021/125302
+#EXTINF:-1 tvg-id="" tvg-name="Canal+  Comedia" tvg-logo="" group-title="ESPANHALOCAL",Canal+  Comedia
+http://martepro.com:2082/dtox/dtox2021/125303
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME HD." tvg-logo="" group-title="ESPANHALOCAL",AMC CRIME HD.
+http://martepro.com:2082/dtox/dtox2021/125304
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK HD." tvg-logo="" group-title="ESPANHALOCAL",AMC BREAK HD.
+http://martepro.com:2082/dtox/dtox2021/125305
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD." tvg-logo="" group-title="ESPANHALOCAL",AXN MOVIES HD.
+http://martepro.com:2082/dtox/dtox2021/125306
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD." tvg-logo="" group-title="ESPANHALOCAL",Star Life HD.
+http://martepro.com:2082/dtox/dtox2021/125307
+#EXTINF:-1 tvg-id="" tvg-name="Canal Series HD." tvg-logo="" group-title="ESPANHALOCAL",Canal Series HD.
+http://martepro.com:2082/dtox/dtox2021/125308
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANHA" tvg-logo="" group-title="ESPANHALOCAL",MTV ESPANHA
+http://martepro.com:2082/dtox/dtox2021/125309
+#EXTINF:-1 tvg-id="" tvg-name=" National Geographic HD.." tvg-logo="" group-title="ESPANHALOCAL", National Geographic HD..
+http://martepro.com:2082/dtox/dtox2021/125310
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD.." tvg-logo="" group-title="ESPANHALOCAL",National Geographic Wild HD..
+http://martepro.com:2082/dtox/dtox2021/125311
+#EXTINF:-1 tvg-id="" tvg-name="ODISEIA HD.." tvg-logo="" group-title="ESPANHALOCAL",ODISEIA HD..
+http://martepro.com:2082/dtox/dtox2021/125312
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV International HD.." tvg-logo="" group-title="ESPANHALOCAL",Pro TV International HD..
+http://martepro.com:2082/dtox/dtox2021/125313
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE HD" tvg-logo="" group-title="ESPANHALOCAL",Star TVE HD
+http://martepro.com:2082/dtox/dtox2021/125314
+#EXTINF:-1 tvg-id="" tvg-name="Teledeportes HD" tvg-logo="" group-title="ESPANHALOCAL",Teledeportes HD
+http://martepro.com:2082/dtox/dtox2021/125315
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 FHD
 http://martepro.com:2082/dtox/dtox2021/92107
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 HD
@@ -5125,7 +5085,7 @@ http://martepro.com:2082/dtox/dtox2021/92364
 http://martepro.com:2082/dtox/dtox2021/92365
 #EXTINF:-1 tvg-id="" tvg-name="FR: RMC  DECOUVERTE FHD" tvg-logo="http://media.c-x-c.media/picons/FR/rmcdecouverte.png" group-title="France",FR: RMC  DECOUVERTE FHD
 http://martepro.com:2082/dtox/dtox2021/92366
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="https://i.postimg.cc/SxByVNFp/ae7e7b4fc3f4c356122b30ba85396716.png" group-title="France",FR: TV5 MONDE HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE SD" tvg-logo="https://i.postimg.cc/SxByVNFp/ae7e7b4fc3f4c356122b30ba85396716.png" group-title="France",FR: TV5 MONDE SD
 http://martepro.com:2082/dtox/dtox2021/92367
 #EXTINF:-1 tvg-id="" tvg-name="FR: 42 GRANDLILLE TV HD" tvg-logo="http://media.c-x-c.media/picons/FR/grandlille.png" group-title="France",FR: 42 GRANDLILLE TV HD
 http://martepro.com:2082/dtox/dtox2021/92368
@@ -7197,7 +7157,7 @@ http://martepro.com:2082/dtox/dtox2021/95213
 http://martepro.com:2082/dtox/dtox2021/95214
 #EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24
 http://martepro.com:2082/dtox/dtox2021/95216
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24 FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rai News 24 HD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai News 24 HD
 http://martepro.com:2082/dtox/dtox2021/95215
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky TG24" tvg-logo="" group-title="ITALIALOCAL",IT | Sky TG24
 http://martepro.com:2082/dtox/dtox2021/95218
@@ -7225,7 +7185,7 @@ http://martepro.com:2082/dtox/dtox2021/95227
 http://martepro.com:2082/dtox/dtox2021/95228
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ Cinema Sky ✦●✦" tvg-logo="" group-title="ITALIALOCAL",✦●✦ Cinema Sky ✦●✦
 http://martepro.com:2082/dtox/dtox2021/95229
-#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Series FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Sky Series FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Series HD" tvg-logo="" group-title="ITALIALOCAL",IT | Sky Series HD
 http://martepro.com:2082/dtox/dtox2021/95230
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Cinema Uno  24 HD" tvg-logo="https://cm-inter.xyz/Logos/ITALY/sky_it_cinema_uno_plus24.png" group-title="ITALIALOCAL",IT | Sky Cinema Uno  24 HD
 http://martepro.com:2082/dtox/dtox2021/95248
@@ -7243,7 +7203,7 @@ http://martepro.com:2082/dtox/dtox2021/95238
 http://martepro.com:2082/dtox/dtox2021/95236
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Cinema Collection FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Sky Cinema Collection FHD
 http://martepro.com:2082/dtox/dtox2021/95235
-#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Cinema Family FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Sky Cinema Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT | Sky Cinema Family " tvg-logo="" group-title="ITALIALOCAL",IT | Sky Cinema Family 
 http://martepro.com:2082/dtox/dtox2021/95237
 #EXTINF:-1 tvg-id="" tvg-name="IT | Sky Cinema Suspense HD" tvg-logo="" group-title="ITALIALOCAL",IT | Sky Cinema Suspense HD
 http://martepro.com:2082/dtox/dtox2021/95241
@@ -7281,9 +7241,7 @@ http://martepro.com:2082/dtox/dtox2021/95260
 http://martepro.com:2082/dtox/dtox2021/95261
 #EXTINF:-1 tvg-id="" tvg-name="IT | Rai Premium" tvg-logo="https://cm-inter.xyz/Logos/ITALY/rai_premium.png" group-title="ITALIALOCAL",IT | Rai Premium
 http://martepro.com:2082/dtox/dtox2021/95262
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai Scuola FHD²" tvg-logo="" group-title="ITALIALOCAL",IT | Rai Scuola FHD²
-http://martepro.com:2082/dtox/dtox2021/95263
-#EXTINF:-1 tvg-id="" tvg-name="IT | Rai Scuola FHD¹" tvg-logo="" group-title="ITALIALOCAL",IT | Rai Scuola FHD¹
+#EXTINF:-1 tvg-id="" tvg-name="IT | Rai Scuola HD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai Scuola HD
 http://martepro.com:2082/dtox/dtox2021/95264
 #EXTINF:-1 tvg-id="" tvg-name="IT | Rai Storia FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Rai Storia FHD
 http://martepro.com:2082/dtox/dtox2021/95265
@@ -7377,7 +7335,7 @@ http://martepro.com:2082/dtox/dtox2021/95318
 http://martepro.com:2082/dtox/dtox2021/95319
 #EXTINF:-1 tvg-id="" tvg-name="IT | Eurosport 1 HD" tvg-logo="" group-title="ITALIALOCAL",IT | Eurosport 1 HD
 http://martepro.com:2082/dtox/dtox2021/95320
-#EXTINF:-1 tvg-id="" tvg-name="IT | Eurosport 2 FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Eurosport 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IT | Eurosport 2 HD" tvg-logo="" group-title="ITALIALOCAL",IT | Eurosport 2 HD
 http://martepro.com:2082/dtox/dtox2021/95321
 #EXTINF:-1 tvg-id="" tvg-name="IT | Top Calcio 24" tvg-logo="" group-title="ITALIALOCAL",IT | Top Calcio 24
 http://martepro.com:2082/dtox/dtox2021/95323
@@ -7473,7 +7431,7 @@ http://martepro.com:2082/dtox/dtox2021/95371
 http://martepro.com:2082/dtox/dtox2021/95372
 #EXTINF:-1 tvg-id="" tvg-name="IT | Boing" tvg-logo="" group-title="ITALIALOCAL",IT | Boing
 http://martepro.com:2082/dtox/dtox2021/95373
-#EXTINF:-1 tvg-id="" tvg-name="IT | Cartoonito" tvg-logo="" group-title="ITALIALOCAL",IT | Cartoonito
+#EXTINF:-1 tvg-id="" tvg-name="IT | CARTOONITO" tvg-logo="" group-title="ITALIALOCAL",IT | CARTOONITO
 http://martepro.com:2082/dtox/dtox2021/95374
 #EXTINF:-1 tvg-id="" tvg-name="IT | Super!" tvg-logo="" group-title="ITALIALOCAL",IT | Super!
 http://martepro.com:2082/dtox/dtox2021/95375
@@ -7595,14 +7553,10 @@ http://martepro.com:2082/dtox/dtox2021/117981
 http://martepro.com:2082/dtox/dtox2021/117982
 #EXTINF:-1 tvg-id="" tvg-name="VETRINA SKY PRIMAFILA PREMIERE" tvg-logo="" group-title="ITALIALOCAL",VETRINA SKY PRIMAFILA PREMIERE
 http://martepro.com:2082/dtox/dtox2021/117992
-#EXTINF:-1 tvg-id="" tvg-name="SKY Primafila  9" tvg-logo="" group-title="ITALIALOCAL",SKY Primafila  9
-http://martepro.com:2082/dtox/dtox2021/117993
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Prima Visione FHD" tvg-logo="https://www.primavisioneabbigliamento.it/img/my-shop-logo-1615029118.jpg" group-title="ITALIALOCAL",Cinema Prima Visione FHD
 http://martepro.com:2082/dtox/dtox2021/118370
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Avventura FHD" tvg-logo="https://us.123rf.com/450wm/jimbrow/jimbrow2109/jimbrow210900011/176449660-premium-avventura-montagna-film-vettore-logo-nero-icona-design-isolato-sfondo-bianco.jpg?ver=6" group-title="ITALIALOCAL",Cinema Avventura FHD
 http://martepro.com:2082/dtox/dtox2021/118372
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Comico Cult FHD" tvg-logo="https://img.eventinagenda.it/eventi/16285/comico-show.webp" group-title="ITALIALOCAL",Cinema Comico Cult FHD
-http://martepro.com:2082/dtox/dtox2021/118373
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Sorriso FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOJ-7fQHf6K24yZF3dis6nr7LSvqj8IXlgQ&usqp=CAU" group-title="ITALIALOCAL",Cinema Sorriso FHD
 http://martepro.com:2082/dtox/dtox2021/118374
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Drammatico FHD" tvg-logo="https://i.pinimg.com/736x/67/49/3b/67493b909f32cdf93f72201393a632ef.jpg" group-title="ITALIALOCAL",Cinema Drammatico FHD
@@ -7719,22 +7673,6 @@ http://martepro.com:2082/dtox/dtox2021/118473
 http://martepro.com:2082/dtox/dtox2021/118474
 #EXTINF:-1 tvg-id="" tvg-name="GF VIP STUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a6/Grande_Fratello_logo.png/640px-Grande_Fratello_logo.png" group-title="ITALIALOCAL",GF VIP STUDIO
 http://martepro.com:2082/dtox/dtox2021/118475
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila 4K" tvg-logo="" group-title="ITALIALOCAL",Vetrina Sky Primafila 4K
-http://martepro.com:2082/dtox/dtox2021/118489
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 1 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 1 - 4K
-http://martepro.com:2082/dtox/dtox2021/118480
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 2 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 2 - 4K
-http://martepro.com:2082/dtox/dtox2021/118481
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 3 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 3 - 4K
-http://martepro.com:2082/dtox/dtox2021/118482
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 4 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 4 - 4K
-http://martepro.com:2082/dtox/dtox2021/118483
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 5 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 5 - 4K
-http://martepro.com:2082/dtox/dtox2021/118484
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 6 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 6 - 4K
-http://martepro.com:2082/dtox/dtox2021/118485
-#EXTINF:-1 tvg-id="" tvg-name="Primafila 7 - 4K" tvg-logo="https://img.freepik.com/premium-vector/4k-ultra-hd-symbol-high-definition-4k-resolution-mark-uhd_268834-360.jpg" group-title="ITALIALOCAL",Primafila 7 - 4K
-http://martepro.com:2082/dtox/dtox2021/118486
 #EXTINF:-1 tvg-id="" tvg-name="Infinity Campions 1 HD" tvg-logo="" group-title="ITALIALOCAL",Infinity Campions 1 HD
 http://martepro.com:2082/dtox/dtox2021/123097
 #EXTINF:-1 tvg-id="" tvg-name="Infinity Campions 1 FHD" tvg-logo="" group-title="ITALIALOCAL",Infinity Campions 1 FHD
@@ -7755,6 +7693,58 @@ http://martepro.com:2082/dtox/dtox2021/123129
 http://martepro.com:2082/dtox/dtox2021/123130
 #EXTINF:-1 tvg-id="" tvg-name="Top Crime" tvg-logo="" group-title="ITALIALOCAL",Top Crime
 http://martepro.com:2082/dtox/dtox2021/124906
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORTS" tvg-logo="" group-title="ITALIALOCAL",RAI SPORTS
+http://martepro.com:2082/dtox/dtox2021/125253
+#EXTINF:-1 tvg-id="" tvg-name="TELE TICINO" tvg-logo="" group-title="ITALIALOCAL",TELE TICINO
+http://martepro.com:2082/dtox/dtox2021/125254
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA24" tvg-logo="" group-title="ITALIALOCAL",TG NORBA24
+http://martepro.com:2082/dtox/dtox2021/125255
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 HD" tvg-logo="" group-title="ITALIALOCAL",EUROSPORT 3 HD
+http://martepro.com:2082/dtox/dtox2021/125256
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4 HD" tvg-logo="" group-title="ITALIALOCAL",EUROSPORT 4 HD
+http://martepro.com:2082/dtox/dtox2021/125257
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 24 HD" tvg-logo="" group-title="ITALIALOCAL",SKY SPORT 24 HD
+http://martepro.com:2082/dtox/dtox2021/125258
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT UNO HD" tvg-logo="" group-title="ITALIALOCAL",SKY SPORT UNO HD
+http://martepro.com:2082/dtox/dtox2021/125259
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MAX HD." tvg-logo="" group-title="ITALIALOCAL",SKY SPORT MAX HD.
+http://martepro.com:2082/dtox/dtox2021/125260
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT F1 HD." tvg-logo="" group-title="ITALIALOCAL",SKY SPORT F1 HD.
+http://martepro.com:2082/dtox/dtox2021/125261
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS HD." tvg-logo="" group-title="ITALIALOCAL",SKY SPORT TENNIS HD.
+http://martepro.com:2082/dtox/dtox2021/125262
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF HD." tvg-logo="" group-title="ITALIALOCAL",SKY SPORT GOLF HD.
+http://martepro.com:2082/dtox/dtox2021/125263
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 1 HD.
+http://martepro.com:2082/dtox/dtox2021/125264
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 2 HD.
+http://martepro.com:2082/dtox/dtox2021/125265
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 3 HD.
+http://martepro.com:2082/dtox/dtox2021/125266
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 4 HD.
+http://martepro.com:2082/dtox/dtox2021/125267
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 5 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 5 HD.
+http://martepro.com:2082/dtox/dtox2021/125268
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 6 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 6 HD.
+http://martepro.com:2082/dtox/dtox2021/125269
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 7 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 7 HD.
+http://martepro.com:2082/dtox/dtox2021/125270
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 8 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 8 HD.
+http://martepro.com:2082/dtox/dtox2021/125271
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 9 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 9 HD.
+http://martepro.com:2082/dtox/dtox2021/125272
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10 HD." tvg-logo="" group-title="ITALIALOCAL",DAZN SERIE A 10 HD.
+http://martepro.com:2082/dtox/dtox2021/125273
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD." tvg-logo="" group-title="ITALIALOCAL",DISNEY JUNIOR HD.
+http://martepro.com:2082/dtox/dtox2021/125274
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD." tvg-logo="" group-title="ITALIALOCAL",DISNEY CHANNEL HD.
+http://martepro.com:2082/dtox/dtox2021/125275
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD." tvg-logo="" group-title="ITALIALOCAL",DISNEY XD HD.
+http://martepro.com:2082/dtox/dtox2021/125276
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TV HD" tvg-logo="" group-title="ITALIALOCAL",SUPER TV HD
+http://martepro.com:2082/dtox/dtox2021/125277
+#EXTINF:-1 tvg-id="" tvg-name="SUPER J HD" tvg-logo="" group-title="ITALIALOCAL",SUPER J HD
+http://martepro.com:2082/dtox/dtox2021/125278
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Store 1" tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="UKLOCAL",UK: SKY Store 1
 http://martepro.com:2082/dtox/dtox2021/94944
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Store 2" tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="UKLOCAL",UK: SKY Store 2
@@ -8163,6 +8153,10 @@ http://martepro.com:2082/dtox/dtox2021/123319
 http://martepro.com:2082/dtox/dtox2021/123320
 #EXTINF:-1 tvg-id="" tvg-name="UK | Viaplay Xtraⓧ FHD" tvg-logo="http://best-cms-pro.xyz:25461/images/d9f7159df53757bd3a8f74e04ed962a4.png" group-title="UKLOCAL",UK | Viaplay Xtraⓧ FHD
 http://martepro.com:2082/dtox/dtox2021/123321
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="" group-title="UKLOCAL",TNT SPORTS 5 HD
+http://martepro.com:2082/dtox/dtox2021/125300
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="" group-title="UKLOCAL",TNT SPORTS 6 HD
+http://martepro.com:2082/dtox/dtox2021/125301
 #EXTINF:-1 tvg-id="" tvg-name="•●★-- ABC --★●•" tvg-logo="http://tvgolatino.com:8080/images/6aa73319684d8a16948bfd1389160d64.png" group-title="Usa",•●★-- ABC --★●•
 http://martepro.com:2082/dtox/dtox2021/87130
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC News" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="Usa",USA: ABC News
@@ -12159,7 +12153,7 @@ http://martepro.com:2082/dtox/dtox2021/93592
 http://martepro.com:2082/dtox/dtox2021/93593
 #EXTINF:-1 tvg-id="" tvg-name="CH: Comedy Central / VIVA" tvg-logo="https://i.postimg.cc/0yWKLQRC/Comedy-Central-logo.png" group-title="SUICALOCAL",CH: Comedy Central / VIVA
 http://martepro.com:2082/dtox/dtox2021/93594
-#EXTINF:-1 tvg-id="" tvg-name="CH: KANAL 9 (DEUTSCHE)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_9_suisse.png/revision/latest/scale-to-width-down/155?cb=20181020212722" group-title="SUICALOCAL",CH: KANAL 9 (DEUTSCHE)
+#EXTINF:-1 tvg-id="" tvg-name="CH: KANAL 9 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_9_suisse.png/revision/latest/scale-to-width-down/155?cb=20181020212722" group-title="SUICALOCAL",CH: KANAL 9 
 http://martepro.com:2082/dtox/dtox2021/93595
 #EXTINF:-1 tvg-id="" tvg-name="CH: MySports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/MySports-One.jpg/revision/latest/scale-to-width-down/240?cb=20191105173706" group-title="SUICALOCAL",CH: MySports 1 HD
 http://martepro.com:2082/dtox/dtox2021/93596
@@ -12185,8 +12179,6 @@ http://martepro.com:2082/dtox/dtox2021/93605
 http://martepro.com:2082/dtox/dtox2021/93606
 #EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Action" tvg-logo="" group-title="SUICALOCAL",CH: Teleclub Action
 http://martepro.com:2082/dtox/dtox2021/93607
-#EXTINF:-1 tvg-id="" tvg-name="CH: club TeleSport 1" tvg-logo="https://seeklogo.com/images/T/Teleclub_Sport_1-logo-C67143259A-seeklogo.com.gif" group-title="SUICALOCAL",CH: club TeleSport 1
-http://martepro.com:2082/dtox/dtox2021/93609
 #EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Sport 1 FHD" tvg-logo="https://seeklogo.com/images/T/Teleclub_Sport_1-logo-C67143259A-seeklogo.com.gif" group-title="SUICALOCAL",CH: TeleClub Sport 1 FHD
 http://martepro.com:2082/dtox/dtox2021/93610
 #EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub  Sport 2 FHD" tvg-logo="https://seeklogo.com/images/T/Teleclub_Sport_2-logo-37DE4DDA39-seeklogo.com.gif" group-title="SUICALOCAL",CH: TeleClub  Sport 2 FHD
@@ -12309,10 +12301,6 @@ http://martepro.com:2082/dtox/dtox2021/124915
 http://martepro.com:2082/dtox/dtox2021/124916
 #EXTINF:-1 tvg-id="" tvg-name="telebielingue" tvg-logo="" group-title="SUICALOCAL",telebielingue
 http://martepro.com:2082/dtox/dtox2021/124917
-#EXTINF:-1 tvg-id="" tvg-name="tele D" tvg-logo="" group-title="SUICALOCAL",tele D
-http://martepro.com:2082/dtox/dtox2021/124918
-#EXTINF:-1 tvg-id="" tvg-name=" tele top" tvg-logo="" group-title="SUICALOCAL", tele top
-http://martepro.com:2082/dtox/dtox2021/124919
 #EXTINF:-1 tvg-id="" tvg-name="tele basel" tvg-logo="" group-title="SUICALOCAL",tele basel
 http://martepro.com:2082/dtox/dtox2021/124920
 #EXTINF:-1 tvg-id="" tvg-name="Rouge tv" tvg-logo="" group-title="SUICALOCAL",Rouge tv
@@ -12391,6 +12379,48 @@ http://martepro.com:2082/dtox/dtox2021/125185
 http://martepro.com:2082/dtox/dtox2021/125186
 #EXTINF:-1 tvg-id="" tvg-name="Swiss Sport TV" tvg-logo="" group-title="SUICALOCAL",Swiss Sport TV
 http://martepro.com:2082/dtox/dtox2021/125187
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD." tvg-logo="" group-title="SUICALOCAL",TF1 HD.
+http://martepro.com:2082/dtox/dtox2021/125279
+#EXTINF:-1 tvg-id="" tvg-name="SWISS1 HD." tvg-logo="" group-title="SUICALOCAL",SWISS1 HD.
+http://martepro.com:2082/dtox/dtox2021/125280
+#EXTINF:-1 tvg-id="" tvg-name=" M6  HD." tvg-logo="" group-title="SUICALOCAL", M6  HD.
+http://martepro.com:2082/dtox/dtox2021/125281
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 HD" tvg-logo="" group-title="SUICALOCAL",FRANCE 2 HD
+http://martepro.com:2082/dtox/dtox2021/125282
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 HD." tvg-logo="" group-title="SUICALOCAL",FRANCE 3 HD.
+http://martepro.com:2082/dtox/dtox2021/125283
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 HD." tvg-logo="" group-title="SUICALOCAL",FRANCE 4 HD.
+http://martepro.com:2082/dtox/dtox2021/125284
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 HD." tvg-logo="" group-title="SUICALOCAL",FRANCE 5 HD.
+http://martepro.com:2082/dtox/dtox2021/125285
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD." tvg-logo="" group-title="SUICALOCAL",FRANCE 24 HD.
+http://martepro.com:2082/dtox/dtox2021/125286
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD" tvg-logo="" group-title="SUICALOCAL",BFM TV HD
+http://martepro.com:2082/dtox/dtox2021/125287
+#EXTINF:-1 tvg-id="" tvg-name="BFM BUSINESS HD" tvg-logo="" group-title="SUICALOCAL",BFM BUSINESS HD
+http://martepro.com:2082/dtox/dtox2021/125288
+#EXTINF:-1 tvg-id="" tvg-name=" W9 HD." tvg-logo="" group-title="SUICALOCAL", W9 HD.
+http://martepro.com:2082/dtox/dtox2021/125289
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD." tvg-logo="" group-title="SUICALOCAL",TFX HD.
+http://martepro.com:2082/dtox/dtox2021/125290
+#EXTINF:-1 tvg-id="" tvg-name=" LA7 D HD." tvg-logo="" group-title="SUICALOCAL", LA7 D HD.
+http://martepro.com:2082/dtox/dtox2021/125291
+#EXTINF:-1 tvg-id="" tvg-name=" ARTE HD." tvg-logo="" group-title="SUICALOCAL", ARTE HD.
+http://martepro.com:2082/dtox/dtox2021/125292
+#EXTINF:-1 tvg-id="" tvg-name=" RTL HD." tvg-logo="" group-title="SUICALOCAL", RTL HD.
+http://martepro.com:2082/dtox/dtox2021/125293
+#EXTINF:-1 tvg-id="" tvg-name=" TMC HD." tvg-logo="" group-title="SUICALOCAL", TMC HD.
+http://martepro.com:2082/dtox/dtox2021/125294
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD." tvg-logo="" group-title="SUICALOCAL",ZDF HD.
+http://martepro.com:2082/dtox/dtox2021/125295
+#EXTINF:-1 tvg-id="" tvg-name="SWR HD." tvg-logo="" group-title="SUICALOCAL",SWR HD.
+http://martepro.com:2082/dtox/dtox2021/125296
+#EXTINF:-1 tvg-id="" tvg-name=" CNEWS HD." tvg-logo="" group-title="SUICALOCAL", CNEWS HD.
+http://martepro.com:2082/dtox/dtox2021/125297
+#EXTINF:-1 tvg-id="" tvg-name="ORF SPORT+ HD." tvg-logo="" group-title="SUICALOCAL",ORF SPORT+ HD.
+http://martepro.com:2082/dtox/dtox2021/125298
+#EXTINF:-1 tvg-id="" tvg-name="CARAC4 HD." tvg-logo="" group-title="SUICALOCAL",CARAC4 HD.
+http://martepro.com:2082/dtox/dtox2021/125299
 #EXTINF:-1 tvg-id="" tvg-name="Mor: Al Aoula Inter" tvg-logo="" group-title="MARROCOSLOCAL",Mor: Al Aoula Inter
 http://martepro.com:2082/dtox/dtox2021/94372
 #EXTINF:-1 tvg-id="" tvg-name="Mor: Al Aoula HD" tvg-logo="" group-title="MARROCOSLOCAL",Mor: Al Aoula HD
@@ -17523,3 +17553,247 @@ http://martepro.com:2082/dtox/dtox2021/124206
 http://martepro.com:2082/dtox/dtox2021/124207
 #EXTINF:-1 tvg-id="" tvg-name="F1 TV ⓧ: Main Race | Dutch Lang" tvg-logo="http://xplatinmedia.com:8080/images/cfcd208495d565ef66e7dff9f98764da.png" group-title="FORMULA 1",F1 TV ⓧ: Main Race | Dutch Lang
 http://martepro.com:2082/dtox/dtox2021/124208
+#EXTINF:-1 tvg-id="" tvg-name="Vila Praia de Âncora" tvg-logo="" group-title="PRAIAS",Vila Praia de Âncora
+http://martepro.com:2082/dtox/dtox2021/125316
+#EXTINF:-1 tvg-id="" tvg-name="Esposende" tvg-logo="" group-title="PRAIAS",Esposende
+http://martepro.com:2082/dtox/dtox2021/125317
+#EXTINF:-1 tvg-id="" tvg-name="Ofir" tvg-logo="" group-title="PRAIAS",Ofir
+http://martepro.com:2082/dtox/dtox2021/125318
+#EXTINF:-1 tvg-id="" tvg-name="Leça da Palmeira" tvg-logo="" group-title="PRAIAS",Leça da Palmeira
+http://martepro.com:2082/dtox/dtox2021/125319
+#EXTINF:-1 tvg-id="" tvg-name="Matosinhos" tvg-logo="" group-title="PRAIAS",Matosinhos
+http://martepro.com:2082/dtox/dtox2021/125320
+#EXTINF:-1 tvg-id="" tvg-name="Porto - Homem do Leme" tvg-logo="" group-title="PRAIAS",Porto - Homem do Leme
+http://martepro.com:2082/dtox/dtox2021/125321
+#EXTINF:-1 tvg-id="" tvg-name="Porto - Carneiro" tvg-logo="" group-title="PRAIAS",Porto - Carneiro
+http://martepro.com:2082/dtox/dtox2021/125322
+#EXTINF:-1 tvg-id="" tvg-name="Praia Canide Norte - Sul" tvg-logo="" group-title="PRAIAS",Praia Canide Norte - Sul
+http://martepro.com:2082/dtox/dtox2021/125323
+#EXTINF:-1 tvg-id="" tvg-name="Espinho" tvg-logo="" group-title="PRAIAS",Espinho
+http://martepro.com:2082/dtox/dtox2021/125324
+#EXTINF:-1 tvg-id="" tvg-name="Esmoriz" tvg-logo="" group-title="PRAIAS",Esmoriz
+http://martepro.com:2082/dtox/dtox2021/125325
+#EXTINF:-1 tvg-id="" tvg-name="Furadouro" tvg-logo="" group-title="PRAIAS",Furadouro
+http://martepro.com:2082/dtox/dtox2021/125326
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Torreira" tvg-logo="" group-title="PRAIAS",Praia da Torreira
+http://martepro.com:2082/dtox/dtox2021/125327
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Barra" tvg-logo="" group-title="PRAIAS",Praia da Barra
+http://martepro.com:2082/dtox/dtox2021/125328
+#EXTINF:-1 tvg-id="" tvg-name="Costa Nova" tvg-logo="" group-title="PRAIAS",Costa Nova
+http://martepro.com:2082/dtox/dtox2021/125329
+#EXTINF:-1 tvg-id="" tvg-name="Praia de Mira" tvg-logo="" group-title="PRAIAS",Praia de Mira
+http://martepro.com:2082/dtox/dtox2021/125330
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Tocha" tvg-logo="" group-title="PRAIAS",Praia da Tocha
+http://martepro.com:2082/dtox/dtox2021/125331
+#EXTINF:-1 tvg-id="" tvg-name="Murtinheira" tvg-logo="" group-title="PRAIAS",Murtinheira
+http://martepro.com:2082/dtox/dtox2021/125332
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz" tvg-logo="" group-title="PRAIAS",Figueira da Foz
+http://martepro.com:2082/dtox/dtox2021/125333
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz - Buarcos" tvg-logo="" group-title="PRAIAS",Figueira da Foz - Buarcos
+http://martepro.com:2082/dtox/dtox2021/125334
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz - Cabedelo" tvg-logo="" group-title="PRAIAS",Figueira da Foz - Cabedelo
+http://martepro.com:2082/dtox/dtox2021/125335
+#EXTINF:-1 tvg-id="" tvg-name="Praia Osso da Baleia" tvg-logo="" group-title="PRAIAS",Praia Osso da Baleia
+http://martepro.com:2082/dtox/dtox2021/125336
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Pedrógão" tvg-logo="" group-title="PRAIAS",Praia do Pedrógão
+http://martepro.com:2082/dtox/dtox2021/125337
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Vieira" tvg-logo="" group-title="PRAIAS",Praia da Vieira
+http://martepro.com:2082/dtox/dtox2021/125338
+#EXTINF:-1 tvg-id="" tvg-name="São Pedro de Moel" tvg-logo="" group-title="PRAIAS",São Pedro de Moel
+http://martepro.com:2082/dtox/dtox2021/125339
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Forte S. Miguel Arcanjo" tvg-logo="" group-title="PRAIAS",Nazaré - Forte S. Miguel Arcanjo
+http://martepro.com:2082/dtox/dtox2021/125340
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Forte S. Miguel Arcanjo Panorâmica" tvg-logo="" group-title="PRAIAS",Nazaré - Forte S. Miguel Arcanjo Panorâmica
+http://martepro.com:2082/dtox/dtox2021/125341
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Forte S. Miguel Arcanjo - Baía" tvg-logo="" group-title="PRAIAS",Nazaré - Forte S. Miguel Arcanjo - Baía
+http://martepro.com:2082/dtox/dtox2021/125342
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Praia do Norte" tvg-logo="" group-title="PRAIAS",Nazaré - Praia do Norte
+http://martepro.com:2082/dtox/dtox2021/125343
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Praia do Norte panorâmica" tvg-logo="" group-title="PRAIAS",Nazaré - Praia do Norte panorâmica
+http://martepro.com:2082/dtox/dtox2021/125344
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Praia da Vila" tvg-logo="" group-title="PRAIAS",Nazaré - Praia da Vila
+http://martepro.com:2082/dtox/dtox2021/125345
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré - Porto de Abrigo" tvg-logo="" group-title="PRAIAS",Nazaré - Porto de Abrigo
+http://martepro.com:2082/dtox/dtox2021/125346
+#EXTINF:-1 tvg-id="" tvg-name="Foz do Arelho" tvg-logo="" group-title="PRAIAS",Foz do Arelho
+http://martepro.com:2082/dtox/dtox2021/125347
+#EXTINF:-1 tvg-id="" tvg-name="Peniche - Lagide" tvg-logo="" group-title="PRAIAS",Peniche - Lagide
+http://martepro.com:2082/dtox/dtox2021/125348
+#EXTINF:-1 tvg-id="" tvg-name="Peniche - Supertubos" tvg-logo="" group-title="PRAIAS",Peniche - Supertubos
+http://martepro.com:2082/dtox/dtox2021/125349
+#EXTINF:-1 tvg-id="" tvg-name="Areia Branca" tvg-logo="" group-title="PRAIAS",Areia Branca
+http://martepro.com:2082/dtox/dtox2021/125350
+#EXTINF:-1 tvg-id="" tvg-name="Praia de Santa Rita" tvg-logo="" group-title="PRAIAS",Praia de Santa Rita
+http://martepro.com:2082/dtox/dtox2021/125351
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz" tvg-logo="" group-title="PRAIAS",Santa Cruz
+http://martepro.com:2082/dtox/dtox2021/125352
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz - Praia Azul" tvg-logo="" group-title="PRAIAS",Santa Cruz - Praia Azul
+http://martepro.com:2082/dtox/dtox2021/125353
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Calada" tvg-logo="" group-title="PRAIAS",Praia da Calada
+http://martepro.com:2082/dtox/dtox2021/125354
+#EXTINF:-1 tvg-id="" tvg-name="São Lourenço" tvg-logo="" group-title="PRAIAS",São Lourenço
+http://martepro.com:2082/dtox/dtox2021/125355
+#EXTINF:-1 tvg-id="" tvg-name="Ribeira D'Ilhas" tvg-logo="" group-title="PRAIAS",Ribeira D'Ilhas
+http://martepro.com:2082/dtox/dtox2021/125356
+#EXTINF:-1 tvg-id="" tvg-name="Ericeira" tvg-logo="" group-title="PRAIAS",Ericeira
+http://martepro.com:2082/dtox/dtox2021/125357
+#EXTINF:-1 tvg-id="" tvg-name="Matadouro + SkatePark" tvg-logo="" group-title="PRAIAS",Matadouro + SkatePark
+http://martepro.com:2082/dtox/dtox2021/125358
+#EXTINF:-1 tvg-id="" tvg-name="Praia dos Pescadores" tvg-logo="" group-title="PRAIAS",Praia dos Pescadores
+http://martepro.com:2082/dtox/dtox2021/125359
+#EXTINF:-1 tvg-id="" tvg-name="Ericeira - Praia do Sul" tvg-logo="" group-title="PRAIAS",Ericeira - Praia do Sul
+http://martepro.com:2082/dtox/dtox2021/125360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PRAIAS",
+http://martepro.com:2082/dtox/dtox2021/125361
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Maçãs" tvg-logo="" group-title="PRAIAS",Praia das Maçãs
+http://martepro.com:2082/dtox/dtox2021/125362
+#EXTINF:-1 tvg-id="" tvg-name="Praia Pequena" tvg-logo="" group-title="PRAIAS",Praia Pequena
+http://martepro.com:2082/dtox/dtox2021/125363
+#EXTINF:-1 tvg-id="" tvg-name="Praia Grande - Norte" tvg-logo="" group-title="PRAIAS",Praia Grande - Norte
+http://martepro.com:2082/dtox/dtox2021/125364
+#EXTINF:-1 tvg-id="" tvg-name="Praia Grande - Sul" tvg-logo="" group-title="PRAIAS",Praia Grande - Sul
+http://martepro.com:2082/dtox/dtox2021/125365
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Guincho - Norte" tvg-logo="" group-title="PRAIAS",Praia do Guincho - Norte
+http://martepro.com:2082/dtox/dtox2021/125366
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Guincho - Sul" tvg-logo="" group-title="PRAIAS",Praia do Guincho - Sul
+http://martepro.com:2082/dtox/dtox2021/125367
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Cresmina" tvg-logo="" group-title="PRAIAS",Praia da Cresmina
+http://martepro.com:2082/dtox/dtox2021/125368
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Guincho - Sul" tvg-logo="" group-title="PRAIAS",Praia do Guincho - Sul
+http://martepro.com:2082/dtox/dtox2021/125369
+#EXTINF:-1 tvg-id="" tvg-name="Baía de Cascais" tvg-logo="" group-title="PRAIAS",Baía de Cascais
+http://martepro.com:2082/dtox/dtox2021/125370
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Conceição e Duquesa" tvg-logo="" group-title="PRAIAS",Praia da Conceição e Duquesa
+http://martepro.com:2082/dtox/dtox2021/125371
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Moitas" tvg-logo="" group-title="PRAIAS",Praia das Moitas
+http://martepro.com:2082/dtox/dtox2021/125372
+#EXTINF:-1 tvg-id="" tvg-name="Tamariz" tvg-logo="" group-title="PRAIAS",Tamariz
+http://martepro.com:2082/dtox/dtox2021/125373
+#EXTINF:-1 tvg-id="" tvg-name="São João do Estoril" tvg-logo="" group-title="PRAIAS",São João do Estoril
+http://martepro.com:2082/dtox/dtox2021/125374
+#EXTINF:-1 tvg-id="" tvg-name="São Pedro do Estoril" tvg-logo="" group-title="PRAIAS",São Pedro do Estoril
+http://martepro.com:2082/dtox/dtox2021/125375
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Avencas" tvg-logo="" group-title="PRAIAS",Praia das Avencas
+http://martepro.com:2082/dtox/dtox2021/125376
+#EXTINF:-1 tvg-id="" tvg-name="Parede" tvg-logo="" group-title="PRAIAS",Parede
+http://martepro.com:2082/dtox/dtox2021/125377
+#EXTINF:-1 tvg-id="" tvg-name="Carcavelos" tvg-logo="" group-title="PRAIAS",Carcavelos
+http://martepro.com:2082/dtox/dtox2021/125378
+#EXTINF:-1 tvg-id="" tvg-name="Carcavelos - Calhau" tvg-logo="" group-title="PRAIAS",Carcavelos - Calhau
+http://martepro.com:2082/dtox/dtox2021/125379
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Torre" tvg-logo="" group-title="PRAIAS",Praia da Torre
+http://martepro.com:2082/dtox/dtox2021/125380
+#EXTINF:-1 tvg-id="" tvg-name="Santo Amaro" tvg-logo="" group-title="PRAIAS",Santo Amaro
+http://martepro.com:2082/dtox/dtox2021/125381
+#EXTINF:-1 tvg-id="" tvg-name="Paço de Arcos" tvg-logo="" group-title="PRAIAS",Paço de Arcos
+http://martepro.com:2082/dtox/dtox2021/125382
+#EXTINF:-1 tvg-id="" tvg-name="Caxias" tvg-logo="" group-title="PRAIAS",Caxias
+http://martepro.com:2082/dtox/dtox2021/125383
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - S. João" tvg-logo="" group-title="PRAIAS",Costa de Caparica - S. João
+http://martepro.com:2082/dtox/dtox2021/125384
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - CDS Norte" tvg-logo="" group-title="PRAIAS",Costa de Caparica - CDS Norte
+http://martepro.com:2082/dtox/dtox2021/125385
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - CDS Sul" tvg-logo="" group-title="PRAIAS",Costa de Caparica - CDS Sul
+http://martepro.com:2082/dtox/dtox2021/125386
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - Praia Nova" tvg-logo="" group-title="PRAIAS",Costa de Caparica - Praia Nova
+http://martepro.com:2082/dtox/dtox2021/125387
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - Riviera" tvg-logo="" group-title="PRAIAS",Costa de Caparica - Riviera
+http://martepro.com:2082/dtox/dtox2021/125388
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica - Cabana do Pescador" tvg-logo="" group-title="PRAIAS",Costa de Caparica - Cabana do Pescador
+http://martepro.com:2082/dtox/dtox2021/125389
+#EXTINF:-1 tvg-id="" tvg-name="Fonte da Telha" tvg-logo="" group-title="PRAIAS",Fonte da Telha
+http://martepro.com:2082/dtox/dtox2021/125390
+#EXTINF:-1 tvg-id="" tvg-name="Lagoa de Albufeira" tvg-logo="" group-title="PRAIAS",Lagoa de Albufeira
+http://martepro.com:2082/dtox/dtox2021/125391
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Meco" tvg-logo="" group-title="PRAIAS",Praia do Meco
+http://martepro.com:2082/dtox/dtox2021/125392
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Bicas" tvg-logo="" group-title="PRAIAS",Praia das Bicas
+http://martepro.com:2082/dtox/dtox2021/125393
+#EXTINF:-1 tvg-id="" tvg-name="Praia Sesimbra" tvg-logo="" group-title="PRAIAS",Praia Sesimbra
+http://martepro.com:2082/dtox/dtox2021/125394
+#EXTINF:-1 tvg-id="" tvg-name="Portinho da Arrábida" tvg-logo="" group-title="PRAIAS",Portinho da Arrábida
+http://martepro.com:2082/dtox/dtox2021/125395
+#EXTINF:-1 tvg-id="" tvg-name="Albarquel" tvg-logo="" group-title="PRAIAS",Albarquel
+http://martepro.com:2082/dtox/dtox2021/125396
+#EXTINF:-1 tvg-id="" tvg-name="Troia" tvg-logo="" group-title="PRAIAS",Troia
+http://martepro.com:2082/dtox/dtox2021/125397
+#EXTINF:-1 tvg-id="" tvg-name="Comporta" tvg-logo="" group-title="PRAIAS",Comporta
+http://martepro.com:2082/dtox/dtox2021/125398
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Carvalhal" tvg-logo="" group-title="PRAIAS",Praia do Carvalhal
+http://martepro.com:2082/dtox/dtox2021/125399
+#EXTINF:-1 tvg-id="" tvg-name="Lagoa de Santo André" tvg-logo="" group-title="PRAIAS",Lagoa de Santo André
+http://martepro.com:2082/dtox/dtox2021/125400
+#EXTINF:-1 tvg-id="" tvg-name="S. Torpes" tvg-logo="" group-title="PRAIAS",S. Torpes
+http://martepro.com:2082/dtox/dtox2021/125401
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes - Franquia" tvg-logo="" group-title="PRAIAS",Vila Nova de Milfontes - Franquia
+http://martepro.com:2082/dtox/dtox2021/125402
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes - Farol" tvg-logo="" group-title="PRAIAS",Vila Nova de Milfontes - Farol
+http://martepro.com:2082/dtox/dtox2021/125403
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes - Furnas Mar" tvg-logo="" group-title="PRAIAS",Vila Nova de Milfontes - Furnas Mar
+http://martepro.com:2082/dtox/dtox2021/125404
+#EXTINF:-1 tvg-id="" tvg-name="Almograve" tvg-logo="" group-title="PRAIAS",Almograve
+http://martepro.com:2082/dtox/dtox2021/125405
+#EXTINF:-1 tvg-id="" tvg-name="Zambujeira do Mar" tvg-logo="" group-title="PRAIAS",Zambujeira do Mar
+http://martepro.com:2082/dtox/dtox2021/125406
+#EXTINF:-1 tvg-id="" tvg-name="Odeceixe" tvg-logo="" group-title="PRAIAS",Odeceixe
+http://martepro.com:2082/dtox/dtox2021/125407
+#EXTINF:-1 tvg-id="" tvg-name="Monte Clérigo" tvg-logo="" group-title="PRAIAS",Monte Clérigo
+http://martepro.com:2082/dtox/dtox2021/125408
+#EXTINF:-1 tvg-id="" tvg-name="Arrifana" tvg-logo="" group-title="PRAIAS",Arrifana
+http://martepro.com:2082/dtox/dtox2021/125409
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Amado" tvg-logo="" group-title="PRAIAS",Praia do Amado
+http://martepro.com:2082/dtox/dtox2021/125410
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Luz" tvg-logo="" group-title="PRAIAS",Praia da Luz
+http://martepro.com:2082/dtox/dtox2021/125411
+#EXTINF:-1 tvg-id="" tvg-name="Meia Praia" tvg-logo="" group-title="PRAIAS",Meia Praia
+http://martepro.com:2082/dtox/dtox2021/125412
+#EXTINF:-1 tvg-id="" tvg-name="Alvor" tvg-logo="" group-title="PRAIAS",Alvor
+http://martepro.com:2082/dtox/dtox2021/125413
+#EXTINF:-1 tvg-id="" tvg-name="Alvor Nascente" tvg-logo="" group-title="PRAIAS",Alvor Nascente
+http://martepro.com:2082/dtox/dtox2021/125414
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Rocha" tvg-logo="" group-title="PRAIAS",Praia da Rocha
+http://martepro.com:2082/dtox/dtox2021/125415
+#EXTINF:-1 tvg-id="" tvg-name="Ferragudo - Praia Grande" tvg-logo="" group-title="PRAIAS",Ferragudo - Praia Grande
+http://martepro.com:2082/dtox/dtox2021/125416
+#EXTINF:-1 tvg-id="" tvg-name="Carvoeiro" tvg-logo="" group-title="PRAIAS",Carvoeiro
+http://martepro.com:2082/dtox/dtox2021/125417
+#EXTINF:-1 tvg-id="" tvg-name="Senhora da Rocha e Praia Nova" tvg-logo="" group-title="PRAIAS",Senhora da Rocha e Praia Nova
+http://martepro.com:2082/dtox/dtox2021/125418
+#EXTINF:-1 tvg-id="" tvg-name="Armação de Pêra" tvg-logo="" group-title="PRAIAS",Armação de Pêra
+http://martepro.com:2082/dtox/dtox2021/125419
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Galé" tvg-logo="" group-title="PRAIAS",Praia da Galé
+http://martepro.com:2082/dtox/dtox2021/125420
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Peneco" tvg-logo="" group-title="PRAIAS",Praia do Peneco
+http://martepro.com:2082/dtox/dtox2021/125421
+#EXTINF:-1 tvg-id="" tvg-name="Vilamoura" tvg-logo="" group-title="PRAIAS",Vilamoura
+http://martepro.com:2082/dtox/dtox2021/125422
+#EXTINF:-1 tvg-id="" tvg-name="Faro" tvg-logo="" group-title="PRAIAS",Faro
+http://martepro.com:2082/dtox/dtox2021/125423
+#EXTINF:-1 tvg-id="" tvg-name="Alagoa - Altura" tvg-logo="" group-title="PRAIAS",Alagoa - Altura
+http://martepro.com:2082/dtox/dtox2021/125424
+#EXTINF:-1 tvg-id="" tvg-name="Praia Verde - Castro Marim" tvg-logo="" group-title="PRAIAS",Praia Verde - Castro Marim
+http://martepro.com:2082/dtox/dtox2021/125425
+#EXTINF:-1 tvg-id="" tvg-name="Madeira - Ponta Pequena - Paul" tvg-logo="" group-title="PRAIAS",Madeira - Ponta Pequena - Paul
+http://martepro.com:2082/dtox/dtox2021/125426
+#EXTINF:-1 tvg-id="" tvg-name="Madeira - Jardim do Mar" tvg-logo="" group-title="PRAIAS",Madeira - Jardim do Mar
+http://martepro.com:2082/dtox/dtox2021/125427
+#EXTINF:-1 tvg-id="" tvg-name="Madeira - Porto Santo" tvg-logo="" group-title="PRAIAS",Madeira - Porto Santo
+http://martepro.com:2082/dtox/dtox2021/125428
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Rocas" tvg-logo="" group-title="PRAIAS",Praia das Rocas
+http://martepro.com:2082/dtox/dtox2021/125429
+#EXTINF:-1 tvg-id="" tvg-name="Ria de Aveiro - Murtosa" tvg-logo="" group-title="PRAIAS",Ria de Aveiro - Murtosa
+http://martepro.com:2082/dtox/dtox2021/125430
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere - Cable Park" tvg-logo="" group-title="PRAIAS",Ferreira do Zêzere - Cable Park
+http://martepro.com:2082/dtox/dtox2021/125431
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere - Lago Azul" tvg-logo="" group-title="PRAIAS",Ferreira do Zêzere - Lago Azul
+http://martepro.com:2082/dtox/dtox2021/125432
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere - Dornes" tvg-logo="" group-title="PRAIAS",Ferreira do Zêzere - Dornes
+http://martepro.com:2082/dtox/dtox2021/125433
+#EXTINF:-1 tvg-id="" tvg-name="Lisboa - Cais do Sodré" tvg-logo="" group-title="PRAIAS",Lisboa - Cais do Sodré
+http://martepro.com:2082/dtox/dtox2021/125434
+#EXTINF:-1 tvg-id="" tvg-name="Lisboa - Belém" tvg-logo="" group-title="PRAIAS",Lisboa - Belém
+http://martepro.com:2082/dtox/dtox2021/125435
+#EXTINF:-1 tvg-id="" tvg-name="Farol do Bugio Norte" tvg-logo="" group-title="PRAIAS",Farol do Bugio Norte
+http://martepro.com:2082/dtox/dtox2021/125436
+#EXTINF:-1 tvg-id="" tvg-name="Farol do Bugio Sul" tvg-logo="" group-title="PRAIAS",Farol do Bugio Sul
+http://martepro.com:2082/dtox/dtox2021/125437
