@@ -995,8 +995,6 @@ http://martepro.com:2082/dtox/dtox2021/70148
 http://martepro.com:2082/dtox/dtox2021/124174
 #EXTINF:-1 tvg-id="" tvg-name="MosaicoInfo_HD" tvg-logo="" group-title="Portugal",MosaicoInfo_HD
 http://martepro.com:2082/dtox/dtox2021/124175
-#EXTINF:-1 tvg-id="" tvg-name="MosaicoEleven_HD" tvg-logo="" group-title="Portugal",MosaicoEleven_HD
-http://martepro.com:2082/dtox/dtox2021/124176
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Family" tvg-logo="" group-title="Portugal",Rakuten Family
 http://martepro.com:2082/dtox/dtox2021/124177
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="" group-title="Portugal",ZEE CINEMA
@@ -1099,6 +1097,8 @@ http://martepro.com:2082/dtox/dtox2021/125235
 http://martepro.com:2082/dtox/dtox2021/125251
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOSAICO" tvg-logo="" group-title="Portugal",DAZN MOSAICO
 http://martepro.com:2082/dtox/dtox2021/125252
+#EXTINF:-1 tvg-id="" tvg-name="NFL TV" tvg-logo="" group-title="Portugal",NFL TV
+http://martepro.com:2082/dtox/dtox2021/125438
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -2095,7 +2095,7 @@ http://martepro.com:2082/dtox/dtox2021/89901
 http://martepro.com:2082/dtox/dtox2021/90407
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIK 3" tvg-logo="https://i.postimg.cc/YS8QnLvv/adultos.jpg" group-title="Adultos",XXX: EROTIK 3
 http://martepro.com:2082/dtox/dtox2021/90408
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIK 4" tvg-logo="https://i.postimg.cc/YS8QnLvv/adultos.jpg" group-title="Adultos",XXX: EROTIK 4
+#EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE TAXI" tvg-logo="https://i.postimg.cc/YS8QnLvv/adultos.jpg" group-title="Adultos",XXX: FAKE TAXI
 http://martepro.com:2082/dtox/dtox2021/90409
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIK 5" tvg-logo="https://i.postimg.cc/YS8QnLvv/adultos.jpg" group-title="Adultos",XXX: EROTIK 5
 http://martepro.com:2082/dtox/dtox2021/90410
@@ -2261,7 +2261,7 @@ http://martepro.com:2082/dtox/dtox2021/90489
 http://martepro.com:2082/dtox/dtox2021/90490
 #EXTINF:-1 tvg-id="" tvg-name="XXX: FAKE COPS" tvg-logo="http://tamosca.xyz:8080/images/cee842f2227837515c3db28a5d31ebb3.png" group-title="Adultos",XXX: FAKE COPS
 http://martepro.com:2082/dtox/dtox2021/90491
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Puta Locura" tvg-logo="http://tamosca.xyz:8080/images/67ac1c219aa9660edba1f907c94506f8.png" group-title="Adultos",XXX: Puta Locura
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY" tvg-logo="http://tamosca.xyz:8080/images/67ac1c219aa9660edba1f907c94506f8.png" group-title="Adultos",XXX: EXTASY
 http://martepro.com:2082/dtox/dtox2021/90493
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Dorcel xxx" tvg-logo="" group-title="Adultos",XXX: Dorcel xxx
 http://martepro.com:2082/dtox/dtox2021/90494
@@ -2547,7 +2547,7 @@ http://martepro.com:2082/dtox/dtox2021/96608
 http://martepro.com:2082/dtox/dtox2021/96609
 #EXTINF:-1 tvg-id="" tvg-name="|XXX|| AdultIPTV.net Gay" tvg-logo="" group-title="Adultos",|XXX|| AdultIPTV.net Gay
 http://martepro.com:2082/dtox/dtox2021/96610
-#EXTINF:-1 tvg-id="" tvg-name="|XXX|| ADULT 7 HD" tvg-logo="" group-title="Adultos",|XXX|| ADULT 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="|XXX|| RUSSIA XXX HD" tvg-logo="" group-title="Adultos",|XXX|| RUSSIA XXX HD
 http://martepro.com:2082/dtox/dtox2021/96611
 #EXTINF:-1 tvg-id="" tvg-name="||XXX|| AdultIPTV.net Latina" tvg-logo="" group-title="Adultos",||XXX|| AdultIPTV.net Latina
 http://martepro.com:2082/dtox/dtox2021/96612
@@ -2721,7 +2721,7 @@ http://martepro.com:2082/dtox/dtox2021/96698
 http://martepro.com:2082/dtox/dtox2021/96700
 #EXTINF:-1 tvg-id="" tvg-name="Dane Jones" tvg-logo="" group-title="Adultos",Dane Jones
 http://martepro.com:2082/dtox/dtox2021/96701
-#EXTINF:-1 tvg-id="" tvg-name="PORNTUGAL" tvg-logo="" group-title="Adultos",PORNTUGAL
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Tushy 1 FHD" tvg-logo="" group-title="Adultos",XXX: Tushy 1 FHD
 http://martepro.com:2082/dtox/dtox2021/123050
 #EXTINF:-1 tvg-id="" tvg-name="REDISEX "looney"" tvg-logo="https://redisex.com/uploads/custom-logo.png" group-title="EXCLUSIVOS LOONEY",REDISEX "looney"
 http://martepro.com:2082/dtox/dtox2021/409
@@ -7179,8 +7179,6 @@ http://martepro.com:2082/dtox/dtox2021/95224
 http://martepro.com:2082/dtox/dtox2021/95226
 #EXTINF:-1 tvg-id="" tvg-name="IT | Rai Movie FHD" tvg-logo="https://cm-inter.xyz/Logos/ITALY/RAIMOVIEHD.png" group-title="ITALIALOCAL",IT | Rai Movie FHD
 http://martepro.com:2082/dtox/dtox2021/95225
-#EXTINF:-1 tvg-id="" tvg-name="IT | Spike" tvg-logo="" group-title="ITALIALOCAL",IT | Spike
-http://martepro.com:2082/dtox/dtox2021/95227
 #EXTINF:-1 tvg-id="" tvg-name="IT | Mediaset 27 FHD" tvg-logo="" group-title="ITALIALOCAL",IT | Mediaset 27 FHD
 http://martepro.com:2082/dtox/dtox2021/95228
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ Cinema Sky ✦●✦" tvg-logo="" group-title="ITALIALOCAL",✦●✦ Cinema Sky ✦●✦
@@ -9327,20 +9325,12 @@ http://martepro.com:2082/dtox/dtox2021/93631
 http://martepro.com:2082/dtox/dtox2021/93632
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Football 3 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match Football 3 HD
 http://martepro.com:2082/dtox/dtox2021/93633
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Setanta Sport HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Setanta Sport HD
-http://martepro.com:2082/dtox/dtox2021/93634
-#EXTINF:-1 tvg-id="" tvg-name="RUS: A1 TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: A1 TV
-http://martepro.com:2082/dtox/dtox2021/93635
-#EXTINF:-1 tvg-id="" tvg-name="RUS: A2 TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: A2 TV
-http://martepro.com:2082/dtox/dtox2021/93636
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Ani" tvg-logo="" group-title="RUSSIALOCAL",RUS: Ani
 http://martepro.com:2082/dtox/dtox2021/93637
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Animal Planet HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Animal Planet HD
 http://martepro.com:2082/dtox/dtox2021/93638
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Kino Komedija TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kino Komedija TV
 http://martepro.com:2082/dtox/dtox2021/93639
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Kinoserija" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kinoserija
-http://martepro.com:2082/dtox/dtox2021/93640
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Kino Pemiera HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kino Pemiera HD
 http://martepro.com:2082/dtox/dtox2021/93641
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Bridge TV Russkiy Hit" tvg-logo="" group-title="RUSSIALOCAL",RUS: Bridge TV Russkiy Hit
@@ -9377,10 +9367,6 @@ http://martepro.com:2082/dtox/dtox2021/93656
 http://martepro.com:2082/dtox/dtox2021/93657
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Domashniy" tvg-logo="" group-title="RUSSIALOCAL",RUS: Domashniy
 http://martepro.com:2082/dtox/dtox2021/93658
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Zhivaya Planeta" tvg-logo="" group-title="RUSSIALOCAL",RUS: Zhivaya Planeta
-http://martepro.com:2082/dtox/dtox2021/93659
-#EXTINF:-1 tvg-id="" tvg-name="RUS: ACB TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: ACB TV
-http://martepro.com:2082/dtox/dtox2021/93660
 #EXTINF:-1 tvg-id="" tvg-name="RUS: KHL HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: KHL HD
 http://martepro.com:2082/dtox/dtox2021/93661
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Fine Livinig HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Fine Livinig HD
@@ -9393,30 +9379,18 @@ http://martepro.com:2082/dtox/dtox2021/93664
 http://martepro.com:2082/dtox/dtox2021/93665
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Fox Life HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Fox Life HD
 http://martepro.com:2082/dtox/dtox2021/93666
-#EXTINF:-1 tvg-id="" tvg-name="RUS:-FilmBox Arthouse" tvg-logo="" group-title="RUSSIALOCAL",RUS:-FilmBox Arthouse
-http://martepro.com:2082/dtox/dtox2021/93667
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Amedia Premium HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Amedia Premium HD
 http://martepro.com:2082/dtox/dtox2021/93669
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Animal Family HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Animal Family HD
 http://martepro.com:2082/dtox/dtox2021/93670
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Nash Sport" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match Nash Sport
 http://martepro.com:2082/dtox/dtox2021/93671
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Mtv Hits HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Mtv Hits HD
-http://martepro.com:2082/dtox/dtox2021/93672
 #EXTINF:-1 tvg-id="" tvg-name="RUS: History HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: History HD
 http://martepro.com:2082/dtox/dtox2021/93673
-#EXTINF:-1 tvg-id="" tvg-name="RUS: MTV Rocks HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: MTV Rocks HD
-http://martepro.com:2082/dtox/dtox2021/93674
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Muz TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Muz TV
 http://martepro.com:2082/dtox/dtox2021/93675
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Russkij Illuzion HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Russkij Illuzion HD
 http://martepro.com:2082/dtox/dtox2021/93676
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Boomerang TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Boomerang TV
-http://martepro.com:2082/dtox/dtox2021/93677
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Super HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Super HD
-http://martepro.com:2082/dtox/dtox2021/93678
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Box TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Box TV
-http://martepro.com:2082/dtox/dtox2021/93680
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Kino TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kino TV
 http://martepro.com:2082/dtox/dtox2021/93681
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Kino Hit HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kino Hit HD
@@ -9445,22 +9419,14 @@ http://martepro.com:2082/dtox/dtox2021/93692
 http://martepro.com:2082/dtox/dtox2021/93693
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match Premiere HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match Premiere HD
 http://martepro.com:2082/dtox/dtox2021/93694
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 360 Podmoskovie" tvg-logo="" group-title="RUSSIALOCAL",RUS: 360 Podmoskovie
-http://martepro.com:2082/dtox/dtox2021/93695
 #EXTINF:-1 tvg-id="" tvg-name="RUS: MEGAHIT HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: MEGAHIT HD
 http://martepro.com:2082/dtox/dtox2021/93696
-#EXTINF:-1 tvg-id="" tvg-name="RUS: MTV Live HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: MTV Live HD
-http://martepro.com:2082/dtox/dtox2021/93697
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match! Futbol 3 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match! Futbol 3 HD
 http://martepro.com:2082/dtox/dtox2021/93698
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match! Futbol 1 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match! Futbol 1 HD
 http://martepro.com:2082/dtox/dtox2021/93699
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Pyatnitsa!!" tvg-logo="" group-title="RUSSIALOCAL",RUS: Pyatnitsa!!
-http://martepro.com:2082/dtox/dtox2021/93700
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Muzhskoe Kino HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Muzhskoe Kino HD
 http://martepro.com:2082/dtox/dtox2021/93701
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Auto 24" tvg-logo="" group-title="RUSSIALOCAL",RUS: Auto 24
-http://martepro.com:2082/dtox/dtox2021/93702
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Rodnoe Kino HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Rodnoe Kino HD
 http://martepro.com:2082/dtox/dtox2021/93703
 #EXTINF:-1 tvg-id="" tvg-name="RUS: National Geographic HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: National Geographic HD
@@ -9475,8 +9441,6 @@ http://martepro.com:2082/dtox/dtox2021/93707
 http://martepro.com:2082/dtox/dtox2021/93708
 #EXTINF:-1 tvg-id="" tvg-name="RUS: ABTO 24" tvg-logo="" group-title="RUSSIALOCAL",RUS: ABTO 24
 http://martepro.com:2082/dtox/dtox2021/93709
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Setanta Sport 2 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Setanta Sport 2 HD
-http://martepro.com:2082/dtox/dtox2021/93710
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Discovery DTX HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Discovery DTX HD
 http://martepro.com:2082/dtox/dtox2021/93711
 #EXTINF:-1 tvg-id="" tvg-name="RUS: 8 Kanal HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: 8 Kanal HD
@@ -9491,28 +9455,14 @@ http://martepro.com:2082/dtox/dtox2021/93715
 http://martepro.com:2082/dtox/dtox2021/93716
 #EXTINF:-1 tvg-id="" tvg-name="RUS: EuroNews HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: EuroNews HD
 http://martepro.com:2082/dtox/dtox2021/93717
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Planeta RTR HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Planeta RTR HD
-http://martepro.com:2082/dtox/dtox2021/93718
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Eureka HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Eureka HD
 http://martepro.com:2082/dtox/dtox2021/93719
-#EXTINF:-1 tvg-id="" tvg-name="RUS: RTR Russia" tvg-logo="" group-title="RUSSIALOCAL",RUS: RTR Russia
-http://martepro.com:2082/dtox/dtox2021/93720
 #EXTINF:-1 tvg-id="" tvg-name="RUS: RBK HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: RBK HD
 http://martepro.com:2082/dtox/dtox2021/93721
 #EXTINF:-1 tvg-id="" tvg-name="RUS: REN TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: REN TV
 http://martepro.com:2082/dtox/dtox2021/93722
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Cartoon Network HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Cartoon Network HD
 http://martepro.com:2082/dtox/dtox2021/93723
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 1 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: 1 HD
-http://martepro.com:2082/dtox/dtox2021/93724
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 24 Doc" tvg-logo="" group-title="RUSSIALOCAL",RUS: 24 Doc
-http://martepro.com:2082/dtox/dtox2021/93725
-#EXTINF:-1 tvg-id="" tvg-name="RUS: RTVi" tvg-logo="" group-title="RUSSIALOCAL",RUS: RTVi
-http://martepro.com:2082/dtox/dtox2021/93726
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Channel One" tvg-logo="" group-title="RUSSIALOCAL",RUS: Channel One
-http://martepro.com:2082/dtox/dtox2021/93727
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Russia Music Box" tvg-logo="" group-title="RUSSIALOCAL",RUS: Russia Music Box
-http://martepro.com:2082/dtox/dtox2021/93728
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Rossiya 1 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Rossiya 1 HD
 http://martepro.com:2082/dtox/dtox2021/93729
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Amedia 2 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Amedia 2 HD
@@ -9525,20 +9475,14 @@ http://martepro.com:2082/dtox/dtox2021/93732
 http://martepro.com:2082/dtox/dtox2021/93733
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Shanson TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Shanson TV
 http://martepro.com:2082/dtox/dtox2021/93734
-#EXTINF:-1 tvg-id="" tvg-name="RUS: ВРЕМЯ" tvg-logo="" group-title="RUSSIALOCAL",RUS: ВРЕМЯ
-http://martepro.com:2082/dtox/dtox2021/93735
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Europa Plus HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Europa Plus HD
 http://martepro.com:2082/dtox/dtox2021/93736
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Sony Sci Fi" tvg-logo="" group-title="RUSSIALOCAL",RUS: Sony Sci Fi
 http://martepro.com:2082/dtox/dtox2021/93737
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Sony Turbo" tvg-logo="" group-title="RUSSIALOCAL",RUS: Sony Turbo
 http://martepro.com:2082/dtox/dtox2021/93738
-#EXTINF:-1 tvg-id="" tvg-name="RUS: STB" tvg-logo="" group-title="RUSSIALOCAL",RUS: STB
-http://martepro.com:2082/dtox/dtox2021/93739
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Htb HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Htb HD
 http://martepro.com:2082/dtox/dtox2021/93740
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Bober TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Bober TV
-http://martepro.com:2082/dtox/dtox2021/93741
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Russkiy Extrim HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Russkiy Extrim HD
 http://martepro.com:2082/dtox/dtox2021/93742
 #EXTINF:-1 tvg-id="" tvg-name="RUS: First Music Channel HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: First Music Channel HD
@@ -9559,28 +9503,14 @@ http://martepro.com:2082/dtox/dtox2021/93749
 http://martepro.com:2082/dtox/dtox2021/93750
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Nat Geo Wild HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Nat Geo Wild HD
 http://martepro.com:2082/dtox/dtox2021/93751
-#EXTINF:-1 tvg-id="" tvg-name="RUS: TVCI" tvg-logo="" group-title="RUSSIALOCAL",RUS: TVCI
-http://martepro.com:2082/dtox/dtox2021/93752
 #EXTINF:-1 tvg-id="" tvg-name="RUS: TV 1000 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV 1000 HD
 http://martepro.com:2082/dtox/dtox2021/93753
 #EXTINF:-1 tvg-id="" tvg-name="RUS: TV 3" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV 3
 http://martepro.com:2082/dtox/dtox2021/93754
 #EXTINF:-1 tvg-id="" tvg-name="RUS: TV-XXI" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV-XXI
 http://martepro.com:2082/dtox/dtox2021/93755
-#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 Comedy HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV1000 Comedy HD
-http://martepro.com:2082/dtox/dtox2021/93756
-#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 Megahit HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV1000 Megahit HD
-http://martepro.com:2082/dtox/dtox2021/93757
-#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 Premium HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV1000 Premium HD
-http://martepro.com:2082/dtox/dtox2021/93758
-#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 Ruskoe Kino" tvg-logo="" group-title="RUSSIALOCAL",RUS: TV1000 Ruskoe Kino
-http://martepro.com:2082/dtox/dtox2021/93759
 #EXTINF:-1 tvg-id="" tvg-name="RUS: UTV" tvg-logo="" group-title="RUSSIALOCAL",RUS: UTV
 http://martepro.com:2082/dtox/dtox2021/93760
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Kinopokaz 2 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kinopokaz 2 HD
-http://martepro.com:2082/dtox/dtox2021/93761
-#EXTINF:-1 tvg-id="" tvg-name="RUS: KTO EST KTO" tvg-logo="" group-title="RUSSIALOCAL",RUS: KTO EST KTO
-http://martepro.com:2082/dtox/dtox2021/93762
 #EXTINF:-1 tvg-id="" tvg-name="RUS: RU TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: RU TV
 http://martepro.com:2082/dtox/dtox2021/93763
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Viasat Explorer HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Viasat Explorer HD
@@ -9593,36 +9523,14 @@ http://martepro.com:2082/dtox/dtox2021/93766
 http://martepro.com:2082/dtox/dtox2021/93767
 #EXTINF:-1 tvg-id="" tvg-name="RUS: CINEMA" tvg-logo="" group-title="RUSSIALOCAL",RUS: CINEMA
 http://martepro.com:2082/dtox/dtox2021/93768
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Doctor HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Doctor HD
-http://martepro.com:2082/dtox/dtox2021/93769
 #EXTINF:-1 tvg-id="" tvg-name="RUS: DOCUBOX HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: DOCUBOX HD
 http://martepro.com:2082/dtox/dtox2021/93770
 #EXTINF:-1 tvg-id="" tvg-name="RUS: DOMASHNIE JIVOTNIE" tvg-logo="" group-title="RUSSIALOCAL",RUS: DOMASHNIE JIVOTNIE
 http://martepro.com:2082/dtox/dtox2021/93771
-#EXTINF:-1 tvg-id="" tvg-name="RUS: H2 HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: H2 HD
-http://martepro.com:2082/dtox/dtox2021/93772
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Hollywood" tvg-logo="" group-title="RUSSIALOCAL",RUS: Hollywood
 http://martepro.com:2082/dtox/dtox2021/93773
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Kinomix" tvg-logo="" group-title="RUSSIALOCAL",RUS: Kinomix
-http://martepro.com:2082/dtox/dtox2021/93774
 #EXTINF:-1 tvg-id="" tvg-name="RUS: KOMEDIJA TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: KOMEDIJA TV
 http://martepro.com:2082/dtox/dtox2021/93775
-#EXTINF:-1 tvg-id="" tvg-name="RUS: M1 GLOBAL" tvg-logo="" group-title="RUSSIALOCAL",RUS: M1 GLOBAL
-http://martepro.com:2082/dtox/dtox2021/93776
-#EXTINF:-1 tvg-id="" tvg-name="RUS: MORSKOI" tvg-logo="" group-title="RUSSIALOCAL",RUS: MORSKOI
-http://martepro.com:2082/dtox/dtox2021/93777
-#EXTINF:-1 tvg-id="" tvg-name="RUS: MOSKVA 24" tvg-logo="" group-title="RUSSIALOCAL",RUS: MOSKVA 24
-http://martepro.com:2082/dtox/dtox2021/93778
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Moskva-Doveriye" tvg-logo="" group-title="RUSSIALOCAL",RUS: Moskva-Doveriye
-http://martepro.com:2082/dtox/dtox2021/93779
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Motorsport TV" tvg-logo="" group-title="RUSSIALOCAL",RUS: Motorsport TV
-http://martepro.com:2082/dtox/dtox2021/93780
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Mulytimaniya" tvg-logo="" group-title="RUSSIALOCAL",RUS: Mulytimaniya
-http://martepro.com:2082/dtox/dtox2021/93781
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Nash Kinoroman" tvg-logo="" group-title="RUSSIALOCAL",RUS: Nash Kinoroman
-http://martepro.com:2082/dtox/dtox2021/93782
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Rossiya 24" tvg-logo="" group-title="RUSSIALOCAL",RUS: Rossiya 24
-http://martepro.com:2082/dtox/dtox2021/93783
 #EXTINF:-1 tvg-id="" tvg-name="RUS: RT Doc" tvg-logo="" group-title="RUSSIALOCAL",RUS: RT Doc
 http://martepro.com:2082/dtox/dtox2021/93784
 #EXTINF:-1 tvg-id="" tvg-name="RUS: RT HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: RT HD
@@ -9643,7 +9551,7 @@ http://martepro.com:2082/dtox/dtox2021/93791
 http://martepro.com:2082/dtox/dtox2021/93792
 #EXTINF:-1 tvg-id="" tvg-name="RUS: World Fashion" tvg-logo="" group-title="RUSSIALOCAL",RUS: World Fashion
 http://martepro.com:2082/dtox/dtox2021/93793
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Russkaya Komedia" tvg-logo="" group-title="RUSSIALOCAL",RUS: Russkaya Komedia
+#EXTINF:-1 tvg-id="" tvg-name="RUS: Russkaya " tvg-logo="" group-title="RUSSIALOCAL",RUS: Russkaya 
 http://martepro.com:2082/dtox/dtox2021/93794
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Zvezda" tvg-logo="" group-title="RUSSIALOCAL",RUS: Zvezda
 http://martepro.com:2082/dtox/dtox2021/93795
@@ -9655,10 +9563,6 @@ http://martepro.com:2082/dtox/dtox2021/93797
 http://martepro.com:2082/dtox/dtox2021/93798
 #EXTINF:-1 tvg-id="" tvg-name="RUS: Match! Igra HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Match! Igra HD
 http://martepro.com:2082/dtox/dtox2021/93799
-#EXTINF:-1 tvg-id="" tvg-name="RUS: Extreme Sports HD" tvg-logo="" group-title="RUSSIALOCAL",RUS: Extreme Sports HD
-http://martepro.com:2082/dtox/dtox2021/93800
-#EXTINF:-1 tvg-id="" tvg-name="VKT (Russia)" tvg-logo="" group-title="RUSSIALOCAL",VKT (Russia)
-http://martepro.com:2082/dtox/dtox2021/100475
 #EXTINF:-1 tvg-id="" tvg-name="SRB | RTS 1" tvg-logo="" group-title="EX-YULOCAL",SRB | RTS 1
 http://martepro.com:2082/dtox/dtox2021/98691
 #EXTINF:-1 tvg-id="" tvg-name="SRB | RTS 2" tvg-logo="" group-title="EX-YULOCAL",SRB | RTS 2
@@ -11125,8 +11029,6 @@ http://martepro.com:2082/dtox/dtox2021/95757
 http://martepro.com:2082/dtox/dtox2021/95758
 #EXTINF:-1 tvg-id="" tvg-name="AL: FILM KOMEDI" tvg-logo="" group-title="ALBANIALOCAL",AL: FILM KOMEDI
 http://martepro.com:2082/dtox/dtox2021/95759
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM SHQIP" tvg-logo="" group-title="ALBANIALOCAL",AL: FILM SHQIP
-http://martepro.com:2082/dtox/dtox2021/95760
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="" group-title="ALBANIALOCAL",AL: T HD
 http://martepro.com:2082/dtox/dtox2021/95761
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRG ACTION" tvg-logo="" group-title="ALBANIALOCAL",AL: TRG ACTION
@@ -11273,15 +11175,13 @@ http://martepro.com:2082/dtox/dtox2021/95831
 http://martepro.com:2082/dtox/dtox2021/95832
 #EXTINF:-1 tvg-id="" tvg-name="AL: ELRODI" tvg-logo="" group-title="ALBANIALOCAL",AL: ELRODI
 http://martepro.com:2082/dtox/dtox2021/95833
-#EXTINF:-1 tvg-id="" tvg-name="AL: STV ONLIN" tvg-logo="" group-title="ALBANIALOCAL",AL: STV ONLIN
-http://martepro.com:2082/dtox/dtox2021/95834
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH 1
 http://martepro.com:2082/dtox/dtox2021/95835
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH 2
 http://martepro.com:2082/dtox/dtox2021/95836
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH 3
 http://martepro.com:2082/dtox/dtox2021/95837
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24*" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH 24*
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH 24
 http://martepro.com:2082/dtox/dtox2021/95838
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film" tvg-logo="" group-title="ALBANIALOCAL",AL: RTSH Film
 http://martepro.com:2082/dtox/dtox2021/95839
@@ -11307,16 +11207,12 @@ http://martepro.com:2082/dtox/dtox2021/95848
 http://martepro.com:2082/dtox/dtox2021/95849
 #EXTINF:-1 tvg-id="" tvg-name="AL: ZJARR TV" tvg-logo="" group-title="ALBANIALOCAL",AL: ZJARR TV
 http://martepro.com:2082/dtox/dtox2021/95850
-#EXTINF:-1 tvg-id="" tvg-name="AL:  TEMA" tvg-logo="" group-title="ALBANIALOCAL",AL:  TEMA
-http://martepro.com:2082/dtox/dtox2021/95851
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Adria Net*" tvg-logo="" group-title="ALBANIALOCAL",AL: TV Adria Net*
 http://martepro.com:2082/dtox/dtox2021/95852
 #EXTINF:-1 tvg-id="" tvg-name="AL: ALPO Channel" tvg-logo="" group-title="ALBANIALOCAL",AL: ALPO Channel
 http://martepro.com:2082/dtox/dtox2021/95853
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV LOBI" tvg-logo="" group-title="ALBANIALOCAL",AL: TV LOBI
 http://martepro.com:2082/dtox/dtox2021/95854
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV KOMBI" tvg-logo="" group-title="ALBANIALOCAL",AL: TV KOMBI
-http://martepro.com:2082/dtox/dtox2021/95855
 #EXTINF:-1 tvg-id="" tvg-name="**** KOSOVA ****" tvg-logo="" group-title="ALBANIALOCAL",**** KOSOVA ****
 http://martepro.com:2082/dtox/dtox2021/95856
 #EXTINF:-1 tvg-id="" tvg-name="AL: KTV  HD" tvg-logo="" group-title="ALBANIALOCAL",AL: KTV  HD
@@ -11483,28 +11379,14 @@ http://martepro.com:2082/dtox/dtox2021/95936
 http://martepro.com:2082/dtox/dtox2021/95937
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Aksion" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Aksion
 http://martepro.com:2082/dtox/dtox2021/95938
-#EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Aventure" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Aventure
-http://martepro.com:2082/dtox/dtox2021/95939
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Family" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Family
 http://martepro.com:2082/dtox/dtox2021/95940
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Thriller" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Thriller
 http://martepro.com:2082/dtox/dtox2021/95941
-#EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Sci-Fi" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Sci-Fi
-http://martepro.com:2082/dtox/dtox2021/95942
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Komedi" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Komedi
 http://martepro.com:2082/dtox/dtox2021/95943
 #EXTINF:-1 tvg-id="" tvg-name="VIP: Dark Fantazi" tvg-logo="" group-title="ALBANIALOCAL",VIP: Dark Fantazi
 http://martepro.com:2082/dtox/dtox2021/95944
-#EXTINF:-1 tvg-id="" tvg-name="VIP: X Gold 1 hd" tvg-logo="" group-title="ALBANIALOCAL",VIP: X Gold 1 hd
-http://martepro.com:2082/dtox/dtox2021/95945
-#EXTINF:-1 tvg-id="" tvg-name="VIP: X Gold 2 HD" tvg-logo="" group-title="ALBANIALOCAL",VIP: X Gold 2 HD
-http://martepro.com:2082/dtox/dtox2021/95946
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kosova" tvg-logo="" group-title="ALBANIALOCAL",Big Brother VIP Kosova
-http://martepro.com:2082/dtox/dtox2021/125191
-#EXTINF:-1 tvg-id="" tvg-name="BigBrother 1" tvg-logo="" group-title="ALBANIALOCAL",BigBrother 1
-http://martepro.com:2082/dtox/dtox2021/125192
-#EXTINF:-1 tvg-id="" tvg-name="BigBrother 2" tvg-logo="" group-title="ALBANIALOCAL",BigBrother 2
-http://martepro.com:2082/dtox/dtox2021/125193
 #EXTINF:-1 tvg-id="" tvg-name="⥃ SWEDEN ⥂" tvg-logo="https://i.imgur.com/0jhN0bn.png" group-title="SUECIALOCAL",⥃ SWEDEN ⥂
 http://martepro.com:2082/dtox/dtox2021/95541
 #EXTINF:-1 tvg-id="" tvg-name="SVT1 SE" tvg-logo="https://i.imgur.com/Bi2KL0m.png" group-title="SUECIALOCAL",SVT1 SE
