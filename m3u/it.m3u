@@ -1099,6 +1099,10 @@ http://martepro.com:2082/dtox/dtox2021/125251
 http://martepro.com:2082/dtox/dtox2021/125252
 #EXTINF:-1 tvg-id="" tvg-name="NFL TV" tvg-logo="" group-title="Portugal",NFL TV
 http://martepro.com:2082/dtox/dtox2021/125438
+#EXTINF:-1 tvg-id="" tvg-name="Capelinha das Aparições" tvg-logo="" group-title="Portugal",Capelinha das Aparições
+http://martepro.com:2082/dtox/dtox2021/125845
+#EXTINF:-1 tvg-id="" tvg-name="RTP NOTICIAS" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-042825131610.png" group-title="Portugal",RTP NOTICIAS
+http://martepro.com:2082/dtox/dtox2021/125846
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -3777,8 +3781,6 @@ http://martepro.com:2082/dtox/dtox2021/97540
 http://martepro.com:2082/dtox/dtox2021/97602
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CH." tvg-logo="https://i.postimg.cc/BZNCdG4j/c7b8b7a6c1bd3e8b8ec80fcf3582e82a.png" group-title="ESPANHALOCAL",|ES| DISNEY CH.
 http://martepro.com:2082/dtox/dtox2021/97603
-#EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY CH HD" tvg-logo="https://i.postimg.cc/BZNCdG4j/c7b8b7a6c1bd3e8b8ec80fcf3582e82a.png" group-title="ESPANHALOCAL",|ES| DISNEY CH HD
-http://martepro.com:2082/dtox/dtox2021/97604
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DISNEY JR" tvg-logo="https://i.postimg.cc/4yww5DNh/Disney-Junior-logo.png" group-title="ESPANHALOCAL",|ES| DISNEY JR
 http://martepro.com:2082/dtox/dtox2021/97605
 #EXTINF:-1 tvg-id="" tvg-name="|ES| DREAMWORKS  HD" tvg-logo="https://i.postimg.cc/pd6YSVPx/1920px-Dream-Works-Animation-SKG-logo-svg.png" group-title="ESPANHALOCAL",|ES| DREAMWORKS  HD
@@ -10937,8 +10939,6 @@ http://martepro.com:2082/dtox/dtox2021/96087
 http://martepro.com:2082/dtox/dtox2021/96088
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS-GIA PAIDIA ✦●✦" tvg-logo="" group-title="GRECIALOCAL",✦●✦ KIDS-GIA PAIDIA ✦●✦
 http://martepro.com:2082/dtox/dtox2021/96089
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="GRECIALOCAL",BABY TV HD
-http://martepro.com:2082/dtox/dtox2021/96090
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="GRECIALOCAL",BOOMERANG HD
 http://martepro.com:2082/dtox/dtox2021/96091
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="GRECIALOCAL",DISNEY JUNIOR HD
