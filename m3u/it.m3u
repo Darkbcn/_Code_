@@ -863,8 +863,6 @@ http://martepro.com:2082/dtox/dtox2021/123132
 http://martepro.com:2082/dtox/dtox2021/123286
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Doc" tvg-logo="" group-title="Portugal",Rakuten TV Doc
 http://martepro.com:2082/dtox/dtox2021/123287
-#EXTINF:-1 tvg-id="" tvg-name="iesTV" tvg-logo="" group-title="Portugal",iesTV
-http://martepro.com:2082/dtox/dtox2021/123288
 #EXTINF:-1 tvg-id="" tvg-name="Fashion Tv" tvg-logo="" group-title="Portugal",Fashion Tv
 http://martepro.com:2082/dtox/dtox2021/123289
 #EXTINF:-1 tvg-id="" tvg-name="eXtreme Sports" tvg-logo="" group-title="Portugal",eXtreme Sports
@@ -1833,6 +1831,16 @@ http://martepro.com:2082/dtox/dtox2021/125865
 http://martepro.com:2082/dtox/dtox2021/125866
 #EXTINF:-1 tvg-id="" tvg-name="Z Nation" tvg-logo="" group-title="EXCLUSIVOS LOONEY",Z Nation
 http://martepro.com:2082/dtox/dtox2021/125874
+#EXTINF:-1 tvg-id="" tvg-name="SENHOR DOS ANEIS" tvg-logo="" group-title="EXCLUSIVOS LOONEY",SENHOR DOS ANEIS
+http://martepro.com:2082/dtox/dtox2021/126287
+#EXTINF:-1 tvg-id="" tvg-name="MISSÃO IMPOSSIVEL" tvg-logo="" group-title="EXCLUSIVOS LOONEY",MISSÃO IMPOSSIVEL
+http://martepro.com:2082/dtox/dtox2021/126288
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="" group-title="EXCLUSIVOS LOONEY",POKEMON
+http://martepro.com:2082/dtox/dtox2021/126289
+#EXTINF:-1 tvg-id="" tvg-name="VELOCIDADE FURIOSA" tvg-logo="" group-title="EXCLUSIVOS LOONEY",VELOCIDADE FURIOSA
+http://martepro.com:2082/dtox/dtox2021/126290
+#EXTINF:-1 tvg-id="" tvg-name="John Wick Equalizer" tvg-logo="" group-title="EXCLUSIVOS LOONEY",John Wick Equalizer
+http://martepro.com:2082/dtox/dtox2021/126291
 #EXTINF:-1 tvg-id="" tvg-name="PT: OS BATANETES (EXCLUSIVE)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3ZTE0YmYtYjIzMS00OWIxLThjNTgtOWU5MjFlODFjNmJmXkEyXkFqcGdeQXVyNjQ5MjkyMDk@._V1_SY360_SX463_AL_.jpg" group-title="EXCLUSIVOS",PT: OS BATANETES (EXCLUSIVE)
 http://martepro.com:2082/dtox/dtox2021/415
 #EXTINF:-1 tvg-id="" tvg-name="PT: GATO FEDORENTO (EXCLUSIVE)" tvg-logo="https://gatofedorento.com/wp-content/uploads/2018/03/Logo_Gato_Preto.png" group-title="EXCLUSIVOS",PT: GATO FEDORENTO (EXCLUSIVE)
@@ -1879,8 +1887,6 @@ http://martepro.com:2082/dtox/dtox2021/438
 http://martepro.com:2082/dtox/dtox2021/439
 #EXTINF:-1 tvg-id="" tvg-name="PT: SÉRIES 24/7 (exclusive)" tvg-logo="http://apaixonadosporseries.com.br/wp-content/themes/apx17/img/apaixonados-por-series-logo-17.png" group-title="EXCLUSIVOS",PT: SÉRIES 24/7 (exclusive)
 http://martepro.com:2082/dtox/dtox2021/440
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24/7 STARWARS (exclusive)" tvg-logo="http://evoxtream.best:25461/images/wbRF7yLfL89qPDWkdcg2luhYFg8SVFSf.png" group-title="EXCLUSIVOS",PT: 24/7 STARWARS (exclusive)
-http://martepro.com:2082/dtox/dtox2021/441
 #EXTINF:-1 tvg-id="" tvg-name="PT: FILMES MUSICAIS (EXCLUSIVE)" tvg-logo="http://baronrojolapelicula.com/wp-content/uploads/sites/113/2016/09/music-and-movies.jpg" group-title="EXCLUSIVOS",PT: FILMES MUSICAIS (EXCLUSIVE)
 http://martepro.com:2082/dtox/dtox2021/442
 #EXTINF:-1 tvg-id="" tvg-name="PT: FILMES THRILLER/TERROR (exclusive)" tvg-logo="https://banner2.cleanpng.com/20180406/vdq/kisspng-youtube-horror-film-scary-movie-comedy-horror-5ac7db756dcf38.6961176415230472854498.jpg" group-title="EXCLUSIVOS",PT: FILMES THRILLER/TERROR (exclusive)
@@ -1993,7 +1999,7 @@ http://martepro.com:2082/dtox/dtox2021/112493
 http://martepro.com:2082/dtox/dtox2021/112494
 #EXTINF:-1 tvg-id="" tvg-name="Gaffss Na Tv" tvg-logo="" group-title="EXCLUSIVOS",Gaffss Na Tv
 http://martepro.com:2082/dtox/dtox2021/112495
-#EXTINF:-1 tvg-id="" tvg-name="Novelas" tvg-logo="" group-title="EXCLUSIVOS",Novelas
+#EXTINF:-1 tvg-id="" tvg-name="ACTION STRONG" tvg-logo="" group-title="EXCLUSIVOS",ACTION STRONG
 http://martepro.com:2082/dtox/dtox2021/112496
 #EXTINF:-1 tvg-id="" tvg-name="Vida Selvagem" tvg-logo="" group-title="EXCLUSIVOS",Vida Selvagem
 http://martepro.com:2082/dtox/dtox2021/112497
@@ -2009,8 +2015,6 @@ http://martepro.com:2082/dtox/dtox2021/112501
 http://martepro.com:2082/dtox/dtox2021/112502
 #EXTINF:-1 tvg-id="" tvg-name="Jogos Sem Fronteiras" tvg-logo="" group-title="EXCLUSIVOS",Jogos Sem Fronteiras
 http://martepro.com:2082/dtox/dtox2021/112503
-#EXTINF:-1 tvg-id="" tvg-name="Natal das Crianças" tvg-logo="" group-title="EXCLUSIVOS",Natal das Crianças
-http://martepro.com:2082/dtox/dtox2021/112504
 #EXTINF:-1 tvg-id="" tvg-name="Telerural" tvg-logo="" group-title="EXCLUSIVOS",Telerural
 http://martepro.com:2082/dtox/dtox2021/112505
 #EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon Ao Vivo" tvg-logo="" group-title="EXCLUSIVOS",Retro Cartoon Ao Vivo
@@ -2033,10 +2037,6 @@ http://martepro.com:2082/dtox/dtox2021/123873
 http://martepro.com:2082/dtox/dtox2021/123875
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="" group-title="EXCLUSIVOS",Classique TV
 http://martepro.com:2082/dtox/dtox2021/123876
-#EXTINF:-1 tvg-id="" tvg-name="LAURINHA E FELIPINHO" tvg-logo="" group-title="EXCLUSIVOS",LAURINHA E FELIPINHO
-http://martepro.com:2082/dtox/dtox2021/123877
-#EXTINF:-1 tvg-id="" tvg-name="Dartacão" tvg-logo="" group-title="EXCLUSIVOS",Dartacão
-http://martepro.com:2082/dtox/dtox2021/123879
 #EXTINF:-1 tvg-id="" tvg-name="EXCLUSIVO PI100PÉ" tvg-logo="" group-title="EXCLUSIVOS",EXCLUSIVO PI100PÉ
 http://martepro.com:2082/dtox/dtox2021/123880
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="" group-title="EXCLUSIVOS",Peppa Pig
@@ -4681,6 +4681,8 @@ http://martepro.com:2082/dtox/dtox2021/125313
 http://martepro.com:2082/dtox/dtox2021/125314
 #EXTINF:-1 tvg-id="" tvg-name="Teledeportes HD" tvg-logo="" group-title="ESPANHALOCAL",Teledeportes HD
 http://martepro.com:2082/dtox/dtox2021/125315
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTO GP" tvg-logo="" group-title="ESPANHALOCAL",DAZN MOTO GP
+http://martepro.com:2082/dtox/dtox2021/126143
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 FHD
 http://martepro.com:2082/dtox/dtox2021/92107
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 HD
@@ -17079,6 +17081,292 @@ http://martepro.com:2082/dtox/dtox2021/97342
 http://martepro.com:2082/dtox/dtox2021/97343
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT MOTORSPORT" tvg-logo="" group-title="DSTV",DSTV: SUPERSPORT MOTORSPORT
 http://martepro.com:2082/dtox/dtox2021/97344
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/adddff68c177e7463041a36979fba047.png" group-title="DSTV",DStv | SuperSport OTT 1ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126144
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/2d5a712273b9f70d0e3943d48de136ea.png" group-title="DSTV",DStv | SuperSport OTT 2ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126145
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/43871ddc05125bdea8a3965e63f57120.png" group-title="DSTV",DStv | SuperSport OTT 3ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126146
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 4ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/fcab4ad4bb12c0ed3ecaaa4d3d124705.png" group-title="DSTV",DStv | SuperSport OTT 4ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126147
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 5ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6945be986a786ce37595fdeb142fc6c9.png" group-title="DSTV",DStv | SuperSport OTT 5ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126148
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 6ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/f2b5dd91dff12c36d7edd7c83d2d94ba.png" group-title="DSTV",DStv | SuperSport OTT 6ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126149
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 7ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1bfca15eb714d06221330682b5904126.png" group-title="DSTV",DStv | SuperSport OTT 7ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126150
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport OTT 8ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7716cf600ea93becba2a77723281b320.png" group-title="DSTV",DStv | SuperSport OTT 8ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126151
+#EXTINF:-1 tvg-id="" tvg-name="DStv | 1Magicⓧ." tvg-logo="http://xplatinmedia.com:8080/images/28c5a536bcaa23b914bbb4dfc1e8562e.png" group-title="DSTV",DStv | 1Magicⓧ.
+http://martepro.com:2082/dtox/dtox2021/126152
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Magic Epicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0e567d35962a14c5436e383639b77ca9.png" group-title="DSTV",DStv | Africa Magic Epicⓧ
+http://martepro.com:2082/dtox/dtox2021/126153
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Magic Familyⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6905f30c36c5ff0967e0d5e0306d765e.png" group-title="DSTV",DStv | Africa Magic Familyⓧ
+http://martepro.com:2082/dtox/dtox2021/126154
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Magic Igboⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0cc88096ec613483afcdd88909047c1e.png" group-title="DSTV",DStv | Africa Magic Igboⓧ
+http://martepro.com:2082/dtox/dtox2021/126155
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Magic Showcaseⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6f56ebcff884a7a0df3d0956faa74141.png" group-title="DSTV",DStv | Africa Magic Showcaseⓧ
+http://martepro.com:2082/dtox/dtox2021/126156
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Magic Urbanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f8893a4f5e85bc7839446500313edc4a.png" group-title="DSTV",DStv | Africa Magic Urbanⓧ
+http://martepro.com:2082/dtox/dtox2021/126157
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Africa Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dc11a11c55fd1dcc20e720a9d3268f5b.png" group-title="DSTV",DStv | Africa Newsⓧ
+http://martepro.com:2082/dtox/dtox2021/126158
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Al Jazeeraⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f4390514d1f6e5d724811bcd0bf9a02e.png" group-title="DSTV",DStv | Al Jazeeraⓧ
+http://martepro.com:2082/dtox/dtox2021/126159
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BBC Britⓧ" tvg-logo="http://xplatinmedia.com:8080/images/666a77663bc29b072c2c019767585727.png" group-title="DSTV",DStv | BBC Britⓧ
+http://martepro.com:2082/dtox/dtox2021/126160
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BBC Earthⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4f415ce51deb28a207712145503a55fe.png" group-title="DSTV",DStv | BBC Earthⓧ
+http://martepro.com:2082/dtox/dtox2021/126161
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BBC Lifestyleⓧ" tvg-logo="http://xplatinmedia.com:8080/images/53b8fc03c5633b62a4c76720c936434f.png" group-title="DSTV",DStv | BBC Lifestyleⓧ
+http://martepro.com:2082/dtox/dtox2021/126162
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BBC World Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/337d38e0478c6753d82c62dbff6d3486.png" group-title="DSTV",DStv | BBC World Newsⓧ
+http://martepro.com:2082/dtox/dtox2021/126163
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BETⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0c23eba97720c742fe3ad8210e57e13d.png" group-title="DSTV",DStv | BETⓧ
+http://martepro.com:2082/dtox/dtox2021/126164
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Big Brother Naijaⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/f51891c0c54b35fe80904a894983d791.png" group-title="DSTV",DStv | Big Brother Naijaⓧ OFFLINE
+http://martepro.com:2082/dtox/dtox2021/126165
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Bloombergⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b924733356338f55d2ba578126b8a0c7.png" group-title="DSTV",DStv | Bloombergⓧ
+http://martepro.com:2082/dtox/dtox2021/126166
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Boomerangⓧ" tvg-logo="http://xplatinmedia.com:8080/images/98b89b6d8aa399fde5675662bbc34aee.png" group-title="DSTV",DStv | Boomerangⓧ
+http://martepro.com:2082/dtox/dtox2021/126167
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Business Day TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/398c0c7abe8ee5c7cafb024a9d0b7f13.png" group-title="DSTV",DStv | Business Day TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126168
+#EXTINF:-1 tvg-id="" tvg-name="DStv | BVNⓧ" tvg-logo="http://xplatinmedia.com:8080/images/49566546cd882fa2f2d43eb07189da80.png" group-title="DSTV",DStv | BVNⓧ
+http://martepro.com:2082/dtox/dtox2021/126169
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Cape Town TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b824cddfee7243fc1b55c964100b7e73.png" group-title="DSTV",DStv | Cape Town TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126170
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Cartoon Networkⓧ" tvg-logo="http://xplatinmedia.com:8080/images/06bc6af90dea62a537e07cf1dba8c557.png" group-title="DSTV",DStv | Cartoon Networkⓧ
+http://martepro.com:2082/dtox/dtox2021/126171
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Cbeebiesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a6042f33e37fc97c2561a8b541c28cee.png" group-title="DSTV",DStv | Cbeebiesⓧ
+http://martepro.com:2082/dtox/dtox2021/126172
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CBS Justiceⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/4086a61f5cce7454b35f60fd365e793b.png" group-title="DSTV",DStv | CBS Justiceⓧ OFFLINE
+http://martepro.com:2082/dtox/dtox2021/126173
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CBS Realityⓧ" tvg-logo="http://xplatinmedia.com:8080/images/03e7a011f3c3e6c707895260ae8cccca.png" group-title="DSTV",DStv | CBS Realityⓧ
+http://martepro.com:2082/dtox/dtox2021/126174
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CCTV 4ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f47550e52781a20ff074028df2c4f1f0.png" group-title="DSTV",DStv | CCTV 4ⓧ
+http://martepro.com:2082/dtox/dtox2021/126175
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CGTN Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a715802fc903bb3e495faab75c20d3f4.png" group-title="DSTV",DStv | CGTN Newsⓧ
+http://martepro.com:2082/dtox/dtox2021/126176
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Channel Oⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4b57a2ca6a4ca1064461ee4fd63847d4.png" group-title="DSTV",DStv | Channel Oⓧ
+http://martepro.com:2082/dtox/dtox2021/126177
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CNBC Africaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/daaeabc2219b521527f20dc9261eaa31.png" group-title="DSTV",DStv | CNBC Africaⓧ
+http://martepro.com:2082/dtox/dtox2021/126178
+#EXTINF:-1 tvg-id="" tvg-name="DStv | CNN Internationalⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0dc9c0eeaa0ef6d314a43557b667c26e.png" group-title="DSTV",DStv | CNN Internationalⓧ
+http://martepro.com:2082/dtox/dtox2021/126179
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Comedy Centralⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c02f83c74670b8f7ccc7fc7101dc78bd.png" group-title="DSTV",DStv | Comedy Centralⓧ
+http://martepro.com:2082/dtox/dtox2021/126180
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Curiosity Streamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4c794cd5b1986f3178177cbe44a0af70.png" group-title="DSTV",DStv | Curiosity Streamⓧ
+http://martepro.com:2082/dtox/dtox2021/126181
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Da Vinci Kidsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3564f907043ad72f9003b3d254d3b668.png" group-title="DSTV",DStv | Da Vinci Kidsⓧ
+http://martepro.com:2082/dtox/dtox2021/126182
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Daystarⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a374ba3c08e37620f7a7324b32e610f7.png" group-title="DSTV",DStv | Daystarⓧ
+http://martepro.com:2082/dtox/dtox2021/126183
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Deutsche Welleⓧ" tvg-logo="http://xplatinmedia.com:8080/images/541a171ad1c6ef7fcbb1e54fbbf1935d.png" group-title="DSTV",DStv | Deutsche Welleⓧ
+http://martepro.com:2082/dtox/dtox2021/126184
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Discovery Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/813513ce030768aab17b38d54a047587.png" group-title="DSTV",DStv | Discovery Channelⓧ
+http://martepro.com:2082/dtox/dtox2021/126185
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Discovery Familyⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b09cdfcb246a3cd8fff4e27efc3a22c1.png" group-title="DSTV",DStv | Discovery Familyⓧ
+http://martepro.com:2082/dtox/dtox2021/126186
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Disney Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/410dc6ac925be1b0fd80dad61c348b49.png" group-title="DSTV",DStv | Disney Channelⓧ
+http://martepro.com:2082/dtox/dtox2021/126187
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Disney Juniorⓧ" tvg-logo="http://xplatinmedia.com:8080/images/098d475f76e6a0860e4da430c897cd64.png" group-title="DSTV",DStv | Disney Juniorⓧ
+http://martepro.com:2082/dtox/dtox2021/126188
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Disney XDⓧ" tvg-logo="http://xplatinmedia.com:8080/images/057218a5c9d6878cf36918ac34b27a99.png" group-title="DSTV",DStv | Disney XDⓧ
+http://martepro.com:2082/dtox/dtox2021/126189
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Dumisaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a5aa57e7f41dc814ce51774f890cd0fa.png" group-title="DSTV",DStv | Dumisaⓧ
+http://martepro.com:2082/dtox/dtox2021/126190
+#EXTINF:-1 tvg-id="" tvg-name="DStv | E! Entertainmentⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5877c02780b5dc11f5ae618433f39db3.png" group-title="DSTV",DStv | E! Entertainmentⓧ
+http://martepro.com:2082/dtox/dtox2021/126191
+#EXTINF:-1 tvg-id="" tvg-name="DStv | e.TV Extraⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0febe21395d2be1af4ac4b839d0f4e0b.png" group-title="DSTV",DStv | e.TV Extraⓧ
+http://martepro.com:2082/dtox/dtox2021/126192
+#EXTINF:-1 tvg-id="" tvg-name="DStv | e.tvⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cff5f491cb4b50d76a47744b9865121e.png" group-title="DSTV",DStv | e.tvⓧ
+http://martepro.com:2082/dtox/dtox2021/126193
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Emmanuel TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c3c21b737383e527bc60b6c8564f0847.png" group-title="DSTV",DStv | Emmanuel TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126194
+#EXTINF:-1 tvg-id="" tvg-name="DStv | eMovies Extraⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0febe21395d2be1af4ac4b839d0f4e0b.png" group-title="DSTV",DStv | eMovies Extraⓧ
+http://martepro.com:2082/dtox/dtox2021/126195
+#EXTINF:-1 tvg-id="" tvg-name="DStv | eMoviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1946db4f1990ab65407468ec7e852aac.jpg" group-title="DSTV",DStv | eMoviesⓧ
+http://martepro.com:2082/dtox/dtox2021/126196
+#EXTINF:-1 tvg-id="" tvg-name="DStv | eNCAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dbe3a2a7047c84d9cb4d2726b24a8005.png" group-title="DSTV",DStv | eNCAⓧ
+http://martepro.com:2082/dtox/dtox2021/126197
+#EXTINF:-1 tvg-id="" tvg-name="DStv | ESPN 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2b08df484abe36bfddad540d3894a8c6.png" group-title="DSTV",DStv | ESPN 2ⓧ
+http://martepro.com:2082/dtox/dtox2021/126198
+#EXTINF:-1 tvg-id="" tvg-name="DStv | ESPNⓧ" tvg-logo="http://xplatinmedia.com:8080/images/eb0db914b7c630ea58d00233ef25f703.png" group-title="DSTV",DStv | ESPNⓧ
+http://martepro.com:2082/dtox/dtox2021/126199
+#EXTINF:-1 tvg-id="" tvg-name="DStv | eToonzⓧ" tvg-logo="http://xplatinmedia.com:8080/images/502d11e2744eabfb4057eb0cc1953a6f.png" group-title="DSTV",DStv | eToonzⓧ
+http://martepro.com:2082/dtox/dtox2021/126200
+#EXTINF:-1 tvg-id="" tvg-name="DStv | EuroNewsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c902349a18168f8a379636c435b318e0.png" group-title="DSTV",DStv | EuroNewsⓧ
+http://martepro.com:2082/dtox/dtox2021/126201
+#EXTINF:-1 tvg-id="" tvg-name="DStv | EVA Englishⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5f2cb37c1f2cbd3c690c0925d29156d3.png" group-title="DSTV",DStv | EVA Englishⓧ
+http://martepro.com:2082/dtox/dtox2021/126202
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Faithⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a4f989818725573580a7540a05601f69.png" group-title="DSTV",DStv | Faithⓧ
+http://martepro.com:2082/dtox/dtox2021/126203
+#EXTINF:-1 tvg-id="" tvg-name="DStv | fliekNETⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3c5ebd1391613291a8095bcb1eaa4985.png" group-title="DSTV",DStv | fliekNETⓧ
+http://martepro.com:2082/dtox/dtox2021/126204
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Food Networkⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="DSTV",DStv | Food Networkⓧ
+http://martepro.com:2082/dtox/dtox2021/126205
+#EXTINF:-1 tvg-id="" tvg-name="DStv | FOX Lifeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="DSTV",DStv | FOX Lifeⓧ
+http://martepro.com:2082/dtox/dtox2021/126206
+#EXTINF:-1 tvg-id="" tvg-name="DStv | FOXⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7d74534aa41092eeca14fcb5f04428bc.png" group-title="DSTV",DStv | FOXⓧ
+http://martepro.com:2082/dtox/dtox2021/126207
+#EXTINF:-1 tvg-id="" tvg-name="DStv | GauTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/060328e53e617f4c6516790ef9124dd3.png" group-title="DSTV",DStv | GauTVⓧ
+http://martepro.com:2082/dtox/dtox2021/126208
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Ginx eSports TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/02d65f67807107614548db7407456ac7.png" group-title="DSTV",DStv | Ginx eSports TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126209
+#EXTINF:-1 tvg-id="" tvg-name="DStv | HGTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e98f36a01ba797cd4397d2320ea455b6.png" group-title="DSTV",DStv | HGTVⓧ
+http://martepro.com:2082/dtox/dtox2021/126210
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Hilaal TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/61b76f4b6dccef2c047697884ac55de0.png" group-title="DSTV",DStv | Hilaal TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126211
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Historyⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ca333314790167ed2c19da8a0a541139.png" group-title="DSTV",DStv | Historyⓧ
+http://martepro.com:2082/dtox/dtox2021/126212
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Honeyⓧ." tvg-logo="http://xplatinmedia.com:8080/images/fd28a7e4ca89fe770badb7b293f0b326.png" group-title="DSTV",DStv | Honeyⓧ.
+http://martepro.com:2082/dtox/dtox2021/126213
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Ignitionⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8795283f40b579de5392a14112dc4095.png" group-title="DSTV",DStv | Ignitionⓧ
+http://martepro.com:2082/dtox/dtox2021/126214
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Investigation Discoveryⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c252334e2e045ea52295de41cbefa2b7.png" group-title="DSTV",DStv | Investigation Discoveryⓧ
+http://martepro.com:2082/dtox/dtox2021/126215
+#EXTINF:-1 tvg-id="" tvg-name="DStv | iTV Networksⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/7b5d6890829029422714265add9e8dc5.png" group-title="DSTV",DStv | iTV Networksⓧ OFFLINE
+http://martepro.com:2082/dtox/dtox2021/126216
+#EXTINF:-1 tvg-id="" tvg-name="DStv | JimJamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/27efeb1f090a11a581f973928c27ff2f.png" group-title="DSTV",DStv | JimJamⓧ
+http://martepro.com:2082/dtox/dtox2021/126217
+#EXTINF:-1 tvg-id="" tvg-name="DStv | KIXⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fdba958ec76d363181cad046c6bf499e.png" group-title="DSTV",DStv | KIXⓧ
+http://martepro.com:2082/dtox/dtox2021/126218
+#EXTINF:-1 tvg-id="" tvg-name="DStv | kykNET & Kieⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd2a42a3750b09e0ebfd945cb1ec7131.png" group-title="DSTV",DStv | kykNET & Kieⓧ
+http://martepro.com:2082/dtox/dtox2021/126219
+#EXTINF:-1 tvg-id="" tvg-name="DStv | kykNET Nou!ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6da105f765b35e6df3289a6b8782e6dd.png" group-title="DSTV",DStv | kykNET Nou!ⓧ
+http://martepro.com:2082/dtox/dtox2021/126220
+#EXTINF:-1 tvg-id="" tvg-name="DStv | kykNETⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6797fc03c55d4d9e82604e0fd85c1db5.png" group-title="DSTV",DStv | kykNETⓧ
+http://martepro.com:2082/dtox/dtox2021/126221
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Lesotho TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b1ef986dc546816cc4c24ac4b6137e8e.png" group-title="DSTV",DStv | Lesotho TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126222
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Lifetimeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8b82a66dd59ed827bf8e518dd31a95bd.png" group-title="DSTV",DStv | Lifetimeⓧ
+http://martepro.com:2082/dtox/dtox2021/126223
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Cityⓧ" tvg-logo="http://xplatinmedia.com:8080/images/673b37d008017b610712c2f89dbb6f85.png" group-title="DSTV",DStv | M-Net Cityⓧ
+http://martepro.com:2082/dtox/dtox2021/126224
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Movies 1ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c34263d0ba2ab1b2f0127c6a7537bde9.png" group-title="DSTV",DStv | M-Net Movies 1ⓧ
+http://martepro.com:2082/dtox/dtox2021/126225
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Movies 2ⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/5af1a3a285c2bdee4192223e31e1f833.png" group-title="DSTV",DStv | M-Net Movies 2ⓧ OFFLINE
+http://martepro.com:2082/dtox/dtox2021/126226
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Movies 3ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3ada88b65e2619a8410c7ec85760a343.png" group-title="DSTV",DStv | M-Net Movies 3ⓧ
+http://martepro.com:2082/dtox/dtox2021/126227
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Movies 4ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1ef0aaf0a41dc7705dc321ebbf0ad73e.png" group-title="DSTV",DStv | M-Net Movies 4ⓧ
+http://martepro.com:2082/dtox/dtox2021/126228
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Plus 1ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8f4aa9eb7287aca94cad7963af11d9dc.png" group-title="DSTV",DStv | M-Net Plus 1ⓧ
+http://martepro.com:2082/dtox/dtox2021/126229
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Net Yorubaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d98bc251711b03e754d11979000539ca.png" group-title="DSTV",DStv | M-Net Yorubaⓧ
+http://martepro.com:2082/dtox/dtox2021/126230
+#EXTINF:-1 tvg-id="" tvg-name="DStv | M-Netⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b0c81d3fc08df9e113882f1475b574f3.png" group-title="DSTV",DStv | M-Netⓧ
+http://martepro.com:2082/dtox/dtox2021/126231
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Maisha Magic Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bfcc5e25d963a9956043a8d2d3027f29.png" group-title="DSTV",DStv | Maisha Magic Moviesⓧ
+http://martepro.com:2082/dtox/dtox2021/126232
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Mindsetⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f9fe837c2d613c59dbaa5c62c21e7cf4.png" group-title="DSTV",DStv | Mindsetⓧ
+http://martepro.com:2082/dtox/dtox2021/126233
+#EXTINF:-1 tvg-id="" tvg-name="DStv | MojaLoveⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a8cf0d23aef35c7dee860243f52c14cf.png" group-title="DSTV",DStv | MojaLoveⓧ
+http://martepro.com:2082/dtox/dtox2021/126234
+#EXTINF:-1 tvg-id="" tvg-name="DStv | MTV 90sⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8362ee1843d303919779d44649f5314f.png" group-title="DSTV",DStv | MTV 90sⓧ
+http://martepro.com:2082/dtox/dtox2021/126235
+#EXTINF:-1 tvg-id="" tvg-name="DStv | MTV Baseⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c356666ca57ca942f18fc4cb2c560f15.png" group-title="DSTV",DStv | MTV Baseⓧ
+http://martepro.com:2082/dtox/dtox2021/126236
+#EXTINF:-1 tvg-id="" tvg-name="DStv | MTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/877a8c5383e7f83b1ed0a8ca05043585.png" group-title="DSTV",DStv | MTVⓧ
+http://martepro.com:2082/dtox/dtox2021/126237
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Mzansi Bioskopⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ba10e1e6f1d88db9f47d515de456eb13.png" group-title="DSTV",DStv | Mzansi Bioskopⓧ
+http://martepro.com:2082/dtox/dtox2021/126238
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Mzansi Magic Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ac4e433e8b0f9e0381ed8f806f5d3d01.png" group-title="DSTV",DStv | Mzansi Magic Musicⓧ
+http://martepro.com:2082/dtox/dtox2021/126239
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Mzansi Magicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ac4e433e8b0f9e0381ed8f806f5d3d01.png" group-title="DSTV",DStv | Mzansi Magicⓧ
+http://martepro.com:2082/dtox/dtox2021/126240
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Mzansi Wethuⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4fd4dfb0657ce60e4806438e1cc0f3cc.png" group-title="DSTV",DStv | Mzansi Wethuⓧ
+http://martepro.com:2082/dtox/dtox2021/126241
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Nat Geo WILDⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9a3112670d7e4ccf92e6b55e013f911b.png" group-title="DSTV",DStv | Nat Geo WILDⓧ
+http://martepro.com:2082/dtox/dtox2021/126242
+#EXTINF:-1 tvg-id="" tvg-name="DStv | National Geographicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="DSTV",DStv | National Geographicⓧ
+http://martepro.com:2082/dtox/dtox2021/126243
+#EXTINF:-1 tvg-id="" tvg-name="DStv | NDTV 247ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/578f9b6f1477e8282cb5fbb20145acf5.png" group-title="DSTV",DStv | NDTV 247ⓧ
+http://martepro.com:2082/dtox/dtox2021/126244
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Newzroom Afrikaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="DSTV",DStv | Newzroom Afrikaⓧ
+http://martepro.com:2082/dtox/dtox2021/126245
+#EXTINF:-1 tvg-id="" tvg-name="DStv | NHK World Japanⓧ." tvg-logo="http://xplatinmedia.com:8080/images/f46a29ba0091de1386be35b54d4688c8.png" group-title="DSTV",DStv | NHK World Japanⓧ.
+http://martepro.com:2082/dtox/dtox2021/126246
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Nick Jrⓧ" tvg-logo="http://xplatinmedia.com:8080/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="DSTV",DStv | Nick Jrⓧ
+http://martepro.com:2082/dtox/dtox2021/126247
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Nickelodeonⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e73a2875bfa2db25a58a8b7206dc67df.png" group-title="DSTV",DStv | Nickelodeonⓧ
+http://martepro.com:2082/dtox/dtox2021/126248
+#EXTINF:-1 tvg-id="" tvg-name="DStv | NickTOONSⓧ" tvg-logo="http://xplatinmedia.com:8080/images/447d305476a0c0f853bfb77c04b245fe.png" group-title="DSTV",DStv | NickTOONSⓧ
+http://martepro.com:2082/dtox/dtox2021/126249
+#EXTINF:-1 tvg-id="" tvg-name="DStv | One Gospelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/61757c566c184ca08f882d01a5ef5658.jpg" group-title="DSTV",DStv | One Gospelⓧ
+http://martepro.com:2082/dtox/dtox2021/126250
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Parliamentary Serviceⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ed5402081a18674cf50dfd6d5cd1c639.png" group-title="DSTV",DStv | Parliamentary Serviceⓧ
+http://martepro.com:2082/dtox/dtox2021/126251
+#EXTINF:-1 tvg-id="" tvg-name="DStv | PBS Kidsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/232241becc6022770cc117a3bc2edbd9.png" group-title="DSTV",DStv | PBS Kidsⓧ
+http://martepro.com:2082/dtox/dtox2021/126252
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Peoples Weatherⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bb397d7542b847f76983b020cdcb367f.png" group-title="DSTV",DStv | Peoples Weatherⓧ
+http://martepro.com:2082/dtox/dtox2021/126253
+#EXTINF:-1 tvg-id="" tvg-name="DStv | POPⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cb7ac958993f8ae10185b1be0cb57b1f.png" group-title="DSTV",DStv | POPⓧ
+http://martepro.com:2082/dtox/dtox2021/126254
+#EXTINF:-1 tvg-id="" tvg-name="DStv | RAI Italiaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dfd9e6d42c8dee49eb4885e67033959e.png" group-title="DSTV",DStv | RAI Italiaⓧ
+http://martepro.com:2082/dtox/dtox2021/126255
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Real Timeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6e493c46dfbe13ce7853749306707127.png" group-title="DSTV",DStv | Real Timeⓧ
+http://martepro.com:2082/dtox/dtox2021/126256
+#EXTINF:-1 tvg-id="" tvg-name="DStv | ROKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ace4a63ea683b8e5f89272c4a4b76276.png" group-title="DSTV",DStv | ROKⓧ
+http://martepro.com:2082/dtox/dtox2021/126257
+#EXTINF:-1 tvg-id="" tvg-name="DStv | RTP Internacionalⓧ" tvg-logo="http://xplatinmedia.com:8080/images/35ea05b54277b698fb2d54891fe3d39c.png" group-title="DSTV",DStv | RTP Internacionalⓧ
+http://martepro.com:2082/dtox/dtox2021/126258
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SABC 1ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4f7d50504d5b0589744fac621028d8d1.png" group-title="DSTV",DStv | SABC 1ⓧ
+http://martepro.com:2082/dtox/dtox2021/126259
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SABC 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/669893a4d031ae6ac51f56cf2c7bc33d.png" group-title="DSTV",DStv | SABC 2ⓧ
+http://martepro.com:2082/dtox/dtox2021/126260
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SABC 3ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fa5d9bed5f8f4a3b0e8580f05c2a55f0.png" group-title="DSTV",DStv | SABC 3ⓧ
+http://martepro.com:2082/dtox/dtox2021/126261
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SABC Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ec0c8fa9643ee439140aeb0d03311ca0.png" group-title="DSTV",DStv | SABC Newsⓧ
+http://martepro.com:2082/dtox/dtox2021/126262
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Sky Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1949e724bc1f4ebcce798d379b0209c2.png" group-title="DSTV",DStv | Sky Newsⓧ
+http://martepro.com:2082/dtox/dtox2021/126263
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Soundcityⓧ" tvg-logo="http://xplatinmedia.com:8080/images/585970213e598ef75a1c7bf2dee59a22.png" group-title="DSTV",DStv | Soundcityⓧ
+http://martepro.com:2082/dtox/dtox2021/126264
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Soweto TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ddf7514f4dc0941acc03460bab9c763.png" group-title="DSTV",DStv | Soweto TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126265
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Spice TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6b10ab0fbaf8376a0c7edc874c7d67ab.png" group-title="DSTV",DStv | Spice TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126266
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Star Lifeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e45ca7ae3232009e85d67713fbb75e49.png" group-title="DSTV",DStv | Star Lifeⓧ
+http://martepro.com:2082/dtox/dtox2021/126267
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Studio Universalⓧ" tvg-logo="http://xplatinmedia.com:8080/images/db65a1673aa3442c981ddcd0542f33f8.png" group-title="DSTV",DStv | Studio Universalⓧ
+http://martepro.com:2082/dtox/dtox2021/126268
+#EXTINF:-1 tvg-id="" tvg-name="DStv | SuperSport Actionⓧ" tvg-logo="http://xplatinmedia.com:8080/images/316c9c3ed45a83ee318b1f859d9b8b79.png" group-title="DSTV",DStv | SuperSport Actionⓧ
+http://martepro.com:2082/dtox/dtox2021/126269
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TBN Africaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7ecabb8395636a7450558547e2bf8d3f.png" group-title="DSTV",DStv | TBN Africaⓧ
+http://martepro.com:2082/dtox/dtox2021/126270
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Telemundoⓧ" tvg-logo="http://xplatinmedia.com:8080/images/253ef8263719554c24054c39cf9e7436.png" group-title="DSTV",DStv | Telemundoⓧ
+http://martepro.com:2082/dtox/dtox2021/126271
+#EXTINF:-1 tvg-id="" tvg-name="DStv | The Home Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3c254218341daf232c01351c465f5a28.png" group-title="DSTV",DStv | The Home Channelⓧ
+http://martepro.com:2082/dtox/dtox2021/126272
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TLC Entertainmentⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1f1146db861cf7485d48e9ea3ac5c762.png" group-title="DSTV",DStv | TLC Entertainmentⓧ
+http://martepro.com:2082/dtox/dtox2021/126273
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TNT Africaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/07f7facb00dd6c2c02bc09d5cfb4a55a.png" group-title="DSTV",DStv | TNT Africaⓧ
+http://martepro.com:2082/dtox/dtox2021/126274
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TRACE Africaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5d2c2cce8ccd122267dd19aba7062a9e.png" group-title="DSTV",DStv | TRACE Africaⓧ
+http://martepro.com:2082/dtox/dtox2021/126275
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TRACE Gospelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c7ffb6f4addf831abf679efeb1f72d74.png" group-title="DSTV",DStv | TRACE Gospelⓧ
+http://martepro.com:2082/dtox/dtox2021/126276
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TRACE Mizkiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/39efdfdbeb8c7108c2eec2743643c335.png" group-title="DSTV",DStv | TRACE Mizkiⓧ
+http://martepro.com:2082/dtox/dtox2021/126277
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TRACE Urbanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1aa7df9ead118d3e6a23818fdc7fadc6.png" group-title="DSTV",DStv | TRACE Urbanⓧ
+http://martepro.com:2082/dtox/dtox2021/126278
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Travel Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/00df1b4ea36419f328fc77da45e717b5.png" group-title="DSTV",DStv | Travel Channelⓧ
+http://martepro.com:2082/dtox/dtox2021/126279
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Tshwane TVⓧ." tvg-logo="http://xplatinmedia.com:8080/images/33e058c111ac4c1c1ee035f16fbca571.png" group-title="DSTV",DStv | Tshwane TVⓧ.
+http://martepro.com:2082/dtox/dtox2021/126280
+#EXTINF:-1 tvg-id="" tvg-name="DStv | TV5 Monde Afriqueⓧ." tvg-logo="http://xplatinmedia.com:8080/images/a35849c79d77261d0ac03f7bbfb32e37.png" group-title="DSTV",DStv | TV5 Monde Afriqueⓧ.
+http://martepro.com:2082/dtox/dtox2021/126281
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Universal TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/85eaade1c6abd32511d378036d81d722.png" group-title="DSTV",DStv | Universal TVⓧ
+http://martepro.com:2082/dtox/dtox2021/126282
+#EXTINF:-1 tvg-id="" tvg-name="DStv | VIAⓧ." tvg-logo="http://xplatinmedia.com:8080/images/d8aeb611bfad335dc2814cb4a3a60e65.png" group-title="DSTV",DStv | VIAⓧ.
+http://martepro.com:2082/dtox/dtox2021/126283
+#EXTINF:-1 tvg-id="" tvg-name="DStv | WildEarthⓧ" tvg-logo="http://xplatinmedia.com:8080/images/457baaff8811cf4fc5ca00a3682553c0.png" group-title="DSTV",DStv | WildEarthⓧ
+http://martepro.com:2082/dtox/dtox2021/126284
+#EXTINF:-1 tvg-id="" tvg-name="DStv | WWE Channelⓧ." tvg-logo="http://xplatinmedia.com:8080/images/696488277067ba83b13f6e8b05f4778f.png" group-title="DSTV",DStv | WWE Channelⓧ.
+http://martepro.com:2082/dtox/dtox2021/126285
+#EXTINF:-1 tvg-id="" tvg-name="DStv | Zee Worldⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c296fb5081239b3d8fed0293763342f0.png" group-title="DSTV",DStv | Zee Worldⓧ
+http://martepro.com:2082/dtox/dtox2021/126286
 #EXTINF:-1 tvg-id="" tvg-name="UKR |  5 Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/5c627d7f4f6572ba0a219a9e7ea912cd.png" group-title="ukrania",UKR |  5 Kanal
 http://martepro.com:2082/dtox/dtox2021/111567
 #EXTINF:-1 tvg-id="" tvg-name="UKR |  5 канал" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1da6b5cbb4f2c6d7c050f916332f41f3.png" group-title="ukrania",UKR |  5 канал
