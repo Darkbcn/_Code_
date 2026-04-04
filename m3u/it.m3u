@@ -913,10 +913,6 @@ http://martepro.com:2082/dtox/dtox2021/123346
 http://martepro.com:2082/dtox/dtox2021/123347
 #EXTINF:-1 tvg-id="" tvg-name="Unifé HD" tvg-logo="" group-title="Portugal",Unifé HD
 http://martepro.com:2082/dtox/dtox2021/123348
-#EXTINF:-1 tvg-id="" tvg-name="Canal Vaticano V.O." tvg-logo="" group-title="Portugal",Canal Vaticano V.O.
-http://martepro.com:2082/dtox/dtox2021/123349
-#EXTINF:-1 tvg-id="" tvg-name="Canal Vaticano V.P" tvg-logo="" group-title="Portugal",Canal Vaticano V.P
-http://martepro.com:2082/dtox/dtox2021/123350
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana -2" tvg-logo="" group-title="Portugal",TV Mana -2
 http://martepro.com:2082/dtox/dtox2021/123351
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana -1" tvg-logo="" group-title="Portugal",TV Mana -1
@@ -4269,7 +4265,7 @@ http://martepro.com:2082/dtox/dtox2021/99575
 http://martepro.com:2082/dtox/dtox2021/99576
 #EXTINF:-1 tvg-id="" tvg-name="TOROS sd" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="ESPANHALOCAL",TOROS sd
 http://martepro.com:2082/dtox/dtox2021/99577
-#EXTINF:-1 tvg-id="" tvg-name="|ES| |ES| LaLiga Smartbank TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| |ES| LaLiga Smartbank TV
+#EXTINF:-1 tvg-id="" tvg-name="|ES| |ES| LaLiga Hypermotion" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| |ES| LaLiga Hypermotion
 http://martepro.com:2082/dtox/dtox2021/100466
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LALIGA TV HYPERMOTION TV HD
 http://martepro.com:2082/dtox/dtox2021/100467
@@ -4635,8 +4631,6 @@ http://martepro.com:2082/dtox/dtox2021/124153
 http://martepro.com:2082/dtox/dtox2021/124154
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="ESPANHALOCAL",HBO Signature
 http://martepro.com:2082/dtox/dtox2021/124155
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="ESPANHALOCAL",HBO Plus
-http://martepro.com:2082/dtox/dtox2021/124156
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="ESPANHALOCAL",HBO Family
 http://martepro.com:2082/dtox/dtox2021/124157
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="ESPANHALOCAL",H2
@@ -4683,6 +4677,64 @@ http://martepro.com:2082/dtox/dtox2021/125314
 http://martepro.com:2082/dtox/dtox2021/125315
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOTO GP" tvg-logo="" group-title="ESPANHALOCAL",DAZN MOTO GP
 http://martepro.com:2082/dtox/dtox2021/126143
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+2ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+2ⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126386
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+2ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126387
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+2ⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+2ⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126388
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/2f845b0021b002caef4cdf5dd462d743.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126389
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126390
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ Full HD HEVC" tvg-logo="http://xplatinmedia.com:8080/images/2f845b0021b002caef4cdf5dd462d743.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ Full HD HEVC
+http://martepro.com:2082/dtox/dtox2021/126391
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/2f845b0021b002caef4cdf5dd462d743.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126392
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126393
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/2f845b0021b002caef4cdf5dd462d743.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126394
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Plus+ⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/1e47f0a25cba2fc9edae1080384af3a4.png" group-title="ESPANHALOCAL",ES | Movistar Plus+ⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126395
+#EXTINF:-1 tvg-id="" tvg-name="ES | Selektⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/c40c6a8dee60463c2cb6bf8579b7bd53.png" group-title="ESPANHALOCAL",ES | Selektⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126396
+#EXTINF:-1 tvg-id="" tvg-name="ES | Selektⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c40c6a8dee60463c2cb6bf8579b7bd53.png" group-title="ESPANHALOCAL",ES | Selektⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126397
+#EXTINF:-1 tvg-id="" tvg-name="ES | Selektⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/c40c6a8dee60463c2cb6bf8579b7bd53.png" group-title="ESPANHALOCAL",ES | Selektⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126398
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sky Showtime 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/896397bb9679ef542bc6080b3ab188a0.png" group-title="ESPANHALOCAL",ES | Sky Showtime 1ⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126399
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sky Showtime 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/896397bb9679ef542bc6080b3ab188a0.png" group-title="ESPANHALOCAL",ES | Sky Showtime 1ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126400
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sky Showtime 1ⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/896397bb9679ef542bc6080b3ab188a0.png" group-title="ESPANHALOCAL",ES | Sky Showtime 1ⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126401
+#EXTINF:-1 tvg-id="" tvg-name="ES | SkyShowtime 1 ⓧ FHD" tvg-logo="http://109.104.153.221/tv-logos/countries/spain/SkyShowtime.png" group-title="ESPANHALOCAL",ES | SkyShowtime 1 ⓧ FHD
+http://martepro.com:2082/dtox/dtox2021/126402
+#EXTINF:-1 tvg-id="" tvg-name="ES | SkyShowtime 1 ⓧ HD" tvg-logo="http://109.104.153.221/tv-logos/countries/spain/SkyShowtime.png" group-title="ESPANHALOCAL",ES | SkyShowtime 1 ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126403
+#EXTINF:-1 tvg-id="" tvg-name="ES | SkyShowtime 1 ⓧ SD" tvg-logo="http://109.104.153.221/tv-logos/countries/spain/SkyShowtime.png" group-title="ESPANHALOCAL",ES | SkyShowtime 1 ⓧ SD
+http://martepro.com:2082/dtox/dtox2021/126404
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 10ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 10ⓧ
+http://martepro.com:2082/dtox/dtox2021/126405
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 1ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 1ⓧ
+http://martepro.com:2082/dtox/dtox2021/126406
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 2ⓧ
+http://martepro.com:2082/dtox/dtox2021/126407
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 3ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 3ⓧ
+http://martepro.com:2082/dtox/dtox2021/126408
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 4ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 4ⓧ
+http://martepro.com:2082/dtox/dtox2021/126409
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 5ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 5ⓧ
+http://martepro.com:2082/dtox/dtox2021/126410
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 6ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 6ⓧ
+http://martepro.com:2082/dtox/dtox2021/126411
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 7ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 7ⓧ
+http://martepro.com:2082/dtox/dtox2021/126412
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 8ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 8ⓧ
+http://martepro.com:2082/dtox/dtox2021/126413
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 9ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="ESPANHALOCAL",ES | Taquilla 9ⓧ
+http://martepro.com:2082/dtox/dtox2021/126414
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 FHD
 http://martepro.com:2082/dtox/dtox2021/92107
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="https://i.postimg.cc/gkP8tRRg/TF1-logo.png" group-title="France",FR: TF1 HD
@@ -5655,6 +5707,26 @@ http://martepro.com:2082/dtox/dtox2021/123551
 http://martepro.com:2082/dtox/dtox2021/123552
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 " tvg-logo="" group-title="France",DAZN LIGUE 1 
 http://martepro.com:2082/dtox/dtox2021/125177
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 1ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126375
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 2ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126376
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 3ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 3ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126377
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 4ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 4ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126378
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 5ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 5ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126379
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 6ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 6ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126380
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 7ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 7ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126381
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 8ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 8ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126382
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 9ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 9ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126383
+#EXTINF:-1 tvg-id="" tvg-name="FR |  LIGUE1 PLUS 10ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6bf27fffcd36ae41874bea2b4e0ae4f8.png" group-title="France",FR |  LIGUE1 PLUS 10ⓧ HD
+http://martepro.com:2082/dtox/dtox2021/126384
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="https://cm-inter.xyz/Logos/germany/DASERSTE(ARD).png" group-title="alemanhalocal2",DE: DAS ERSTE FHD
 http://martepro.com:2082/dtox/dtox2021/87934
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="https://cm-inter.xyz/Logos/germany/DASERSTE(ARD).png" group-title="alemanhalocal2",DE: DAS ERSTE HD
@@ -6823,8 +6895,6 @@ http://martepro.com:2082/dtox/dtox2021/94047
 http://martepro.com:2082/dtox/dtox2021/94048
 #EXTINF:-1 tvg-id="" tvg-name="NL:ZIGGO SPORT H265" tvg-logo="" group-title="Holanda",NL:ZIGGO SPORT H265
 http://martepro.com:2082/dtox/dtox2021/94049
-#EXTINF:-1 tvg-id="" tvg-name="NL:VH1 CLASSIC H265" tvg-logo="" group-title="Holanda",NL:VH1 CLASSIC H265
-http://martepro.com:2082/dtox/dtox2021/94050
 #EXTINF:-1 tvg-id="" tvg-name="NL:TV WEST H265" tvg-logo="" group-title="Holanda",NL:TV WEST H265
 http://martepro.com:2082/dtox/dtox2021/94051
 #EXTINF:-1 tvg-id="" tvg-name="NL:TV RIJNMOND H265" tvg-logo="" group-title="Holanda",NL:TV RIJNMOND H265
@@ -7333,8 +7403,6 @@ http://martepro.com:2082/dtox/dtox2021/95352
 http://martepro.com:2082/dtox/dtox2021/95358
 #EXTINF:-1 tvg-id="" tvg-name="IT | VH1 FHD" tvg-logo="" group-title="ITALIALOCAL",IT | VH1 FHD
 http://martepro.com:2082/dtox/dtox2021/95360
-#EXTINF:-1 tvg-id="" tvg-name="IT | 51 Radio" tvg-logo="" group-title="ITALIALOCAL",IT | 51 Radio
-http://martepro.com:2082/dtox/dtox2021/95362
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ Bambini ✦●✦" tvg-logo="" group-title="ITALIALOCAL",✦●✦ Bambini ✦●✦
 http://martepro.com:2082/dtox/dtox2021/95366
 #EXTINF:-1 tvg-id="" tvg-name="IT | RAI Yoyo FHD" tvg-logo="" group-title="ITALIALOCAL",IT | RAI Yoyo FHD
@@ -7573,8 +7641,6 @@ http://martepro.com:2082/dtox/dtox2021/118448
 http://martepro.com:2082/dtox/dtox2021/118449
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET5" tvg-logo="" group-title="ITALIALOCAL",MEDIASET5
 http://martepro.com:2082/dtox/dtox2021/118450
-#EXTINF:-1 tvg-id="" tvg-name="TopCine" tvg-logo="" group-title="ITALIALOCAL",TopCine
-http://martepro.com:2082/dtox/dtox2021/118451
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="ITALIALOCAL",Warner
 http://martepro.com:2082/dtox/dtox2021/118452
 #EXTINF:-1 tvg-id="" tvg-name="RAI ESCOLA" tvg-logo="" group-title="ITALIALOCAL",RAI ESCOLA
@@ -8077,6 +8143,8 @@ http://martepro.com:2082/dtox/dtox2021/123321
 http://martepro.com:2082/dtox/dtox2021/125300
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD" tvg-logo="" group-title="UKLOCAL",TNT SPORTS 6 HD
 http://martepro.com:2082/dtox/dtox2021/125301
+#EXTINF:-1 tvg-id="" tvg-name="RALLY TV UK" tvg-logo="" group-title="UKLOCAL",RALLY TV UK
+http://martepro.com:2082/dtox/dtox2021/126385
 #EXTINF:-1 tvg-id="" tvg-name="•●★-- ABC --★●•" tvg-logo="http://tvgolatino.com:8080/images/6aa73319684d8a16948bfd1389160d64.png" group-title="Usa",•●★-- ABC --★●•
 http://martepro.com:2082/dtox/dtox2021/87130
 #EXTINF:-1 tvg-id="" tvg-name="USA: ABC News" tvg-logo="http://tvgolatino.com:8080/images/94591eb4868b546b12484a4449f082b7.png" group-title="Usa",USA: ABC News
@@ -11531,8 +11599,6 @@ http://martepro.com:2082/dtox/dtox2021/95656
 http://martepro.com:2082/dtox/dtox2021/95657
 #EXTINF:-1 tvg-id="" tvg-name="Boxing PPV HD" tvg-logo="https://i.imgur.com/mGWqarI.png" group-title="SUECIALOCAL",Boxing PPV HD
 http://martepro.com:2082/dtox/dtox2021/95659
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="SUECIALOCAL",LaLiga FHD
-http://martepro.com:2082/dtox/dtox2021/95660
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV FHD" tvg-logo="https://i.imgur.com/DGdzYxE.png" group-title="SUECIALOCAL",NBA TV FHD
 http://martepro.com:2082/dtox/dtox2021/95661
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://fanc.tmsimg.com/assets/s91306_ll_h3_aa.png" group-title="SUECIALOCAL",WWE Network
@@ -17043,8 +17109,6 @@ http://martepro.com:2082/dtox/dtox2021/91487
 http://martepro.com:2082/dtox/dtox2021/91488
 #EXTINF:-1 tvg-id="" tvg-name="Ca:  Cottage Life" tvg-logo="" group-title="Canada",Ca:  Cottage Life
 http://martepro.com:2082/dtox/dtox2021/91489
-#EXTINF:-1 tvg-id="" tvg-name="Ca: Casa Fr" tvg-logo="" group-title="Canada",Ca: Casa Fr
-http://martepro.com:2082/dtox/dtox2021/91490
 #EXTINF:-1 tvg-id="" tvg-name="Ca - WWE CHANNEL" tvg-logo="" group-title="Canada",Ca - WWE CHANNEL
 http://martepro.com:2082/dtox/dtox2021/91491
 #EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPERSPORT CRICKET" tvg-logo="" group-title="DSTV",DSTV: SUPERSPORT CRICKET
