@@ -857,8 +857,6 @@ http://martepro.com:2082/dtox/dtox2021/98084
 http://martepro.com:2082/dtox/dtox2021/123049
 #EXTINF:-1 tvg-id="" tvg-name="BTV EXPERIENCE multi-caméras" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c0b96871725335.Y3JvcCwxMzgwLDEwODAsMCww.png" group-title="Portugal",BTV EXPERIENCE multi-caméras
 http://martepro.com:2082/dtox/dtox2021/123131
-#EXTINF:-1 tvg-id="" tvg-name="TVI AFRICA" tvg-logo="https://www.verangola.net/va/images/cms-image-000016280.png" group-title="Portugal",TVI AFRICA
-http://martepro.com:2082/dtox/dtox2021/123132
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Kids" tvg-logo="" group-title="Portugal",Rakuten Kids
 http://martepro.com:2082/dtox/dtox2021/123286
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Doc" tvg-logo="" group-title="Portugal",Rakuten TV Doc
@@ -1103,6 +1101,8 @@ http://martepro.com:2082/dtox/dtox2021/125871
 http://martepro.com:2082/dtox/dtox2021/125872
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 18 MEO" tvg-logo="" group-title="Portugal",CANAL 18 MEO
 http://martepro.com:2082/dtox/dtox2021/125873
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO [MEO]" tvg-logo="" group-title="Portugal",NOVO TEMPO [MEO]
+http://martepro.com:2082/dtox/dtox2021/126441
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -1161,17 +1161,17 @@ http://martepro.com:2082/dtox/dtox2021/78796
 http://martepro.com:2082/dtox/dtox2021/70611
 #EXTINF:-1 tvg-id="" tvg-name="BENFICA TV 720P" tvg-logo="" group-title="Portugal Low",BENFICA TV 720P
 http://martepro.com:2082/dtox/dtox2021/70612
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 720P" tvg-logo="" group-title="Portugal Low",ELEVEN SPORTS 1 720P
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 720P" tvg-logo="" group-title="Portugal Low",DAZN 1 720P
 http://martepro.com:2082/dtox/dtox2021/70621
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 1 LOW" tvg-logo="" group-title="Portugal Low",DAZN SPORTS 1 LOW
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 LOW" tvg-logo="" group-title="Portugal Low",DAZN 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70622
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 LOW" tvg-logo="" group-title="Portugal Low",ELEVEN SPORTS 2 LOW
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 LOW" tvg-logo="" group-title="Portugal Low",DAZN 2 LOW
 http://martepro.com:2082/dtox/dtox2021/70624
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 LOW" tvg-logo="" group-title="Portugal Low",ELEVEN SPORTS 3 LOW
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 LOW" tvg-logo="" group-title="Portugal Low",DAZN 3 LOW
 http://martepro.com:2082/dtox/dtox2021/70626
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 LOW" tvg-logo="" group-title="Portugal Low",ELEVEN SPORTS 4 LOW
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 LOW" tvg-logo="" group-title="Portugal Low",DAZN 4 LOW
 http://martepro.com:2082/dtox/dtox2021/70627
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 LOW" tvg-logo="" group-title="Portugal Low",ELEVEN SPORTS 5 LOW
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 LOW" tvg-logo="" group-title="Portugal Low",DAZN 5 LOW
 http://martepro.com:2082/dtox/dtox2021/70628
 #EXTINF:-1 tvg-id="" tvg-name="SPORTING TV LOW" tvg-logo="" group-title="Portugal Low",SPORTING TV LOW
 http://martepro.com:2082/dtox/dtox2021/70663
@@ -4559,8 +4559,6 @@ http://martepro.com:2082/dtox/dtox2021/124117
 http://martepro.com:2082/dtox/dtox2021/124118
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="ESPANHALOCAL",Animal Planet
 http://martepro.com:2082/dtox/dtox2021/124119
-#EXTINF:-1 tvg-id="" tvg-name="Canale Economico" tvg-logo="" group-title="ESPANHALOCAL",Canale Economico
-http://martepro.com:2082/dtox/dtox2021/124121
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD esp" tvg-logo="" group-title="ESPANHALOCAL",Cartoon Network HD esp
 http://martepro.com:2082/dtox/dtox2021/124122
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD esp" tvg-logo="" group-title="ESPANHALOCAL",Cartoonito HD esp
@@ -13597,8 +13595,6 @@ http://martepro.com:2082/dtox/dtox2021/99686
 http://martepro.com:2082/dtox/dtox2021/99687
 #EXTINF:-1 tvg-id="" tvg-name="MX: Golf Channel Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/1280px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="MEXICO",MX: Golf Channel Latinoamerica
 http://martepro.com:2082/dtox/dtox2021/99688
-#EXTINF:-1 tvg-id="" tvg-name="MX: TVC Deportes" tvg-logo="https://i.im.ge/2022/08/05/FcwRmX.53-jpg.webp" group-title="MEXICO",MX: TVC Deportes
-http://martepro.com:2082/dtox/dtox2021/99689
 #EXTINF:-1 tvg-id="" tvg-name="MX: Sky Sports" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-vector-logo-small-2021.png" group-title="MEXICO",MX: Sky Sports
 http://martepro.com:2082/dtox/dtox2021/99690
 #EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="COLOMBIA",CO: Caracol Int
