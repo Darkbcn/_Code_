@@ -467,7 +467,7 @@ http://martepro.com:2082/dtox/dtox2021/72164
 http://martepro.com:2082/dtox/dtox2021/98169
 #EXTINF:-1 tvg-id="" tvg-name="Panda Kids FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9-300x193.png" group-title="Portugal",Panda Kids FHD
 http://martepro.com:2082/dtox/dtox2021/77546
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS sd" tvg-logo="" group-title="Portugal",PANDA BIGGS sd
+#EXTINF:-1 tvg-id="" tvg-name="VINTV sd" tvg-logo="https://vintv.pt/wp-content/uploads/2026/04/LOGO-VinTV-portugal-main.png" group-title="Portugal",VINTV sd
 http://martepro.com:2082/dtox/dtox2021/70096
 #EXTINF:-1 tvg-id="" tvg-name="Lolly Kids sd" tvg-logo="" group-title="Portugal",Lolly Kids sd
 http://martepro.com:2082/dtox/dtox2021/70225
@@ -1025,7 +1025,7 @@ http://martepro.com:2082/dtox/dtox2021/125204
 http://martepro.com:2082/dtox/dtox2021/125205
 #EXTINF:-1 tvg-id="" tvg-name="STV NOTICIAS sd" tvg-logo="" group-title="Portugal",STV NOTICIAS sd
 http://martepro.com:2082/dtox/dtox2021/125206
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS Hd" tvg-logo="" group-title="Portugal",PANDA BIGGS Hd
+#EXTINF:-1 tvg-id="" tvg-name="VINTV Hd" tvg-logo="https://vintv.pt/wp-content/uploads/2026/04/LOGO-VinTV-portugal-main.png" group-title="Portugal",VINTV Hd
 http://martepro.com:2082/dtox/dtox2021/125207
 #EXTINF:-1 tvg-id="" tvg-name="CACA e PESCA Hd" tvg-logo="" group-title="Portugal",CACA e PESCA Hd
 http://martepro.com:2082/dtox/dtox2021/125208
@@ -1063,7 +1063,7 @@ http://martepro.com:2082/dtox/dtox2021/125223
 http://martepro.com:2082/dtox/dtox2021/125224
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="Portugal",GLOBO NEWS FHD
 http://martepro.com:2082/dtox/dtox2021/125225
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS FHD" tvg-logo="" group-title="Portugal",PANDA BIGGS FHD
+#EXTINF:-1 tvg-id="" tvg-name="VINTV FHD" tvg-logo="https://vintv.pt/wp-content/uploads/2026/04/LOGO-VinTV-portugal-main.png" group-title="Portugal",VINTV FHD
 http://martepro.com:2082/dtox/dtox2021/125226
 #EXTINF:-1 tvg-id="" tvg-name="LUXE vdf" tvg-logo="" group-title="Portugal",LUXE vdf
 http://martepro.com:2082/dtox/dtox2021/125227
@@ -1103,6 +1103,12 @@ http://martepro.com:2082/dtox/dtox2021/125872
 http://martepro.com:2082/dtox/dtox2021/125873
 #EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO [MEO]" tvg-logo="" group-title="Portugal",NOVO TEMPO [MEO]
 http://martepro.com:2082/dtox/dtox2021/126441
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LIVE EVENTS 1 FHD" tvg-logo="" group-title="Portugal",CANAL LIVE EVENTS 1 FHD
+http://martepro.com:2082/dtox/dtox2021/126444
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LIVE EVENTS 1 HD" tvg-logo="" group-title="Portugal",CANAL LIVE EVENTS 1 HD
+http://martepro.com:2082/dtox/dtox2021/126445
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LIVE EVENTS 1 SD" tvg-logo="" group-title="Portugal",CANAL LIVE EVENTS 1 SD
+http://martepro.com:2082/dtox/dtox2021/126446
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -1255,7 +1261,7 @@ http://martepro.com:2082/dtox/dtox2021/70642
 http://martepro.com:2082/dtox/dtox2021/70643
 #EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA LOW" tvg-logo="" group-title="Portugal Low",CANAL PANDA LOW
 http://martepro.com:2082/dtox/dtox2021/70615
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS LOW" tvg-logo="" group-title="Portugal Low",PANDA BIGGS LOW
+#EXTINF:-1 tvg-id="" tvg-name="VINTV LOW" tvg-logo="https://vintv.pt/wp-content/uploads/2026/04/LOGO-VinTV-portugal-main.png" group-title="Portugal Low",VINTV LOW
 http://martepro.com:2082/dtox/dtox2021/70645
 #EXTINF:-1 tvg-id="" tvg-name="TLC LOW" tvg-logo="" group-title="Portugal Low",TLC LOW
 http://martepro.com:2082/dtox/dtox2021/70665
@@ -2607,7 +2613,7 @@ http://martepro.com:2082/dtox/dtox2021/96614
 http://martepro.com:2082/dtox/dtox2021/96615
 #EXTINF:-1 tvg-id="" tvg-name="XXX Brad Montana 01" tvg-logo="" group-title="Adultos",XXX Brad Montana 01
 http://martepro.com:2082/dtox/dtox2021/96616
-#EXTINF:-1 tvg-id="" tvg-name="XXX : CANAL 1" tvg-logo="" group-title="Adultos",XXX : CANAL 1
+#EXTINF:-1 tvg-id="" tvg-name="XXX : PREMIUM BRASIL" tvg-logo="" group-title="Adultos",XXX : PREMIUM BRASIL
 http://martepro.com:2082/dtox/dtox2021/96617
 #EXTINF:-1 tvg-id="" tvg-name="||XXX|| AdultIPTV.net Rough" tvg-logo="" group-title="Adultos",||XXX|| AdultIPTV.net Rough
 http://martepro.com:2082/dtox/dtox2021/96618
