@@ -1109,6 +1109,8 @@ http://martepro.com:2082/dtox/dtox2021/126444
 http://martepro.com:2082/dtox/dtox2021/126445
 #EXTINF:-1 tvg-id="" tvg-name="CANAL LIVE EVENTS 1 SD" tvg-logo="" group-title="Portugal",CANAL LIVE EVENTS 1 SD
 http://martepro.com:2082/dtox/dtox2021/126446
+#EXTINF:-1 tvg-id="" tvg-name="TVI FICÇÃO" tvg-logo="" group-title="Portugal",TVI FICÇÃO
+http://martepro.com:2082/dtox/dtox2021/126447
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 LOW" tvg-logo="" group-title="Portugal Low",RTP 1 LOW
 http://martepro.com:2082/dtox/dtox2021/70647
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 LOW" tvg-logo="" group-title="Portugal Low",RTP 2 LOW
@@ -1789,8 +1791,6 @@ http://martepro.com:2082/dtox/dtox2021/112483
 http://martepro.com:2082/dtox/dtox2021/112484
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Kidz looney" tvg-logo="https://www.cinemakidz.com/wp-content/uploads/2018/12/New-Project-1.png" group-title="EXCLUSIVOS LOONEY",Cinema Kidz looney
 http://martepro.com:2082/dtox/dtox2021/70488
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV" tvg-logo="" group-title="EXCLUSIVOS LOONEY",PLUTO-TV
-http://martepro.com:2082/dtox/dtox2021/124046
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TOP MOVIES TV" tvg-logo="" group-title="EXCLUSIVOS LOONEY",RAKUTEN TOP MOVIES TV
 http://martepro.com:2082/dtox/dtox2021/125847
 #EXTINF:-1 tvg-id="" tvg-name="WEDO TV" tvg-logo="" group-title="EXCLUSIVOS LOONEY",WEDO TV
@@ -2063,6 +2063,8 @@ http://martepro.com:2082/dtox/dtox2021/125181
 http://martepro.com:2082/dtox/dtox2021/125867
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter " tvg-logo="" group-title="EXCLUSIVOS",Harry Potter 
 http://martepro.com:2082/dtox/dtox2021/125868
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO-TV" tvg-logo="" group-title="EXCLUSIVOS",PLUTO-TV
+http://martepro.com:2082/dtox/dtox2021/124046
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV " tvg-logo="" group-title="Adultos",PLAYBOY TV 
 http://martepro.com:2082/dtox/dtox2021/70962
 #EXTINF:-1 tvg-id="" tvg-name="VENUS " tvg-logo="" group-title="Adultos",VENUS 
@@ -3391,18 +3393,8 @@ http://martepro.com:2082/dtox/dtox2021/123874
 http://martepro.com:2082/dtox/dtox2021/123881
 #EXTINF:-1 tvg-id="" tvg-name="TV Bandeirantes São Paulo " tvg-logo="" group-title="Brasil2",TV Bandeirantes São Paulo 
 http://martepro.com:2082/dtox/dtox2021/124970
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 01) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 01) |ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/125237
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 03) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 03) |ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/125239
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 08) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 08) |ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/125244
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 09) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 09) |ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/125245
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 11) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 11) |ᴴᴰ
 http://martepro.com:2082/dtox/dtox2021/125247
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil (CAM 12) |ᴴᴰ" tvg-logo="" group-title="Brasil2",Big Brother Brasil (CAM 12) |ᴴᴰ
-http://martepro.com:2082/dtox/dtox2021/125248
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",SPORTV 3 [HVEC/H265]
 http://martepro.com:2082/dtox/dtox2021/94406
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 [HVEC/H265]" tvg-logo="" group-title="BRASILHVEC",SPORTV 2 [HVEC/H265]
@@ -4263,7 +4255,7 @@ http://martepro.com:2082/dtox/dtox2021/100467
 http://martepro.com:2082/dtox/dtox2021/100469
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV M2 HD
 http://martepro.com:2082/dtox/dtox2021/100470
-#EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV M2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|ES|  LaLiga HYPERMOTION 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES|  LaLiga HYPERMOTION 2 FHD
 http://martepro.com:2082/dtox/dtox2021/100471
 #EXTINF:-1 tvg-id="" tvg-name="|ES| LaLiga Smartbank TV M3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/LaLiga_SmartBank_H_2019.svg/revision/latest/scale-to-width-down/300?cb=20220104151740" group-title="ESPANHALOCAL",|ES| LaLiga Smartbank TV M3 HD
 http://martepro.com:2082/dtox/dtox2021/100472
@@ -10799,8 +10791,6 @@ http://martepro.com:2082/dtox/dtox2021/96027
 http://martepro.com:2082/dtox/dtox2021/96028
 #EXTINF:-1 tvg-id="" tvg-name="TILE MOUSIKI" tvg-logo="" group-title="GRECIALOCAL",TILE MOUSIKI
 http://martepro.com:2082/dtox/dtox2021/96029
-#EXTINF:-1 tvg-id="" tvg-name="CANNALI MUSIC HD" tvg-logo="" group-title="GRECIALOCAL",CANNALI MUSIC HD
-http://martepro.com:2082/dtox/dtox2021/96030
 #EXTINF:-1 tvg-id="" tvg-name="BARAZA TV GREEK HITS HD" tvg-logo="" group-title="GRECIALOCAL",BARAZA TV GREEK HITS HD
 http://martepro.com:2082/dtox/dtox2021/96031
 #EXTINF:-1 tvg-id="" tvg-name="Baraza Music TV" tvg-logo="" group-title="GRECIALOCAL",Baraza Music TV
